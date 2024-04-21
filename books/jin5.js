@@ -1,0 +1,17560 @@
+const jin5 = `
+
+ 
+1
+DU TORT QUI SHAYTWAAN APPORTE INSAAN 
+ 
+Pique Ene Zenfant Quand Li Né 
+ 
+Pour l’ennemité qui Shaytwaan éna pour Insaan, li attaque Insaan, dans bans 
+premiers moments qui sa Insaan la pé vine lor la terre, c.à.d., quand li pé sorti 
+depuis ventre so maman.  
+ 
+Le prophète dire : 
+ 
+ 
+ِ
+ّ
+س
+َ
+م 
+ْ
+ن
+ِ
+م ا
+ً
+خ
+ِ
+را
+َ
+ص 
+ ُّ
+ل
+ِ
+ه
+َ
+ت
+ْ
+س
+َ
+ي
+َ
+ـف 
+ُ
+د
+َ
+لو
+ُ
+ي 
+َ
+ين
+ِ
+ح 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ُ
+ه
+ ُّ
+س
+َ
+َ
+يم 
+ َّ
+لا
+ِ
+إ 
+ٌ
+دو
+ُ
+ل
+ْ
+و
+َ
+م 
+َ
+م
+َ
+دآ 
+ِ
+ني
+َ
+ب 
+ْ
+ن
+ِ
+م ا
+َ
+م
+ ا
+َ
+ه
+ِ
+ن
+ْ
+با
+َ
+و 
+َ
+َ
+يم
+ْ
+ر
+َ
+م 
+َ
+ر
+ْ
+ـي
+َ
+غ 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+[ Pas ena aucun zenfant Aadam qui prend naissance, excepté qui Shaytwaan 
+touche li (pique li lor so deux cotés), et alors li crié et pleuré par touché qui 
+Shaytwaan fine touche li, à l’exception de Mariam et so garçon (Iisaa).] 
+(BUKHARI 3177) 
+ 
+Le prophète dire : 
+ 
+ 
+ُ
+ه
+ ُّ
+م
+ُ
+أ 
+ُ
+ه
+ُ
+د
+ِ
+ل
+َ
+ت 
+ٍ
+نا
+َ
+س
+ْ
+ن
+ِ
+إ 
+ ُّ
+ل
+ُ
+ك ا
+َ
+ه
+َ
+ـن
+ْ
+ـبا
+َ
+و 
+َ
+َ
+يم
+ْ
+ر
+َ
+م 
+ َّ
+لا
+ِ
+إ 
+ِ
+ه
+ْ
+ي
+َ
+ـن
+ْ
+ض
+ِ
+ح 
+ِ
+في 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ُ
+ه
+ُ
+ز
+ُ
+ك
+ْ
+ل
+َ
+ـي 
+[ Chaque Insaan, quand so maman donne li naissance, Shaytwaan donne li ene 
+calotte lor so deux cotés, sauf Mariam et so garçon.] 
+(MUSLIM 4807) 
+ 
+Rapporté par Abu Hurayrah : 
+ 
+ 
+ َّ
+ِ
+بي َّنلا 
+ َّ
+ن
+َ
+أ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+َ
+نا
+َ
+ك ا
+َ
+م 
+ َّ
+لا
+ِ
+إ 
+ِ
+ه
+ْ
+ي
+َ
+ـن
+ْ
+ض
+ِِ
+بح 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ُ
+ه
+ُ
+ز
+ُ
+ك
+ْ
+ل
+َ
+ـي 
+ُ
+ه
+ ُّ
+م
+ُ
+أ 
+ُ
+ه
+ُ
+د
+ِ
+ل
+َ
+ت 
+ٍ
+نا
+َ
+س
+ْ
+ن
+ِ
+إ 
+ ُّ
+ل
+ُ
+ك 
+َ
+لا
+َ
+ق
+ 
+ُ
+خ
+ُ
+ر
+ْ
+ص
+َ
+ي 
+َ
+ف
+ْ
+ي
+َ
+ك 
+ُ
+ط
+ُ
+ق
+ْ
+س
+َ
+ي 
+َ
+ين
+ِ
+ح 
+ِ
+ّ
+ِ
+بي
+ َّ
+صلا 
+َ
+لى
+ِ
+إ ا
+ْ
+و
+َ
+ر
+َ
+ـت 
+ْ
+َ
+لم
+َ
+أ ا
+َ
+ه
+ِ
+ن
+ْ
+با
+َ
+و 
+َ
+َ
+يم
+ْ
+ر
+َ
+م 
+ْ
+ن
+ِ
+م 
+[ Le prophète fine dire :  
+“Chaque Insaan, quand so maman donne li naissance, Shaytwaan donne li ene 
+calotte lor so deux cotés, sauf Mariam et so garçon. Est-ce qui zotte pas fine 
+trouvé couma quand ene zenfant sorti (depuis ventre so maman) li crié?”  
+ 
+ 
+َ
+لو
+ُ
+س
+َ
+ر 
+َ
+ʮ ى
+َ
+ل
+َ
+ـب او
+ُ
+لا
+َ
+ق  
+ِ
+ه
+ْ
+ي
+َ
+ـن
+ْ
+ض
+ِِ
+بح 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ُ
+ه
+ُ
+ز
+ُ
+ك
+ْ
+ل
+َ
+ـي 
+َ
+ين
+ِ
+ح 
+َ
+كا
+َ
+ذ
+َ
+ف 
+َ
+لا
+َ
+ق 
+ِ
+ َّ
+ɍا 
+Banla fine dire :  
+“Bien sûr, ô messager d’Allaah!”  
+
+ 
+2
+Le prophète fine dire :  
+“C’est sa même moment qui Shaytwaan tape li ene calotte lor so deux cotés.”] 
+(AHMAD 8459) 
+ 
+Le prophète dire : 
+ 
+ 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ن
+ِ
+م 
+ٌ
+ة
+َ
+غ
+ْ
+ز
+َ
+ـن 
+ُ
+ع
+َ
+ق
+َ
+ـي 
+َ
+ين
+ِ
+ح 
+ِ
+دو
+ُ
+ل
+ْ
+و
+َ
+م
+ْ
+لا 
+ُ
+حا
+َ
+ي
+ِ
+ص 
+[ Criyé d’ene nouveau-né quand li sorti (depuis ventre de so maman) c’est ene 
+piqué depuis Shaytwaan.]  
+(MUSLIM 6285) 
+ 
+Le prophète dire : 
+ 
+ 
+ِ
+ِ
+ε 
+ِ
+ه
+ْ
+ي
+َ
+ـب
+ْ
+ـن
+َ
+ج 
+ِ
+فى 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ُ
+ن
+ُ
+ع
+ْ
+ط
+َ
+ي 
+َ
+م
+َ
+دآ 
+ِ
+نى
+َ
+ب 
+ ُّ
+ل
+ُ
+ك 
+َ
+َ
+يم
+ْ
+ر
+َ
+م 
+ِ
+ن
+ْ
+ب ى
+َ
+سي
+ِ
+ع 
+َ
+ر
+ْ
+ـي
+َ
+غ 
+ُ
+د
+َ
+لو
+ُ
+ي 
+َ
+ين
+ِ
+ح 
+ِ
+ه
+ِ
+ع
+َ
+ب
+ْ
+ص
+ 
+ِ
+با
+َ
+ج
+ِ
+ْ
+لحا 
+ِ
+فى 
+َ
+ن
+َ
+ع
+َ
+ط
+َ
+ف 
+ُ
+ن
+ُ
+ع
+ْ
+ط
+َ
+ي 
+َ
+ب
+َ
+ه
+َ
+ذ 
+[ Tous zenfants Aadam, Shaytwaan pique li lor so deux cotés quand li né, excepté 
+Iisaa Ibn Maryam. Li ti pe alle pique li, mais li fine pique lor le voile.] 
+(BUKHARI 3286) 
+ 
+ 
+Faire Waswasah (Fatigue L’esprit D’ene Personne) 
+ 
+Allaah dire : (114) 
+ 
+ِ
+سا َّنلا 
+ِ
+ه
+َ
+ل
+ِ
+إ 
+ِ
+سا َّنلا 
+ِ
+ك
+ِ
+ل
+َ
+م 
+ِ
+سا َّنلا 
+ِ
+ّ
+ب
+َ
+ر
+ِ
+ب 
+ُ
+ذو
+ُ
+ع
+َ
+أ 
+ْ
+ل
+ُ
+ق 
+[ Dire : “Mo pé cherche protection avec le Rab de bans dimounes, le roi de bans 
+dimounes et le Ilaah de bans dimounes. 
+ 
+ 
+ِ
+سا َّنلا
+َ
+و 
+ِ
+ة َّن
+ِ
+ْ
+لجا 
+َ
+ن
+ِ
+م 
+ِ
+سا َّنلا 
+ِ
+رو
+ُ
+د
+ُ
+ص 
+ِ
+في 
+ُ
+س
+ِ
+و
+ْ
+س
+َ
+و
+ُ
+ـي ي
+ِ
+ذ
+ َّ
+لا 
+ِ
+سا َّن
+َ
+ْ
+لخا 
+ِ
+سا
+َ
+و
+ْ
+س
+َ
+و
+ْ
+لا 
+ِ
+ّ
+ر
+َ
+ش 
+ْ
+ن
+ِ
+م  
+Contre celui qui faire bans suggestions et li ene Khannaas (li reculé à chaque fois 
+qui faire Zikrullaah), celui qui suggère dans la poitrines de bans dimounes, parmi 
+bans Jinn et bans Insaan. »] 
+ 
+ 
+ 
+ 
+ 
+
+ 
+3
+Ibn Taymiyyah dire : 
+ 
+ 
+ِ
+ت
+َ
+ʪو
+ُ
+ب
+ْ
+ح
+َ
+م
+ْ
+ل
+ِ
+ʪ 
+ِ
+ب
+ْ
+ل
+َ
+ق
+ْ
+لا 
+ِ
+قي
+ِ
+ل
+ْ
+ع
+َ
+ـت
+َ
+و 
+ِ
+تا
+َ
+و
+َ
+ه
+ َّ
+شلا
+َ
+و 
+ِ
+تا
+َ
+ه
+ُ
+ـب
+ ُّ
+شلا 
+ِ
+ة
+َ
+ر
+ْ
+ـث
+َ
+ك 
+ِ
+ب
+َ
+س
+َ
+ِ
+بح 
+ِ
+سا
+َ
+و
+ْ
+س
+َ
+و
+ْ
+لا 
+َ
+ة
+َ
+ر
+ْ
+ـث
+َ
+ك 
+ َّ
+ن
+ِ
+إ
+َ
+ف
+ ا
+َ
+ه
+ِ
+ب
+َ
+ل
+َ
+ط 
+َ
+لىإ 
+ُ
+ب
+ْ
+ل
+َ
+ق
+ْ
+لا 
+ُ
+ف
+ِ
+ر
+َ
+ص
+ْ
+ن
+َ
+ـي 
+ِ
+تي
+ َّ
+لاا
+َ
+ه
+ِ
+ع
+ْ
+ف
+َ
+د 
+َ
+لىإ 
+ُ
+ب
+ْ
+ل
+َ
+ق
+ْ
+لا 
+ُ
+ف
+ِ
+ر
+َ
+ص
+ْ
+ن
+َ
+ـي 
+ِ
+تي
+ َّ
+لا 
+ِ
+تا
+َ
+هو
+ُ
+ر
+ْ
+ك
+َ
+م
+ْ
+لا
+َ
+و  
+[ La quantité de Waswasah li d’après la quantité de doutes et désirs (qui ene 
+dimoune ena dans li), et (aussi d’après quantité qui) so le cœur attaché avec bans 
+quitechoses qui li content qui so le cœur tourne-li vers la recherche de sa bans 
+quitechoses la, oubien bans quitechoses qui li détesté qui so le cœur tourne-li 
+vers repousse sa bans quitechoses la.] 
+(M. FATAAWAA 22/607) 
+ 
+Faire Gagne Doute Concernant Allaah 
+ 
+Le prophète dire : 
+ 
+ 
+ َّ
+ن
+ِ
+إ 
+َ
+ َّ
+ɍا 
+َ
+ق
+َ
+ل
+َ
+خ 
+ْ
+ن
+َ
+م
+َ
+ف 
+ُ
+لو
+ُ
+ق
+َ
+ـي
+َ
+ـف 
+ُ
+ َّ
+ɍا 
+ُ
+لو
+ُ
+ق
+َ
+ـي
+َ
+ـف 
+َ
+ك
+َ
+ق
+َ
+ل
+َ
+خ 
+ْ
+ن
+َ
+م 
+ُ
+لو
+ُ
+ق
+َ
+ـي
+َ
+ـف 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ِ
+هي
+ِ
+ت
+ْ
+َ
+ϩ 
+ْ
+م
+ُ
+ك
+َ
+د
+َ
+ح
+َ
+أ
+ 
+ُ
+ه
+ْ
+ن
+َ
+ع 
+ُ
+ب
+ِ
+ه
+ْ
+ذ
+ُ
+ي 
+َ
+ك
+ِ
+ل
+َ
+ذ 
+ َّ
+ن
+ِ
+إ
+َ
+ف 
+ِ
+ه
+ِ
+ل
+ُ
+س
+ُ
+ر
+َ
+و 
+ِ
+ َّ
+ɍ
+ِ
+ʪ 
+ُ
+ت
+ْ
+ن
+َ
+مآ 
+ْ
+أ
+َ
+ر
+ْ
+ق
+َ
+ـي
+ْ
+ل
+َ
+ـف 
+ْ
+م
+ُ
+ك
+ُ
+د
+َ
+ح
+َ
+أ 
+َ
+ك
+ِ
+ل
+َ
+ذ 
+َ
+د
+َ
+ج
+َ
+و ا
+َ
+ذ
+ِ
+إ
+َ
+ف  
+[ Certainement Shaytwan vine côte ene parmi zotte et li dire :  
+“Qui sanla fine créé toi?”  
+Li répondre :  
+“C’est Allaah (qui fine créé moi).”  
+Alors, Shaytwaan demande li :  
+“Bé qui sanla fine créé Allaah?” 
+... N’importe qui sanla gagne sa parmi zotte, qui li dire : “Mo fine amène Imaan 
+lor Allaah et So bans messagers.” Certainement sa pour faire sa (doute satanique 
+la) aller de li.] 
+(AHMAD 25006) 
+ 
+Le prophète dire : 
+ 
+ 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ِ
+تي
+ْ
+َ
+ϩ  
+َ
+ق
+َ
+ل
+َ
+خ 
+ْ
+ن
+َ
+م 
+َ
+لو
+ُ
+ق
+َ
+ـي 
+ َّ
+تى
+َ
+ح ا
+َ
+ذ
+َ
+ك 
+َ
+ق
+َ
+ل
+َ
+خ 
+ْ
+ن
+َ
+م ا
+َ
+ذ
+َ
+ك 
+َ
+ق
+َ
+ل
+َ
+خ 
+ْ
+ن
+َ
+م 
+ُ
+لو
+ُ
+ق
+َ
+ـي
+َ
+ـف 
+ْ
+م
+ُ
+ك
+َ
+د
+َ
+ح
+َ
+أ
+ 
+ُ
+ه
+َ
+غ
+َ
+ل
+َ
+ـب ا
+َ
+ذ
+ِ
+إ
+َ
+ف 
+َ
+ك
+ َّ
+ب
+َ
+ر 
+ِ
+ه
+َ
+ت
+ْ
+ـن
+َ
+ـي
+ْ
+ل
+َ
+و 
+ِ
+ َّ
+ɍ
+ِ
+ʪ 
+ْ
+ذ
+ِ
+ع
+َ
+ت
+ْ
+س
+َ
+ي
+ْ
+ل
+َ
+ـف  
+[ Shaytwaan vine côte ene parmi zotte et li dire :  
+“Qui sanla fine créé sa? Qui sanla fine créé sa ?”  
+Jusqu’à qui li dire :  
+
+ 
+4
+“Qui sanla fine créé to Rab?” 
+... Si quicaine arrive li sa, qui li cherche protection d’Allaah et qui li arrête (pense 
+lor sa question là). ] 
+(BUKHARI 3034) 
+ 
+Le prophète dire :  
+ 
+ 
+َ
+د
+َ
+ج
+َ
+و 
+ْ
+ن
+َ
+م
+َ
+ف 
+َ
+ َّ
+ɍا 
+َ
+ق
+َ
+ل
+َ
+خ 
+ْ
+ن
+َ
+م
+َ
+ف 
+َ
+ق
+ْ
+ل
+َ
+ْ
+لخا 
+ُ
+ َّ
+ɍا 
+َ
+ق
+َ
+ل
+َ
+خ ا
+َ
+ذ
+َ
+ه 
+َ
+لا
+َ
+ق
+ُ
+ـي 
+ َّ
+تى
+َ
+ح 
+َ
+نو
+ُ
+ل
+َ
+ءا
+َ
+س
+َ
+ت
+َ
+ـي 
+ُ
+سا َّنلا 
+ُ
+لا
+َ
+ز
+َ
+ـي 
+َ
+لا
+ 
+ِ
+ َّ
+ɍ
+ِ
+ʪ 
+ُ
+ت
+ْ
+ن
+َ
+مآ 
+ْ
+ل
+ُ
+ق
+َ
+ـي
+ْ
+ل
+َ
+ـف ا
+ً
+ئ
+ْ
+ـي
+َ
+ش 
+َ
+ك
+ِ
+ل
+َ
+ذ 
+ْ
+ن
+ِ
+م  
+[ Bans dimounes pour continué pose question jusqu’à qui zotte pour dire : 
+“Allaah fine créé la création, bé qui sanla fine créé Allaah?” 
+Celui qui fine arrivé dire sa, alors qui zotte dire : 
+“Mo fine amène Imaan dans Allaah.”] 
+(ABU DAOUD  4098) 
+ 
+Le prophète dire :  
+ 
+ 
+ٌ
+د
+َ
+ح
+َ
+أ ا
+ً
+و
+ُ
+ف
+ُ
+ك 
+ُ
+ه
+َ
+ل 
+ْ
+ن
+ُ
+ك
+َ
+ي 
+ْ
+َ
+لم
+َ
+و 
+ْ
+د
+َ
+لو
+ُ
+ي 
+ْ
+َ
+لم
+َ
+و 
+ْ
+د
+ِ
+ل
+َ
+ي 
+ْ
+َ
+لم 
+ُ
+د
+َ
+م
+ َّ
+صلا 
+ُ
+ َّ
+ɍا 
+ٌ
+د
+َ
+ح
+َ
+أ 
+ُ
+ َّ
+ɍا او
+ُ
+لو
+ُ
+ق
+َ
+ـف 
+َ
+ك
+ِ
+ل
+َ
+ذ او
+ُ
+لا
+َ
+ق ا
+َ
+ذ
+ِ
+إ
+َ
+ف 
+ 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ن
+ِ
+م 
+ْ
+ذ
+ِ
+ع
+َ
+ت
+ْ
+س
+َ
+ي
+ْ
+ل
+َ
+و 
+ً
+ʬ
+َ
+لا
+َ
+ث 
+ِ
+ه
+ِ
+را
+َ
+س
+َ
+ي 
+ْ
+ن
+َ
+ع 
+ْ
+ل
+ُ
+ف
+ْ
+ـت
+َ
+ـي
+ِ
+ل 
+ َّ
+ُ
+ثم
+ 
+[ Quand banla dire sa, alors qui zotte dire : 
+“Allaah Li Unique; Allaah Li indépendant. Li pas fine gagne zenfant et Li pas 
+zenfant personne, et pas ena narien égale a Li.” 
+Ensuite qui li crache trois fois dans so coté gauche, et li cherche protection contre 
+Shaytwaan.]        
+(ABU DAOUD 4099) 
+ 
+ 
+Faire Bans Dimounes Reste Dormi L’heure Swalaat 
+     
+Le prophète dire : 
+ 
+ 
+ٍ
+ة
+َ
+د
+ْ
+ق
+ُ
+ع 
+ َّ
+ل
+ُ
+ك 
+ُ
+ب
+ِ
+ر
+ْ
+ض
+َ
+ي 
+ٍ
+د
+َ
+ق
+ُ
+ع 
+َ
+ث
+َ
+لا
+َ
+ث 
+َ
+م
+َ
+ʭ 
+َ
+و
+ُ
+ه ا
+َ
+ذ
+ِ
+إ 
+ْ
+م
+ُ
+ك
+ِ
+د
+َ
+ح
+َ
+أ 
+ِ
+س
+ْ
+أ
+َ
+ر 
+ِ
+ة
+َ
+ي
+ِ
+فا
+َ
+ق ى
+َ
+ل
+َ
+ع 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ُ
+د
+ِ
+ق
+ْ
+ع
+َ
+ـي
+ 
+ْ
+ت
+ َّ
+ل
+َ
+ْنحا 
+َ
+أ
+ َّ
+ض
+َ
+و
+َ
+ـت 
+ْ
+ن
+ِ
+إ
+َ
+ف 
+ٌ
+ة
+َ
+د
+ْ
+ق
+ُ
+ع 
+ْ
+ت
+ َّ
+ل
+َ
+ْنحا 
+َ
+ َّ
+ɍا 
+َ
+ر
+َ
+ك
+َ
+ذ
+َ
+ف 
+َ
+ظ
+َ
+ق
+ْ
+ـي
+َ
+ـت
+ْ
+سا 
+ِ
+ن
+ِ
+إ
+َ
+ف 
+ْ
+د
+ُ
+ق
+ْ
+را
+َ
+ف 
+ٌ
+لي
+ِ
+و
+َ
+ط 
+ٌ
+ل
+ْ
+ي
+َ
+ل 
+َ
+ك
+ْ
+ي
+َ
+ل
+َ
+ع
+
+ 
+5
+ 
+َ
+ْنحا ى
+ َّ
+ل
+َ
+ص 
+ْ
+ن
+ِ
+إ
+َ
+ف 
+ٌ
+ة
+َ
+د
+ْ
+ق
+ُ
+ع 
+َ
+ب
+ِ
+ّ
+ي
+َ
+ط ا
+ً
+طي
+ِ
+ش
+َ
+ن 
+َ
+ح
+َ
+ب
+ْ
+ص
+َ
+أ
+َ
+ف 
+ٌ
+ة
+َ
+د
+ْ
+ق
+ُ
+ع 
+ْ
+ت
+ َّ
+ل  
+َ
+ثي
+ِ
+ب
+َ
+خ 
+َ
+ح
+َ
+ب
+ْ
+ص
+َ
+أ 
+ َّ
+لا
+ِ
+إ
+َ
+و 
+ِ
+س
+ْ
+ف َّـنلا
+ 
+َ
+ن
+َ
+لا
+ْ
+س
+َ
+ك 
+ِ
+س
+ْ
+ف َّـنلا 
+[ Pendant qui chacun parmi zotte dormi, Shaytwaan vine attache trois noeuds par 
+derrière so la tête. Lor chaque noeud, li dire :  
+“Ena ene longue la nuit devant toi, dormi.” 
+Si li fine réveillé et li faire Zikrullaah, ene noeud largué. Si li faire Wudu, éne 
+l’autre noeud largué. Si li faire Swalaat, éne l’autre noeud largué, et alors, li levé 
+avec l’énergie, et avec ene bon mood (en bonne humeur). Sinon, li levé avec éne 
+mauvais mood comme éne paresse.] 
+(BUKHARI 1074) 
+ 
+Rapporté par Abdullaah Ibn Mas’oud : 
+ 
+ 
+ِ
+ّ
+ِ
+بي َّنلا 
+َ
+د
+ْ
+ن
+ِ
+ع 
+َ
+ر
+ِ
+ك
+ُ
+ذ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+ِ
+ة
+َ
+لا
+ َّ
+صلا 
+َ
+لى
+ِ
+إ 
+َ
+ما
+َ
+ق ا
+َ
+م 
+َ
+ح
+َ
+ب
+ْ
+ص
+َ
+أ 
+ َّ
+تى
+َ
+ح ا
+ً
+م
+ِ
+ئ
+َ
+ʭ 
+َ
+لا
+َ
+ز ا
+َ
+م 
+َ
+لي
+ِ
+ق
+َ
+ف 
+ٌ
+ل
+ُ
+ج
+َ
+ر
+ 
+ِ
+ه
+ِ
+ن
+ُ
+ذ
+ُ
+أ 
+ِ
+في 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ل
+َ
+ʪ 
+َ
+لا
+َ
+ق
+َ
+ـف  
+[ Bans dimounes ti faire mention d’éne personne cote le prophète qui fine dormi 
+jusqu’à fine arrive le matin sans li levé pour faire Swalaat.  
+Le prophète ti dire :  
+“(Sa c’est éne personne qui) Shaytwaan fine urine dans so zoreille.”]  
+(BUKHARI 1076) 
+ 
+Abdullaah Ibn Mas’oud dire : 
+ 
+ 
+َ
+و 
+َ
+ح
+ِ
+ب
+ْ
+ص
+ُ
+ي 
+ َّ
+تى
+َ
+ح 
+َ
+ما
+َ
+ن
+َ
+ـي 
+ْ
+ن
+َ
+أ 
+ِ
+ّ
+ر
+ َّ
+شلا
+َ
+و 
+ِ
+ة
+َ
+ب
+ْ
+ـي
+َ
+ْ
+لخا 
+َ
+ن
+ِ
+م 
+ِ
+ل
+ُ
+ج
+ َّ
+رلا 
+ُ
+ب
+ْ
+س
+َ
+ح 
+ِ
+ه
+ِ
+ن
+ُ
+ذ
+ُ
+أ 
+ِ
+في 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ل
+َ
+ʪ 
+ْ
+د
+َ
+ق 
+[ Li suffit comme déception et le mal pour ene dimoune qui li dormi jusqu’à le 
+matin et qui Shaytwaan fine urine dans so zoreille.] 
+(FAT-HUL-BAARI 3/29, RAWDWAT-UL-MUHADDITHIIN 492) 
+ 
+ 
+Agace Ene Personne Dans So Swalaat 
+ 
+Le prophète dire :  
+ 
+ 
+َ
+ة
+َ
+ح
+ِ
+را
+َ
+ب
+ْ
+لا 
+ َّ
+ي
+َ
+ل
+َ
+ع 
+َ
+ت
+ َّ
+ل
+َ
+ف
+َ
+ـت 
+ِ
+ّ
+ن
+ِ
+ْ
+لجا 
+َ
+ن
+ِ
+م ا
+ً
+تي
+ِ
+ر
+ْ
+ف
+ِ
+ع 
+ َّ
+ن
+ِ
+إ 
+ً
+ة
+َ
+م
+ِ
+ل
+َ
+ك 
+ْ
+وَأ  
+ِ
+ني
+َ
+ن
+َ
+ك
+ْ
+م
+َ
+أ
+َ
+ف 
+َ
+ة
+َ
+لا
+ َّ
+صلا 
+ َّ
+ي
+َ
+ل
+َ
+ع 
+َ
+ع
+َ
+ط
+ْ
+ق
+َ
+ـي
+ِ
+ل ا
+َ
+ه
+َ
+و
+ْ
+َ
+نح
+ 
+َ
+و او
+ُ
+ح
+ِ
+ب
+ْ
+ص
+ُ
+ت 
+ َّ
+تى
+َ
+ح 
+ِ
+د
+ِ
+ج
+ْ
+س
+َ
+م
+ْ
+لا ي
+ِ
+را
+َ
+و
+َ
+س 
+ْ
+ن
+ِ
+م 
+ٍ
+ة
+َ
+ي
+ِ
+را
+َ
+س 
+َ
+لى
+ِ
+إ 
+ُ
+ه
+َ
+ط
+ِ
+ب
+ْ
+ر
+َ
+أ 
+ْ
+ن
+َ
+أ 
+ُ
+ت
+ْ
+د
+َ
+ر
+َ
+أ
+َ
+ف 
+ُ
+ه
+ْ
+ن
+ِ
+م 
+ُ
+ َّ
+ɍا او
+ُ
+ر
+ُ
+ظ
+ْ
+ن
+َ
+ـت
+
+ 
+6
+ 
+ْ
+ن
+ِ
+م 
+ٍ
+د
+َ
+ح
+َ
+ِ
+لأ ي
+ِ
+غ
+َ
+ب
+ْ
+ـن
+َ
+ـي 
+َ
+لا ا
+ً
+ك
+ْ
+ل
+ُ
+م 
+ِ
+لي 
+ْ
+ب
+َ
+ه 
+ِ
+ّ
+ب
+َ
+ر) 
+َ
+نا
+َ
+م
+ْ
+ي
+َ
+ل
+ُ
+س ي
+ِ
+خ
+َ
+أ 
+َ
+ل
+ْ
+و
+َ
+ـق 
+ُ
+ت
+ْ
+ر
+َ
+ك
+َ
+ذ
+َ
+ف 
+ْ
+م
+ُ
+ك
+ ُّ
+ل
+ُ
+ك 
+ِ
+ه
+ْ
+ي
+َ
+ل
+ِ
+إ
+ ( ي
+ِ
+د
+ْ
+ع
+َ
+ـب 
+ٌ
+ح
+ْ
+و
+َ
+ر 
+َ
+لا
+َ
+ق ا
+ً
+ئ
+ِ
+سا
+َ
+خ 
+ُ
+ه
+ َّ
+د
+َ
+ر
+َ
+ـف 
+[ Hier soir, ene Ifriit parmi bans Jinn fine vini pour interrompre mo Swalaat. 
+Allaah fine faire moi gagne le dessus lor li. Mo fine oulé attache li avec ene parmi 
+bans colonnes Masjid pour qui quand arrive le matin zotte tous guette li. Mais 
+mo fine rappelle Du’aa de mo frère Sulaymaan : “Ô mo Rab, donne moi ene 
+royauté qui personne après moi pas pour ena.”, et alors, mo fine quitte li avec 
+humiliation.] 
+(BUKHARI 441) 
+ 
+Rapporté par Abu Sa’iid : 
+ 
+ 
+ِ
+ َّ
+ɍا 
+َ
+لو
+ُ
+س
+َ
+ر 
+ َّ
+ن
+َ
+أ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ْ
+ت
+َ
+س
+َ
+ب
+َ
+ـت
+ْ
+لا
+َ
+ف 
+َ
+أ
+َ
+ر
+َ
+ق
+َ
+ـف 
+ُ
+ه
+َ
+ف
+ْ
+ل
+َ
+خ 
+َ
+و
+ُ
+ه
+َ
+و 
+ِ
+ح
+ْ
+ب
+ ُّ
+صلا 
+َ
+ة
+َ
+لا
+َ
+ص ى
+ َّ
+ل
+َ
+ص
+َ
+ف 
+َ
+ما
+َ
+ق
+ 
+ُ
+ت
+ْ
+ل
+ِ
+ز ا
+َ
+م
+َ
+ف ي
+ِ
+د
+َ
+ي
+ِ
+ب 
+ُ
+ت
+ْ
+ي
+َ
+و
+ْ
+ه
+َ
+أ
+َ
+ف 
+َ
+سي
+ِ
+ل
+ْ
+ب
+ِ
+إ
+َ
+و 
+ِ
+نيو
+ُ
+م
+ُ
+ت
+ْ
+ـي
+َ
+أ
+َ
+ر 
+ْ
+و
+َ
+ل 
+َ
+لا
+َ
+ق 
+ِ
+ه
+ِ
+ت
+َ
+لا
+َ
+ص 
+ْ
+ن
+ِ
+م 
+َ
+غ
+َ
+ر
+َ
+ـف ا
+ َّ
+م
+َ
+ل
+َ
+ـف 
+ُ
+ة
+َ
+ءا
+َ
+ر
+ِ
+ق
+ْ
+لا
+ 
+َ
+ع
+َ
+ـب
+ْ
+ص
+ِ
+إ 
+َ
+ْ
+ين
+َ
+ـب 
+ِ
+ه
+ِ
+با
+َ
+ع
+ُ
+ل 
+َ
+د
+ْ
+ر
+َ
+ـب 
+ُ
+ت
+ْ
+د
+َ
+ج
+َ
+و 
+ َّ
+تى
+َ
+ح 
+ُ
+ه
+ُ
+ق
+ُ
+ـن
+ْ
+خ
+َ
+أ ا
+َ
+هي
+ِ
+ل
+َ
+ت 
+ِ
+تي
+ َّ
+لا
+َ
+و 
+ِ
+ما
+َ
+ه
+ْ
+ـب
+ِ
+ْ
+لإا 
+ِ
+ْ
+ين
+َ
+ـتا
+َ
+ه 
+ َّ
+ي 
+[ Le messager d’Allaah fine déboute pour faire Swalaat Fajr et mo ti par derrière 
+li. Le prophète fine maillé dans so lecture. Quand li fine termine so Swalaat, li fine 
+dire :  
+“Si zotte ti trouve moi et Ibliis. Mo fine envoye mo la main et mo fine continué 
+étranglé li jusqu’à qui mo fine ressenti la fraicheur de so la bave entre mo deux 
+les doigts – le pouce et l’index.  
+ 
+ 
+ً
+طو
+ُ
+ب
+ْ
+ر
+َ
+م 
+َ
+ح
+َ
+ب
+ْ
+ص
+َ
+َ
+لأ 
+َ
+نا
+َ
+م
+ْ
+ي
+َ
+ل
+ُ
+س ي
+ِ
+خ
+َ
+أ 
+ُ
+ة
+َ
+و
+ْ
+ع
+َ
+د 
+َ
+لا
+ْ
+و
+َ
+ل
+َ
+و 
+ُ
+ب
+َ
+ع
+َ
+لا
+َ
+ت
+َ
+ـي 
+ِ
+د
+ِ
+ج
+ْ
+س
+َ
+م
+ْ
+لا ي
+ِ
+را
+َ
+و
+َ
+س 
+ْ
+ن
+ِ
+م 
+ٍ
+ة
+َ
+ي
+ِ
+را
+َ
+س
+ِ
+ب ا
+ 
+ْ
+ل
+َ
+ع
+ْ
+ف
+َ
+ـي
+ْ
+ل
+َ
+ـف 
+ٌ
+د
+َ
+ح
+َ
+أ 
+ِ
+ة
+َ
+ل
+ْ
+ـب
+ِ
+ق
+ْ
+لا 
+َ
+ْ
+ين
+َ
+ـب
+َ
+و 
+ُ
+ه
+َ
+ن
+ْ
+ـي
+َ
+ـب 
+َ
+لو
+ُ
+َ
+يح 
+َ
+لا 
+ْ
+ن
+َ
+أ 
+ْ
+م
+ُ
+ك
+ْ
+ن
+ِ
+م 
+َ
+عا
+َ
+ط
+َ
+ت
+ْ
+سا 
+ِ
+ن
+َ
+م
+َ
+ف 
+ِ
+ة
+َ
+ني
+ِ
+د
+َ
+م
+ْ
+لا 
+ُ
+نا
+َ
+ي
+ْ
+ـب
+ِ
+ص 
+ِ
+ه
+ِ
+ب 
+Si mo frère Sulaymaan pas ti faire so Du’aa, mo ti pour faire attache li jusqu’à le 
+matin avec ene parmi bans colonnes de Masjid pour qui bans zenfants de 
+Madiinah joué avec li. Celui parmi zotte qui capave pas laisse personne vine entre 
+li et so Qiblah, qui li faire sa !”] 
+(AHMAD 11354) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+7
+Rapporté par Abud-Dardaa : 
+ 
+ 
+ِ
+ َّ
+ɍا 
+ُ
+لو
+ُ
+س
+َ
+ر 
+َ
+ما
+َ
+ق 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+ِ
+ َّ
+ɍا ة
+َ
+ن
+ْ
+ع
+َ
+ل
+ِ
+ب 
+َ
+ك
+ُ
+ن
+َ
+ع
+ْ
+ل
+َ
+أ 
+َ
+لا
+َ
+ق 
+ َّ
+ُ
+ثم 
+َ
+ك
+ْ
+ن
+ِ
+م 
+ِ
+ َّ
+ɍ
+ِ
+ʪ 
+ُ
+ذو
+ُ
+ع
+َ
+أ 
+ُ
+لو
+ُ
+ق
+َ
+ـي 
+ُ
+ها
+َ
+ن
+ْ
+ع
+ِ
+م
+َ
+س
+َ
+ف
+ ا
+ً
+ئ
+ْ
+ـي
+َ
+ش 
+ُ
+ل
+َ
+وا
+َ
+ن
+َ
+ـت
+َ
+ـي 
+ُ
+ه
+ َّ
+ن
+َ
+أ
+َ
+ك 
+ُ
+ه
+َ
+د
+َ
+ي 
+َ
+ط
+َ
+س
+َ
+ب
+َ
+و 
+ً
+ʬ
+َ
+لا
+َ
+ث
+ 
+[ Le messager d’Allaah fine déboute (pour Swalaat) et nous fine entendre li pe 
+dire :  
+“Mo cherche protection avec Allaah contre toi!”  
+Ensuite, trois fois li fine dire :  
+“Mo envoye malédiction Allaah lor toi!”, et li fine envoye so la main comme si li 
+pe attrape ene quitechose.  
+ 
+ 
+ْ
+َ
+لم ا
+ً
+ئ
+ْ
+ـي
+َ
+ش 
+ِ
+ة
+َ
+لا
+ َّ
+صلا 
+ِ
+في 
+ُ
+لو
+ُ
+ق
+َ
+ـت 
+َ
+كا
+َ
+ن
+ْ
+ع
+ِ
+َ
+سم 
+ْ
+د
+َ
+ق 
+ِ
+ َّ
+ɍا 
+َ
+لو
+ُ
+س
+َ
+ر 
+َ
+ʮ ا
+َ
+ن
+ْ
+ل
+ُ
+ـق 
+ِ
+ة
+َ
+لا
+ َّ
+صلا 
+َ
+ن
+ِ
+م 
+َ
+غ
+َ
+ر
+َ
+ـف ا
+ َّ
+م
+َ
+ل
+َ
+ـف
+ 
+َ
+ك
+َ
+د
+َ
+ي 
+َ
+ت
+ْ
+ط
+َ
+س
+َ
+ب 
+َ
+كا
+َ
+ن
+ْ
+ـي
+َ
+أ
+َ
+ر
+َ
+و 
+َ
+ك
+ِ
+ل
+َ
+ذ 
+َ
+ل
+ْ
+ب
+َ
+ـق 
+ُ
+ه
+ُ
+لو
+ُ
+ق
+َ
+ـت 
+َ
+ك
+ْ
+ع
+َ
+م
+ْ
+س
+َ
+ن 
+Quand li fine termine so Swalaat, nous fine dire (li) :  
+“Ô messager d’Allaah, nous fine entendre ou dire ene quitechose dans Swalaat 
+qui auparavant jamais nous fine entendre ou dire sa, et nous fine trouve ou pe 
+envoye ou la main?”  
+ 
+ 
+ُ
+ت
+ْ
+ل
+ُ
+ق
+َ
+ـف ي
+ِ
+ه
+ْ
+ج
+َ
+و 
+ِ
+في 
+ُ
+ه
+َ
+ل
+َ
+ع
+ْ
+ج
+َ
+ي
+ِ
+ل 
+ٍ
+ر
+َ
+ʭ 
+ْ
+ن
+ِ
+م 
+ٍ
+با
+َ
+ه
+ِ
+ش
+ِ
+ب 
+َ
+ءا
+َ
+ج 
+َ
+سي
+ِ
+ل
+ْ
+ب
+ِ
+إ 
+ِ
+ َّ
+ɍا 
+ َّ
+و
+ُ
+د
+َ
+ع 
+ َّ
+ن
+ِ
+إ 
+َ
+لا
+َ
+ق  
+ِ
+ َّ
+ɍ
+ِ
+ʪ 
+ُ
+ذو
+ُ
+ع
+َ
+أ
+ 
+ َّ
+ُ
+ثم 
+ٍ
+تا
+ َّ
+ر
+َ
+م 
+َ
+ث
+َ
+لا
+َ
+ث 
+ْ
+ر
+ِ
+خ
+ْ
+أ
+َ
+ت
+ْ
+س
+َ
+ي 
+ْ
+م
+َ
+ل
+َ
+ـف 
+ِ
+ة
+ َّ
+ما
+ َّ
+تلا 
+ِ
+ َّ
+ɍا 
+ِ
+ة
+َ
+ن
+ْ
+ع
+َ
+ل
+ِ
+ب 
+َ
+ك
+ُ
+ن
+َ
+ع
+ْ
+ل
+َ
+أ 
+ُ
+ت
+ْ
+ل
+ُ
+ـق 
+ َّ
+ُ
+ثم 
+ٍ
+تا
+ َّ
+ر
+َ
+م 
+َ
+ث
+َ
+لا
+َ
+ث 
+َ
+ك
+ْ
+ن
+ِ
+م
+ 
+ِ
+ل
+ْ
+ه
+َ
+أ 
+ُ
+نا
+َ
+د
+ْ
+ل
+ِ
+و 
+ِ
+ه
+ِ
+ب 
+ُ
+ب
+َ
+ع
+ْ
+ل
+َ
+ـي ا
+ً
+ق
+َ
+ـثو
+ُ
+م 
+َ
+ح
+َ
+ب
+ْ
+ص
+َ
+َ
+لأ 
+َ
+نا
+َ
+م
+ْ
+ي
+َ
+ل
+ُ
+س ا
+َ
+ني
+ِ
+خ
+َ
+أ 
+ُ
+ة
+َ
+و
+ْ
+ع
+َ
+د 
+َ
+لا
+ْ
+و
+َ
+ل 
+ِ
+ َّ
+ɍا
+َ
+و 
+ُ
+ه
+َ
+ذ
+ْ
+خ
+َ
+أ 
+ُ
+ت
+ْ
+د
+َ
+ر
+َ
+أ 
+ 
+ِ
+ة
+َ
+ني
+ِ
+د
+َ
+م
+ْ
+لا 
+Le prophète fine dire :  
+“Certainement l’ennemi d’Allaah – Ibliis – fine vine avec ene la flamme du feu 
+pour mettre sa dans mo figure. Alors, mo fine dire trois fois : Mo cherche 
+protection avec Allaah contre toi, ensuite mo fine dire : Mo envoye malédiction 
+Allaah lor toi. Malgré sa li pas fine reculé. Ensuite mo fine oulé attrape li. Serment 
+lor Allaah, si pas ti ena Du’aa de mo frère Sulaymaan, le matin zotte ti pour 
+trouve li attaché et qui bans zenfants de bans habitants Madiinah ti pour joué 
+avec li.] 
+(MUSLIM 843) 
+ 
+ 
+
+ 
+8
+Le prophète dire : 
+ 
+ 
+ُ
+ه
+َ
+ت
+َ
+لا
+َ
+ص 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ع
+َ
+ط
+ْ
+ق
+َ
+ـي 
+َ
+لا ا
+َ
+ه
+ْ
+ـن
+ِ
+م 
+ُ
+ن
+ْ
+د
+َ
+ي
+ْ
+ل
+َ
+ـف 
+ٍ
+ة
+َ
+ر
+ْ
+ـت
+ُ
+س 
+َ
+لى
+ِ
+إ 
+ْ
+م
+ُ
+ك
+ُ
+د
+َ
+ح
+َ
+أ ى
+ َّ
+ل
+َ
+ص ا
+َ
+ذ
+ِ
+إ 
+[ Quand quicaine parmi zotte faire Swalaat vers ene Sutrah, qui li costé avec li 
+afin qui Shaytwaan pas interrompre li dans so Swalaat.] 
+(NASAI 740) 
+ 
+Le prophète dire :  
+ 
+ا
+َ
+ه
+َ
+ـن
+ْ
+ـي
+َ
+ـب
+َ
+و 
+ُ
+ه
+َ
+ن
+ْ
+ـي
+َ
+ـب 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ ُّ
+ر
+ُ
+َ
+يم لا ا
+َ
+ه
+ْ
+ـن
+ِ
+م 
+ُ
+ن
+ْ
+د
+َ
+ي
+ْ
+ل
+َ
+ـف 
+ٍ
+ة
+َ
+ر
+ْ
+ـت
+ُ
+س 
+َ
+لى
+ِ
+إ 
+ْ
+م
+ُ
+ك
+ُ
+د
+َ
+ح
+َ
+أ ى
+ َّ
+ل
+َ
+ص ا
+َ
+ذ
+ِ
+إ 
+[ Quand quicaine parmi zotte faire Swalaat a ene Sutrah, qui li costé avec li afin 
+qui Shaytwaan pas passe entre li et so Sutrah.] 
+(AL-MU’JAM-UL-KABIIR 2/139/1588) 
+ 
+Le prophète dire :  
+ 
+ 
+ْ
+و
+َ
+أ 
+ً
+ʫ
+ْ
+و
+َ
+ص 
+َ
+ع
+َ
+م
+ْ
+س
+َ
+ي 
+ َّ
+تى
+َ
+ح 
+ َّ
+ن
+َ
+ج
+ُ
+ر
+ْ
+َ
+يخ 
+َ
+لا
+َ
+ف هنا
+َ
+ج
+ِ
+ع 
+َ
+د
+ْ
+ن
+ِ
+ع 
+ُ
+ر
+ُ
+ق
+ْ
+ـن
+َ
+ـي
+َ
+ـف 
+ْ
+م
+ُ
+ك
+َ
+د
+َ
+ح
+َ
+أ ى
+ِ
+ت
+ْ
+َ
+ϩ 
+َ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ َّ
+ن
+ِ
+إ
+ ا
+ً
+يح
+ِ
+ر 
+َ
+د
+ِ
+َ
+يج  
+[ Shaytwaan vine a ene parmi zotte et li becqué entre so l’anus et so deux 
+glandes. Alors, qui li pas (casse so Swalaat et) allé jusqu’à qui li entendre ene son 
+ou li senti ene l’odeur.] 
+(BAIHAQI 2/254/3193) 
+ 
+Le prophète dire : 
+ 
+ 
+َ
+ءاــ
+َ
+ج 
+ِ
+ة
+َ
+لاــ
+ َّ
+صلا 
+ِ
+في 
+َ
+ناــ
+َ
+ك ا
+َ
+ذ
+ِ
+إ 
+ْ
+م
+ُ
+ك
+َ
+دــ
+َ
+ح
+َ
+أ 
+ َّ
+ن
+ِ
+إ 
+ِ
+هــ
+ِ
+ت
+ َّ
+با
+َ
+د
+ِ
+ب 
+ُ
+لــ
+ُ
+ج
+ َّ
+رلا 
+ُ
+ســ
+ِ
+ب
+ْ
+َ
+ϩ اــ
+َ
+م
+َ
+ك 
+ِ
+هــ
+ِ
+ب 
+َ
+س
+َ
+ب
+َ
+أــ
+َ
+ف 
+ُ
+نا
+َ
+ط
+ْ
+يــ
+ َّ
+شلا
+ 
+ْ
+نــ
+ِ
+م ا
+ً
+ئ
+ْ
+ـيــ
+َ
+ش 
+ْ
+م
+ُ
+ك
+ُ
+دــ
+َ
+ح
+َ
+أ 
+َ
+دــ
+َ
+ج
+َ
+و ا
+َ
+ذ
+ِ
+إــ
+َ
+ف 
+ِ
+ه
+ِ
+ت
+َ
+لاــ
+َ
+ص 
+ْ
+نــ
+َ
+ع 
+ُ
+هــ
+َ
+ن
+ِ
+ت
+ْ
+ف
+َ
+ـي
+ِ
+ل 
+ِ
+هــ
+ْ
+ي
+َ
+ـت
+َ
+ـي
+ْ
+ل
+َ
+أ 
+َ
+ْ
+ينــ
+َ
+ـب 
+َ
+ط
+َ
+رــ
+ْ
+ض
+َ
+أ 
+ُ
+هــ
+َ
+ل 
+َ
+ن
+َ
+كــ
+َ
+س ا
+َ
+ذ
+ِ
+إــ
+َ
+ف
+ 
+َ
+ش
+ُ
+ي 
+َ
+لا ا
+ً
+يح
+ِ
+ر 
+َ
+د
+ِ
+َ
+يج 
+ْ
+و
+َ
+أ 
+ً
+ʫ
+ْ
+و
+َ
+ص 
+َ
+ع
+َ
+م
+ْ
+س
+َ
+ي 
+ َّ
+تى
+َ
+ح 
+ْ
+ف
+ِ
+ر
+َ
+ص
+ْ
+ن
+َ
+ـي 
+َ
+لا
+َ
+ف 
+َ
+ك
+ِ
+ل
+َ
+ذ
+ 
+ِ
+هي
+ِ
+ف 
+ ُّ
+ك  
+[ Quand quicaine parmi zotte dans Swalaat, Shaytwaan vine cote li et li faire ene 
+mouvement avec li, pareille ene dimoune faire ene mouvement avec so zanimau. 
+Quand li fine tranquille envers li, Shaytwaan peté entre so buttocks, afin qui li 
+troublé li dans so Swalaat. Si quicaine parmi zotte gagne sa, qui li pas casse 
+Swalaat li allé, aussi longtemps qui li pas entendre ene son oubien qui li senti ene 
+l’odeur qui li pas douté la-dans.] 
+(AHMAD 8369) 
+ 
+
+ 
+9
+Le prophète dire : 
+ 
+ 
+ِ
+تي
+ْ
+َ
+ϩ 
+َ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ َّ
+ن
+ِ
+إ 
+ُ
+هـ
+ َّ
+ن
+َ
+أ ى
+َ
+رـ
+َ
+ـي
+َ
+ـف ا
+َ
+ه
+ ُّ
+د
+ُ
+م
+َ
+ي
+َ
+ـف 
+ِ
+ه
+ِ
+ر
+ُ
+ب
+ُ
+د 
+ْ
+ن
+ِ
+م 
+ً
+ة
+َ
+ر
+ْ
+ع
+َ
+ش 
+ُ
+ذ
+ُ
+خ
+ْ
+أ
+َ
+ي
+َ
+ـف 
+ِ
+ه
+ِ
+ت
+َ
+لا
+َ
+ص 
+ِ
+في 
+َ
+و
+ُ
+ه
+َ
+و 
+ْ
+م
+ُ
+ك
+َ
+د
+َ
+ح
+َ
+أ
+ا
+ً
+يح
+ِ
+ر 
+َ
+د
+ِ
+َ
+يج 
+ْ
+و
+َ
+أ 
+ً
+ʫ
+ْ
+و
+َ
+ص 
+َ
+ع
+َ
+م
+ْ
+س
+َ
+ي 
+ َّ
+تى
+َ
+ح 
+ َّ
+ن
+َ
+ف
+ِ
+ر
+َ
+ص
+ْ
+ن
+َ
+ـي 
+َ
+لا
+َ
+ف 
+َ
+ث
+َ
+د
+ْ
+ح
+َ
+أ 
+ْ
+د
+َ
+ق
+ 
+[ Quand quicaine parmi zotte dans Swalaat, Shaytwaan vine cote li, li attrape ene 
+poil de so anus et li risse li, et alors, li pensé qui li fine pété. Qui li pas casse 
+Swalaat li allé, aussi longtemps qui li pas entendre ene son oubien qui li senti ene 
+l’odeur.] 
+(AHMAD 11912) 
+ 
+Le prophète dire :  
+ 
+ او
+ ُّ
+دــ
+ُ
+س
+َ
+و 
+ِ
+بــ
+ِ
+كا
+َ
+ن
+َ
+م
+ْ
+لا 
+َ
+ْ
+ينــ
+َ
+ـب او
+ُ
+ذاــ
+َ
+ح
+َ
+و 
+ِ
+ةــ
+َ
+ك
+ِ
+ئ
+َ
+لا
+َ
+م
+ْ
+لا 
+ِ
+فو
+ُ
+فــ
+ُ
+ص
+ِ
+ب 
+َ
+نو
+ ُّ
+فــ
+ُ
+ص
+َ
+ت اــ
+َ
+ َّ
+نم
+ِ
+إ
+َ
+ف 
+َ
+فو
+ُ
+فــ
+ ُّ
+صلا اوــ
+ُ
+مي
+ِ
+ق
+َ
+أ
+ا 
+č
+فـــ
+َ
+ص 
+َ
+لـــ
+َ
+ص
+َ
+و 
+ْ
+نـــ
+َ
+م
+َ
+و 
+ِ
+نا
+َ
+ط
+ْ
+يـــ
+ َّ
+شل
+ِ
+ل 
+ٍ
+تاـــ
+َ
+ج
+ُ
+ر
+ُ
+ـف او
+ُ
+ر
+َ
+ذـــ
+َ
+ت 
+َ
+لا
+َ
+و 
+ْ
+م
+ُ
+ك
+ِ
+نا
+َ
+وـــ
+ْ
+خ
+ِ
+إ ي
+ِ
+دـــ
+ْ
+ي
+َ
+أ 
+ِ
+في اوـــ
+ُ
+ني
+ِ
+ل
+َ
+و 
+َ
+لـــ
+َ
+ل
+َ
+ْ
+لخا
+ 
+ُ
+ َّ
+ɍا 
+ُ
+ه
+َ
+ل
+َ
+ص
+َ
+و 
+َ
+لىا
+َ
+ع
+َ
+ـت
+َ
+و 
+َ
+ك
+َ
+را
+َ
+ب
+َ
+ـت  
+َ
+م
+َ
+و 
+ُ
+ َّ
+ɍا 
+ُ
+ه
+َ
+ع
+َ
+ط
+َ
+ق ا
+č
+ف
+َ
+ص 
+َ
+ع
+َ
+ط
+َ
+ق 
+ْ
+ن 
+[ Dresse (zotte) Swaf. Zotte simplement aligne zotte pareille couma Swaf de bans 
+anges. Mettre bans zepaules lor même ligne. Bouche bans l’espaces et pas laisse 
+fentes (entre zotte) pour Shaytwaan. Celui qui joindre ene Swaf, Allaah joindre li. 
+Celui qui coupe ene Swaf, Allaah coupe li.] 
+(AHMAD 5466) 
+ 
+Rapporté par Aaishah : 
+ 
+ 
+ِ
+ َّ
+ɍا 
+َ
+لوـ
+ُ
+س
+َ
+ر 
+ُ
+ت
+ْ
+ل
+َ
+أـ
+َ
+س 
+َ
+م
+ َّ
+لـ
+َ
+س
+َ
+و 
+ِ
+هـ
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+لـ
+َ
+ص  
+َ
+وـ
+ُ
+ه 
+َ
+لاـ
+َ
+ق
+َ
+ـف 
+ِ
+ة
+َ
+لاـ
+ َّ
+صلا 
+ِ
+في 
+ِ
+تاـ
+َ
+ف
+ِ
+ت
+ْ
+ل
+ِ
+لاا 
+ِ
+نـ
+َ
+ع  
+ُ
+هـ
+ُ
+س
+ِ
+ل
+َ
+ت
+ْ
+َ
+يخ 
+ٌ
+س
+َ
+لا
+ِ
+تـ
+ْ
+خا
+ 
+ْ
+ن
+ِ
+م 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ِ
+د
+ْ
+ب
+َ
+ع
+ْ
+لا 
+ِ
+ة
+َ
+لا
+َ
+ص  
+[ Mo fine demande le messager d’Allaah concernant vire par ici par la dans 
+Swalaat, et li fine répondre : “Sa c’est Shaytwaan qui pe coquin depuis Swalaat 
+du serviteur.”] 
+(BUKHARI 709) 
+ 
+Le prophète dire :  
+ 
+ ىــ
+َ
+ض
+َ
+ق ا
+َ
+ذ
+ِ
+إــ
+َ
+ف 
+َ
+ني
+ِ
+ذ
+ْ
+أــ
+ َّ
+تلا 
+َ
+ع
+َ
+مــ
+ْ
+س
+َ
+ي 
+َ
+لا 
+ َّ
+تىــ
+َ
+ح 
+ٌ
+طا
+َ
+رــ
+ُ
+ض 
+ُ
+هــ
+َ
+ل
+َ
+و 
+ُ
+نا
+َ
+ط
+ْ
+يــ
+ َّ
+شلا 
+َ
+رــ
+َ
+ـب
+ْ
+د
+َ
+أ 
+ِ
+ة
+َ
+لاــ
+ َّ
+صل
+ِ
+ل 
+َ
+ي
+ِ
+دوــ
+ُ
+ن ا
+َ
+ذ
+ِ
+إ
+ 
+َ
+رـ
+ِ
+ط
+ْ
+َ
+يخ 
+ َّ
+تىـ
+َ
+ح 
+َ
+لـ
+َ
+ب
+ْ
+ـق
+َ
+أ 
+َ
+بـي
+ِ
+و
+ْ
+ث
+ َّ
+ـتلا ى
+َ
+ض
+َ
+ق ا
+َ
+ذ
+ِ
+إ 
+ َّ
+تى
+َ
+ح 
+َ
+ر
+َ
+ـب
+ْ
+د
+َ
+أ 
+ِ
+ة
+َ
+لا
+ َّ
+صل
+ِ
+ʪ 
+َ
+ب
+ِ
+ّ
+و
+ُ
+ـث ا
+َ
+ذ
+ِ
+إ 
+ َّ
+تى
+َ
+ح 
+َ
+ل
+َ
+ب
+ْ
+ـق
+َ
+أ 
+َ
+ءا
+َ
+د
+ِ
+ّ
+نلا
+
+ 
+10
+ 
+ِ
+ه
+ِ
+س
+ْ
+ف
+َ
+ـن
+َ
+و 
+ِ
+ء
+ْ
+ر
+َ
+م
+ْ
+لا 
+َ
+ْ
+ين
+َ
+ـب  
+َ
+لا 
+ُ
+ل
+ُ
+ج
+ َّ
+رلا 
+ َّ
+ل
+َ
+ظ
+َ
+ي 
+ َّ
+تى
+َ
+ح 
+ُ
+ر
+ُ
+ك
+ْ
+ذ
+َ
+ي 
+ْ
+ن
+ُ
+ك
+َ
+ي 
+ْ
+َ
+لم ا
+َ
+م
+ِ
+ل ا
+َ
+ذ
+َ
+ك 
+ْ
+ر
+ُ
+ك
+ْ
+ذا ا
+َ
+ذ
+َ
+ك 
+ْ
+ر
+ُ
+ك
+ْ
+ذا 
+ُ
+لو
+ُ
+ق
+َ
+ـي
+ى
+ َّ
+ل
+َ
+ص 
+ْ
+م
+َ
+ك ي
+ِ
+ر
+ْ
+د
+َ
+ي 
+[ Quand donne Azaan pour Swalaat, Shaytwaan vire le dos allé en laissant l’air 
+sorti de li afin qui li pas entendre Azaan. Quand Azaan terminé, li retourné. 
+Quand donne Iqaamat pour Swalaat, li re-vire le dos li allé. Quand Iqaamat 
+terminé, li vini jusqu’à qui li vine entre ene personne et li-même li dire li : “Pense 
+tel quitechose!” concernant ene quitechose qui li pas ti pe pensé. Jusqu’à qui sa 
+personne la pas conné combien Swalaat li fine faire.] 
+(BUKHARI 573) 
+ 
+Rapporté par Abul Alaa :  
+ 
+ 
+ َّ
+ِ
+بيـ َّنلا ىـ
+َ
+ت
+َ
+أ 
+ِ
+صا
+َ
+ع
+ْ
+لا 
+ِ
+بي
+َ
+أ 
+َ
+ن
+ْ
+ب 
+َ
+نا
+َ
+م
+ْ
+ث
+ُ
+ع 
+ َّ
+ن
+َ
+أ 
+َ
+م
+ َّ
+لـ
+َ
+س
+َ
+و 
+ِ
+هـ
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+لـ
+َ
+ص  
+ْ
+دـ
+َ
+ق 
+َ
+نا
+َ
+ط
+ْ
+يـ
+ َّ
+شلا 
+ َّ
+ن
+ِ
+إ 
+ِ
+ َّ
+ɍا 
+َ
+لوـ
+ُ
+س
+َ
+ر 
+َ
+ʮ 
+َ
+لاـ
+َ
+ق
+َ
+ـف
+ 
+ َّ
+ي
+َ
+ل
+َ
+ع ا
+َ
+ه
+ُ
+س
+ِ
+ب
+ْ
+ل
+َ
+ـي 
+ِ
+تي
+َ
+ءا
+َ
+ر
+ِ
+ق
+َ
+و 
+ِ
+تي
+َ
+لا
+َ
+ص 
+َ
+ْ
+ين
+َ
+ـب
+َ
+و 
+ِ
+ني
+ْ
+ي
+َ
+ـب 
+َ
+لا
+َ
+ح 
+[ Uthmaan Ibn Abil Aas fine vine cote le prophète et li fine dire li :  
+“Ô messager d’Allaah, Shaytwaan fine vine comme ene barrière entre moi et mo 
+Swalaat, mo lecture. Li faire moi faire confusion.”  
+ 
+ 
+ِ
+ َّ
+ɍا 
+ُ
+لو
+ُ
+س
+َ
+ر 
+َ
+لا
+َ
+ق
+َ
+ـف 
+َ
+م
+ َّ
+لـ
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+ِ
+ َّ
+ɍ
+ِ
+ʪ 
+ْ
+ذ
+ َّ
+وـ
+َ
+ع
+َ
+ـت
+َ
+ـف 
+ُ
+ه
+َ
+تـ
+ْ
+س
+َ
+س
+ْ
+ح
+َ
+أ ا
+َ
+ذ
+ِ
+إـ
+َ
+ف 
+ٌ
+ب
+َ
+زـ
+ْ
+ـن
+َ
+خ 
+ُ
+هـ
+َ
+ل 
+ُ
+لا
+َ
+ق
+ُ
+ـي 
+ٌ
+نا
+َ
+ط
+ْ
+ي
+َ
+ش 
+َ
+كا
+َ
+ذ
+ 
+َ
+ف
+َ
+ـف 
+َ
+لا
+َ
+ق 
+ً
+ʬ
+َ
+لا
+َ
+ث 
+َ
+ك
+ِ
+را
+َ
+س
+َ
+ي ى
+َ
+ل
+َ
+ع 
+ْ
+ل
+ِ
+ف
+ْ
+تا
+َ
+و 
+ُ
+ه
+ْ
+ن
+ِ
+م
+ 
+ِ
+ّ
+ني
+َ
+ع 
+ُ
+ َّ
+ɍا 
+ُ
+ه
+َ
+ب
+َ
+ه
+ْ
+ذ
+َ
+أ
+َ
+ف 
+َ
+ك
+ِ
+ل
+َ
+ذ 
+ُ
+ت
+ْ
+ل
+َ
+ع 
+Le messager d’Allaah fine dire :  
+“Sa c’est ene Shaytwaan qui appelle Khanzab. Quand to ressenti so présence, 
+cherche protection avec Allaah contre li et crache ene ti-crachet dans to coté 
+gauche, trois fois.”  
+Mo fine faire sa, et Allaah fine faire li aller de moi.] 
+(MUSLIM 4083) 
+ 
+Le prophète dire : 
+ 
+ 
+ِ
+ْ
+بن
+َ
+ـي
+ْ
+ل
+َ
+و 
+ َّ
+ك
+ َّ
+شلا 
+ِ
+ح
+َ
+ر
+ْ
+ط
+َ
+ي
+ْ
+ل
+َ
+ـف ا
+ً
+ع
+َ
+ـب
+ْ
+ر
+َ
+أ 
+ْ
+م
+َ
+أ 
+ً
+ʬ
+َ
+لا
+َ
+ث ى
+ َّ
+ل
+َ
+ص 
+ْ
+م
+َ
+ك 
+ِ
+ر
+ْ
+د
+َ
+ي 
+ْ
+م
+َ
+ل
+َ
+ـف 
+ِ
+ه
+ِ
+ت
+َ
+لا
+َ
+ص 
+ِ
+فى 
+ْ
+م
+ُ
+ك
+ُ
+د
+َ
+ح
+َ
+أ 
+ َّ
+ك
+َ
+ش ا
+َ
+ذ
+ِ
+إ
+ 
+ُ
+د
+ُ
+ج
+ْ
+س
+َ
+ي 
+ َّ
+ُ
+ثم 
+َ
+ن
+َ
+ق
+ْ
+ـي
+َ
+ـت
+ْ
+سا ا
+َ
+م ى
+َ
+ل
+َ
+ع 
+َ
+ن
+ْ
+ع
+َ
+ف
+َ
+ش ا
+ً
+س
+ْ
+َ
+خم ى
+ َّ
+ل
+َ
+ص 
+َ
+نا
+َ
+ك 
+ْ
+ن
+ِ
+إ
+َ
+ف 
+َ
+م
+ِ
+ّ
+ل
+َ
+س
+ُ
+ي 
+ْ
+ن
+َ
+أ 
+َ
+ل
+ْ
+ب
+َ
+ـق 
+ِ
+ْ
+ين
+َ
+ـت
+َ
+د
+ْ
+ج
+َ
+س
+ 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شل
+ِ
+ل ا
+ً
+مي
+ِ
+غ
+ْ
+ر
+َ
+ـت ا
+َ
+ت
+َ
+ـنا
+َ
+ك 
+ٍ
+ع
+َ
+ب
+ْ
+ر
+َ
+لأ ا
+ً
+ما
+َ
+ْ
+تم
+ِ
+إ ى
+ َّ
+ل
+َ
+ص 
+َ
+نا
+َ
+ك 
+ْ
+ن
+ِ
+إ
+َ
+و 
+ُ
+ه
+َ
+ت
+َ
+لا
+َ
+ص 
+ُ
+ه
+َ
+ل 
+
+ 
+11
+[ Quand quicaine parmi zotte gagne doute dans so Swalaat et li pas conné 
+combien Swalaat li fine faire, trois Rakaat ou quatre, qui li abandonne le doute, 
+qui li bâtir lor cequi li fine ena la conviction. Ensuite qui li faire deux Sajdah avant 
+qui li faire Salaam. Si li fine arrivé faire cinq Rakaat, sa faire so Swalaat vine lor 
+ene nombre pair. Et si li fine faire quatre Rakaat au complet, sa deux Sajdah la 
+faire Shaytwaan en colère.] 
+(MUSLIM 1300) 
+ 
+Le prophète dire : 
+ 
+ 
+ِ
+ل
+َ
+ل
+َ
+لخا 
+ِ
+فى 
+ُ
+مو
+ُ
+ق
+َ
+ـت 
+َ
+ين
+ِ
+طا
+َ
+ي
+ َّ
+شلا 
+ َّ
+ن
+ِ
+إ
+َ
+ف 
+َ
+فو
+ُ
+ف
+ ُّ
+صلا او
+ ُّ
+صا
+َ
+ر 
+[ Serre bans Swaf, car certainement bans Shaytwaan déboute entre bans fentes.] 
+(AHMAD 12908) 
+ 
+Le prophète dire : 
+ 
+ 
+ُ
+ف
+َ
+ذ
+َ
+ْ
+لحا ا
+َ
+ه
+ َّ
+ـن
+َ
+أ
+َ
+ك 
+ِ
+ّ
+ف
+ َّ
+صلا 
+ِ
+ل
+َ
+ل
+َ
+خ 
+ْ
+ن
+ِ
+م 
+ُ
+ل
+ُ
+خ
+ْ
+د
+َ
+ي 
+َ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا ى
+َ
+ر
+َ
+لأ 
+ِ
+ّ
+نى
+ِ
+إ 
+ِ
+ه
+ِ
+د
+َ
+ي
+ِ
+ب ى
+ِ
+س
+ْ
+ف
+َ
+ـن ى
+ِ
+ذ
+ َّ
+لا
+َ
+و
+َ
+ـف 
+[ Serment lor Celui qui mo la vie dans So la main, certainement mo trouve 
+Shaytwaan rentre entre bans fentes Swaf, li comme si bans petits moutons noirs.] 
+(ABU DAOUD 667) 
+ 
+Rapporté par Muslim Ibn Abi Maryam : 
+ 
+ 
+ِ
+ة
+َ
+لا
+ َّ
+صلا 
+ِ
+في 
+َ
+ةا
+َ
+ص
+َ
+ْ
+لحا 
+ِ
+ب
+ِ
+ّ
+ل
+َ
+ق
+ُ
+ـت 
+َ
+لا 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ِ
+ة
+َ
+لا
+ َّ
+صلا 
+ِ
+في 
+َ
+ةا
+َ
+ص
+َ
+ْ
+لحا 
+ُ
+ب
+ِ
+ّ
+ل
+َ
+ق
+ُ
+ـي 
+ً
+لا
+ُ
+ج
+َ
+ر 
+َ
+ر
+َ
+م
+ُ
+ع 
+ُ
+ن
+ْ
+با ى
+َ
+أ
+َ
+ر
+ 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ن
+ِ
+م 
+ُ
+ه
+ َّ
+ن
+ِ
+إ
+َ
+ف 
+[ Ibn Umar fine trouve ene personne pe tourne ene caillou dans Swalaat.  
+Ibn Umar fine dire li :  
+« Pas tourne caillou dans Swalaat, car sa li depuis Shaytwaan ! »] 
+(MUSWANNAF IBN ABI SHAYBAH 2/178/7849) 
+ 
+ 
+Faire Ene Personne Rate Swalaat 
+ 
+Rapporté par Abu Hurayrah : 
+ 
+ 
+ِ
+ َّ
+ɍا 
+ِ
+ّ
+ِ
+بى
+َ
+ن 
+َ
+ع
+َ
+م ا
+َ
+ن
+ْ
+س
+ َّ
+ر
+َ
+عصلى ﷲ عليه وسلم  
+ ُّ
+ِ
+بى َّنلا 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+س
+ْ
+م
+ َّ
+شلا 
+ِ
+ت
+َ
+ع
+َ
+ل
+َ
+ط 
+ َّ
+تى
+َ
+ح 
+ْ
+ظ
+ِ
+ق
+ْ
+ي
+َ
+ـت
+ْ
+س
+َ
+ن 
+ْ
+م
+َ
+ل
+َ
+ـفصلى ﷲ عليه 
+وسلم  ... 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ِ
+هي
+ِ
+ف 
+َ
+ʭ
+َ
+ر
+َ
+ض
+َ
+ح 
+ٌ
+ل
+ِ
+ز
+ْ
+ن
+َ
+م ا
+َ
+ذ
+َ
+ه 
+ َّ
+ن
+ِ
+إ
+َ
+ف 
+ِ
+ه
+ِ
+ت
+َ
+ل
+ِ
+حا
+َ
+ر 
+ِ
+س
+ْ
+أ
+َ
+ر
+ِ
+ب 
+ٍ
+ل
+ُ
+ج
+َ
+ر 
+ ُّ
+ل
+ُ
+ك 
+ْ
+ذ
+ُ
+خ
+ْ
+أ
+َ
+ي
+ِ
+ل
+ 
+
+ 
+12
+[ Nous fine arrête lor chemin pour reposer dans dernière partie la nuit, ensemble 
+avec le prophète d’Allaah et nous sommeil pas fine cassé jusqu’à qui soleil fine 
+levé.  
+Le prophète fine dire :  
+“Qui chaque personne attrape la tête de so monture (et bougez depuis ici), car sa 
+c’est ene place cote Shaytwaan fine présent avec nous!” 
+ 
+ ى
+ َّ
+ل
+َ
+ص
+َ
+ف 
+ُ
+ة
+َ
+لا
+ َّ
+صلا 
+ِ
+ت
+َ
+مي
+ِ
+ق
+ُ
+أ 
+ َّ
+ُ
+ثم ... 
+ِ
+ْ
+ين
+َ
+ـت
+َ
+د
+ْ
+ج
+َ
+س 
+َ
+د
+َ
+ج
+َ
+س 
+ َّ
+ُ
+ثم 
+َ
+أ
+ َّ
+ض
+َ
+و
+َ
+ـت
+َ
+ـف 
+ِ
+ءا
+َ
+م
+ْ
+ل
+ِ
+ʪ ا
+َ
+ع
+َ
+د 
+ َّ
+ُ
+ثم ا
+َ
+ن
+ْ
+ل
+َ
+ع
+َ
+ف
+َ
+ـف
+ 
+َ
+ةا
+َ
+د
+َ
+غ
+ْ
+لا 
+Nous fine faire (cequi le prophète fine ordonne nous). Ensuite le prophète fine 
+demande de l’eau et li fine faire Wudu. Ensuite li fine faire deux Rakaat. Ensuite 
+fine donne Iqaamah pour Swalaat et le prophète fine faire Swalaat Fajr.] 
+(MUSLIM 1593) 
+ 
+D’après ene l’autre Riwaayah, le prophète ti dire:  
+ 
+ او
+ُ
+ل
+ َّ
+و
+َ
+َ
+تح 
+ُ
+ة
+َ
+ل
+ْ
+ف
+َ
+غ
+ْ
+لا 
+ِ
+هي
+ِ
+ف 
+ْ
+م
+ُ
+ك
+ْ
+ت
+َ
+ـبا
+َ
+ص
+َ
+أ ى
+ِ
+ذ
+ َّ
+لا 
+ُ
+م
+ُ
+ك
+ِ
+نا
+َ
+ك
+َ
+م 
+ْ
+ن
+َ
+ع 
+[ Déplacez depuis sa place la cote l’inattention fine touche zotte.] 
+(ABU DAOUD 436) 
+ 
+Le prophète dire : 
+ 
+ 
+ْ
+ل
+َ
+ز
+َ
+ـي 
+ْ
+م
+َ
+ل
+َ
+ـف 
+ُ
+ه
+َ
+ع
+َ
+ج
+ْ
+ض
+َ
+أ
+َ
+ف ي
+ِ
+ّ
+ل
+َ
+ص
+ُ
+ي 
+ٌ
+م
+ِ
+ئا
+َ
+ق 
+َ
+و
+ُ
+ه
+َ
+و 
+ً
+لا
+َ
+لا
+ِ
+ب ى
+َ
+ت
+َ
+أ 
+َ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ َّ
+ن
+ِ
+إ 
+ُ
+أ
+ َّ
+د
+َ
+ه
+ُ
+ـي ا
+َ
+م
+َ
+ك 
+ُ
+ه
+ُ
+ئ
+ِ
+ّ
+د
+َ
+ه
+ُ
+ـي
+ 
+َ
+م
+َ
+ʭ 
+ َّ
+تى
+َ
+ح 
+ ُّ
+ِ
+بي
+ َّ
+صلا 
+[ Shaytwaan fine vine cote Bilaal pendant qui li ti déboute, li ti pe faire Swalaat 
+(pour qui li lève les autres pour Swalaat Fajr). Shaytwaan fine faire li allonger et li 
+fine commerce tranquillise li, pareille couma tranquillise ene bébé, jusqu’à qui li 
+fine dormi.] 
+(MUWATTWA’ 26) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+13
+Faire Ene Personne Rate So Bans Azkaar 
+ 
+Rapporté par Abdullaah Ibn Amr :  
+ 
+ 
+ِ
+ّ
+ِ
+بى َّنلا 
+ِ
+ن
+َ
+عصلى ﷲ عليه وسلم  
+ِ
+نا
+َ
+ت
+َ
+ل
+ْ
+ص
+َ
+خ 
+َ
+لا
+َ
+ق 
+ِ
+نا
+َ
+ت
+ َّ
+ل
+َ
+خ 
+ْ
+وَأ  
+َ
+ة َّن
+َ
+ْ
+لجا 
+َ
+ل
+َ
+خ
+َ
+د 
+ َّ
+لا
+ِ
+إ 
+ٌ
+م
+ِ
+ل
+ْ
+س
+ُ
+م 
+ٌ
+د
+ْ
+ب
+َ
+ع ا
+َ
+م
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ظ
+ِ
+فا
+َ
+ُ
+يح 
+َ
+لا
+ 
+ٌ
+لي
+ِ
+ل
+َ
+ق ا
+َ
+م
+ِ
+ِ
+đ 
+ُ
+ل
+َ
+م
+ْ
+ع
+َ
+ـي 
+ْ
+ن
+َ
+م
+َ
+و 
+ٌ
+ير
+ِ
+س
+َ
+ي ا
+َ
+ُ
+هم 
+[ Le prophète fine dire : 
+“Ena deux actions qui pas ena aucun esclave musulman qui pour préserve sa 
+excepté qui li pour rentre dans Jannat. C’est deux actions faciles, mais bans qui 
+mettre sa en pratique zotte tigit. 
+ 
+ 
+ٌ
+ة
+َ
+ئا
+ِ
+م
+َ
+و 
+َ
+نو
+ُ
+س
+ْ
+َ
+خم 
+َ
+ك
+ِ
+ل
+َ
+ذ
+َ
+ف ا
+ً
+ر
+ْ
+ش
+َ
+ع 
+ُ
+ِ
+ّ
+بر
+َ
+ك
+ُ
+ي
+َ
+و ا
+ً
+ر
+ْ
+ش
+َ
+ع 
+ُ
+د
+َ
+م
+ْ
+َ
+يح
+َ
+و ا
+ً
+ر
+ْ
+ش
+َ
+ع 
+ٍ
+ة
+َ
+لا
+َ
+ص 
+ِ
+ّ
+ل
+ُ
+ك 
+ِ
+ر
+ُ
+ب
+ُ
+د 
+ِ
+فى 
+ُ
+ح
+ِ
+ّ
+ب
+َ
+س
+ُ
+ي
+ 
+ِ
+نا
+َ
+زي
+ِ
+م
+ْ
+لا 
+ِ
+فى 
+ٍ
+ة
+َ
+ئا
+ِ
+م
+ُ
+س
+ْ
+َ
+خم
+َ
+و 
+ٌ
+ف
+ْ
+ل
+َ
+أ
+َ
+و 
+ِ
+نا
+َ
+س
+ِ
+ّ
+لل
+ِ
+ʪ 
+Après chaque Swalaat, faire 10 fois Tasbiih, 10 fois Tahmiid et 10 fois Takbiir. 
+C’est (3×10×5 fois Swalaat par jour) 150 lor la langue et 1500 lor balance.  
+ 
+ 
+ً
+ʬ
+َ
+لا
+َ
+ث 
+ُ
+ح
+ِ
+ّ
+ب
+َ
+س
+ُ
+ي
+َ
+و 
+َ
+ين
+ِ
+ث
+َ
+لا
+َ
+ث
+َ
+و 
+ً
+ʬ
+َ
+لا
+َ
+ث 
+ُ
+د
+َ
+م
+ْ
+َ
+يح
+َ
+و 
+ُ
+ه
+َ
+ع
+َ
+ج
+ْ
+ض
+َ
+م 
+َ
+ذ
+َ
+خ
+َ
+أ ا
+َ
+ذ
+ِ
+إ 
+َ
+ين
+ِ
+ث
+َ
+لا
+َ
+ث
+َ
+و ا
+ً
+ع
+َ
+ـب
+ْ
+ر
+َ
+أ 
+ُ
+ِ
+ّ
+بر
+َ
+ك
+ُ
+ي
+َ
+و
+ 
+َ
+ين
+ِ
+ث
+َ
+لا
+َ
+ث
+َ
+و 
+ 
+ِ
+نا
+َ
+زي
+ِ
+م
+ْ
+لا 
+ِ
+فى 
+ٌ
+ف
+ْ
+ل
+َ
+أ
+َ
+و 
+ِ
+نا
+َ
+س
+ِ
+ّ
+لل
+ِ
+ʪ 
+ٌ
+ة
+َ
+ئا
+ِ
+م 
+َ
+ك
+ِ
+ل
+َ
+ذ
+َ
+ف 
+Quand li monte lor so lilit, li faire 34 fois Takbiir, 33 fois Tahmiid et 33 fois 
+Tasbiih. C’est 100 lor la langue et 1000 lor balance.” 
+ 
+ 
+ِ
+ َّ
+ɍا 
+َ
+لو
+ُ
+س
+َ
+ر 
+ُ
+ت
+ْ
+ي
+َ
+أ
+َ
+ر 
+ْ
+د
+َ
+ق
+َ
+ل
+َ
+ـفصلى ﷲ عليه وسلم  
+ِ
+ه
+ِ
+د
+َ
+ي
+ِ
+ب ا
+َ
+ه
+ُ
+د
+ِ
+ق
+ْ
+ع
+َ
+ـي 
+Mo fine trouve le prophète compte sa avec so la main. 
+ 
+ 
+ْ
+م
+ُ
+ك
+َ
+د
+َ
+ح
+َ
+أ ى
+ِ
+ت
+ْ
+َ
+ϩ 
+َ
+لا
+َ
+ق 
+ٌ
+لي
+ِ
+ل
+َ
+ق ا
+َ
+م
+ِ
+ِ
+đ 
+ُ
+ل
+َ
+م
+ْ
+ع
+َ
+ـي 
+ْ
+ن
+َ
+م
+َ
+و 
+ٌ
+ير
+ِ
+س
+َ
+ي ا
+َ
+ُ
+هم 
+َ
+ف
+ْ
+ي
+َ
+ك 
+ِ
+ َّ
+ɍا 
+َ
+لو
+ُ
+س
+َ
+ر 
+َ
+ʮ او
+ُ
+لا
+َ
+ق-  
+ِ
+نى
+ْ
+ع
+َ
+ـي
+ 
+َ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا-  
+َ
+ـي 
+ْ
+ن
+َ
+أ 
+َ
+ل
+ْ
+ب
+َ
+ـق 
+ُ
+ه
+ُ
+م
+ِ
+ّ
+و
+َ
+ـن
+ُ
+ـي
+َ
+ـف 
+ِ
+ه
+ِ
+ما
+َ
+ن
+َ
+م 
+ِ
+فى 
+َ
+ل
+ْ
+ب
+َ
+ـق 
+ً
+ة
+َ
+جا
+َ
+ح 
+ُ
+ه
+ُ
+ر
+ِ
+ّ
+ك
+َ
+ذ
+ُ
+ي
+َ
+ـف 
+ِ
+ه
+ِ
+ت
+َ
+لا
+َ
+ص 
+ِ
+فى 
+ِ
+هي
+ِ
+ت
+ْ
+َ
+ϩ
+َ
+و 
+ُ
+ه
+َ
+لو
+ُ
+ق
+ا
+َ
+َ
+لهو
+ُ
+ق
+َ
+ـي 
+ْ
+ن
+َ
+أ 
+Banla fine dire : 
+“Ô messager d’Allaah, comment c’est deux actions faciles, mais bans qui mettre 
+sa en pratique zotte tigit?” 
+Le prophète fine dire : 
+
+ 
+14
+“Shaytwaan vine cote ene parmi zotte quand li pe alle dormi et li faire li gagne 
+sommeil avant qui li dire sa. Shaytwaan vine dans so Swalaat et li faire li rappelle 
+so nécessité avant qui li dire sa!”] 
+(ABU DAOUD 5067) 
+ 
+ 
+Faire Bans Dimounes Faire Mauvais Rêve 
+ 
+Le prophète dire :  
+ 
+ 
+ِ
+ َّ
+ɍا 
+َ
+ن
+ِ
+م ى
+َ
+ر
+ْ
+ش
+ُ
+ب 
+ُ
+ة
+َ
+ِ
+لحا
+ َّ
+صلا 
+َ
+ʮ
+ْ
+ؤ
+ ُّ
+رلا
+َ
+ف 
+ٌ
+ة
+َ
+ث
+َ
+لا
+َ
+ث 
+َ
+ʮ
+ْ
+ؤ
+ ُّ
+رلا
+ 
+ َّ
+ل
+َ
+ج
+َ
+و 
+ َّ
+ز
+َ
+ع  
+َ
+ʮ
+ْ
+ؤ
+ ُّ
+رلا
+َ
+و 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ن
+ِ
+م ا
+ً
+ني
+ِ
+ز
+ْ
+َ
+تح 
+َ
+ʮ
+ْ
+ؤ
+ ُّ
+رلا
+َ
+و
+ 
+ُ
+ه
+َ
+س
+ْ
+ف
+َ
+ـن 
+ُ
+نا
+َ
+س
+ْ
+ن
+ِ
+ْ
+لإا 
+ِ
+ه
+ِ
+ب 
+ُ
+ث
+ِ
+ّ
+د
+َ
+ُ
+يح 
+ِ
+ء
+ْ
+ي
+ َّ
+شلا 
+َ
+ن
+ِ
+م 
+[ Rêve existe en trois espèces. Bon rêve c’est ene bonne nouvelle depuis Allaah. 
+Ene  (deuxième  espèce)  rêve  c’est  Shaytwaan  faire  dimounes  chagrin.  Ene 
+(troisième espèce) rêve c’est ene quitechose qui ene personne cause avec li-
+même concernant sa.  
+ 
+ُ
+ه
+َ
+ر
+ْ
+ك
+َ
+ي ا
+َ
+م 
+ْ
+م
+ُ
+ك
+ُ
+د
+َ
+ح
+َ
+أ ى
+َ
+أ
+َ
+ر ا
+َ
+ذ
+ِ
+إ
+َ
+ف  
+ِ
+ّ
+ل
+َ
+ص
+ُ
+ي
+ْ
+ل
+َ
+ـف 
+ْ
+م
+ُ
+ق
+َ
+ـي
+ْ
+ل
+َ
+و ا
+ً
+د
+َ
+ح
+َ
+أ 
+ُ
+ه
+ْ
+ث
+ِ
+ّ
+د
+َ
+ُ
+يح 
+َ
+لا
+َ
+ف 
+Quand ene quicaine parmi zotte faire ene rêve qui li détesté, qui li pas raconte sa 
+personne et qui li levé li faire Swalaat.] 
+(AHMAD 10185, S.S 3014) 
+ 
+Le prophète dire :  
+ 
+ ى
+َ
+أ
+َ
+ر ا
+َ
+ذ
+ِ
+إ
+َ
+ف 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ن
+ِ
+م 
+ٌ
+في
+ِ
+و
+ْ
+َ
+تخ
+َ
+و 
+ِ
+س
+ْ
+ف َّـنلا 
+ُ
+ثي
+ِ
+د
+َ
+ح
+َ
+و 
+ِ
+ َّ
+ɍا 
+َ
+ن
+ِ
+م ى
+َ
+ر
+ْ
+ش
+ُ
+ب
+َ
+ـف 
+ٌ
+ة
+َ
+ث
+َ
+لا
+َ
+ث 
+َ
+ʮ
+ْ
+ؤ
+ ُّ
+رلا
+ 
+َ
+ءا
+َ
+ش 
+ْ
+ن
+ِ
+إ ا
+َ
+ه
+ َّ
+ص
+ُ
+ق
+َ
+ـي
+ْ
+ل
+َ
+ـف 
+ُ
+ه
+ُ
+ب
+ِ
+ج
+ْ
+ع
+ُ
+ـت 
+َ
+ʮ
+ْ
+ؤ
+ُ
+ر 
+ْ
+م
+ُ
+ك
+ُ
+د
+َ
+ح
+َ
+أ
+ 
+[ Rêve existe en trois espèces. Bonne nouvelle li vine depuis Allaah. (Deuxième) 
+c’est ene personne cause avec li-même. (Troisième) c’est Shaytwaan faire gagne 
+peur. Quand quicaine parmi zotte faire ene rêve qui faire li plaisir, qui li raconte li 
+si li oulé.  
+ 
+ِ
+ّ
+ل
+َ
+ص
+ُ
+ي
+ْ
+ل
+َ
+ـف 
+ْ
+م
+ُ
+ق
+َ
+ـي
+ْ
+ل
+َ
+و 
+ٍ
+د
+َ
+ح
+َ
+أ ى
+َ
+ل
+َ
+ع 
+ُ
+ه
+ ُّ
+ص
+ُ
+ق
+َ
+ـي 
+َ
+لا
+َ
+ف 
+ُ
+ه
+ُ
+ه
+َ
+ر
+ْ
+ك
+َ
+ي 
+ً
+ائ
+ْ
+ي
+َ
+ش ى
+َ
+أ
+َ
+ر ا
+َ
+ذ
+ِ
+إ
+َ
+و 
+Mais quand li faire ene rêve qui li détesté, qui li pas raconte li a personne et qui li 
+levé pour faire Swalaat.] 
+(AHMAD 9367, S.S 1341) 
+ 
+ 
+ 
+ 
+
+ 
+15
+Le prophète dire :  
+ 
+ 
+ِ
+ه
+ِ
+ب 
+ ُّ
+م
+ُ
+ه
+َ
+ـي ا
+َ
+م ا
+َ
+ه
+ْ
+ـن
+ِ
+م
+َ
+و 
+َ
+م
+َ
+دآ 
+َ
+ن
+ْ
+با ا
+َ
+ِ
+đ 
+َ
+ن
+ُ
+ز
+ْ
+ح
+َ
+ي
+ِ
+ل 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ن
+ِ
+م 
+ُ
+لي
+ِ
+وا
+َ
+ه
+َ
+أ ا
+َ
+ه
+ْ
+ـن
+ِ
+م 
+ٌ
+ث
+َ
+لا
+َ
+ث 
+َ
+ʮ
+ْ
+ؤ
+ ُّ
+رلا 
+ َّ
+ن
+ِ
+إ
+ 
+ِ
+ة
+ َّ
+و
+ُ
+ـب ُّـنلا 
+َ
+ن
+ِ
+م ا
+ً
+ء
+ْ
+ز
+ُ
+ج 
+َ
+ين
+ِ
+ع
+َ
+ب
+ْ
+ر
+َ
+أ
+َ
+و 
+ٍ
+ة
+ َّ
+ت
+ِ
+س 
+ْ
+ن
+ِ
+م 
+ٌ
+ء
+ْ
+ز
+ُ
+ج ا
+َ
+ه
+ْ
+ـن
+ِ
+م
+َ
+و 
+ِ
+ه
+ِ
+ما
+َ
+ن
+َ
+م 
+ِ
+في 
+ُ
+ها
+َ
+ر
+َ
+ـي
+َ
+ـف 
+ِ
+ه
+ِ
+ت
+َ
+ظ
+َ
+ق
+َ
+ـي 
+ِ
+في 
+ُ
+ل
+ُ
+ج
+ َّ
+رلا 
+[ Rêve existe en trois espèces. L’horreur depuis Shaytwaan pour faire zenfant 
+Aadam chagrin. Ene deuxième espèce c’est cequi ene personne pense lor la 
+pendant qui li éveillé, et alors, li trouve sa dans so rêve. Ene troisième espèce 
+c’est ene partie de 46 parties de Nubuwwah.] 
+(IBN MAAJAH 3897, S.S 1870) 
+ 
+Rapporté par Jaabir : 
+ 
+ 
+ِ
+ َّ
+ɍا 
+ِ
+لو
+ُ
+س
+َ
+ر 
+ْ
+ن
+َ
+عصلى ﷲ عليه وسلم 
+َ
+ع
+ِ
+ط
+ُ
+ق ى
+ِ
+س
+ْ
+أ
+َ
+ر 
+ َّ
+ن
+َ
+أ 
+ُ
+ت
+ْ
+م
+َ
+ل
+َ
+ح 
+ِ
+ّ
+نى
+ِ
+إ 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+ه
+َ
+ءا
+َ
+ج 
+ٍ
+ّ
+ِ
+بىا
+َ
+ر
+ْ
+ع
+َ
+لأ 
+َ
+لا
+َ
+ق 
+ُ
+ه
+ َّ
+ن
+َ
+أ
+ 
+ ُّ
+ِ
+بى َّنلا 
+ُ
+ه
+َ
+ر
+َ
+ج
+َ
+ز
+َ
+ـف 
+ُ
+ه
+ُ
+ع
+ِ
+ب
+ َّ
+ت
+َ
+أ 
+َ
+ʭ
+َ
+أ
+َ
+ف
+صلى ﷲ عليه وسلم  
+َ
+لا 
+َ
+لا
+َ
+ق
+َ
+و 
+ِ
+ما
+َ
+ن
+َ
+م
+ْ
+لا 
+ِ
+فى 
+َ
+ك
+ِ
+ب 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ِ
+ب
+ ُّ
+ع
+َ
+ل
+َ
+ـت
+ِ
+ب 
+ْ
+ِ
+بر
+ْ
+ُ
+تخ 
+[ Ene bédouin ti vine cote le messager d’Allaah et li fine dire : 
+“Mo fine rêvé qui mo la tête fine coupé et mo pe suivre li!” 
+Le prophète fine réprimande li et li fine dire li : 
+“Pas raconte farce qui Shaytwaan fine joué avec toi dans to sommeil!”] 
+(MUSLIM 6062) 
+ 
+Rapporté par Jaabir : 
+ 
+ 
+ َّ
+ِ
+بي َّنلا ى
+َ
+ت
+َ
+أ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  ى
+َ
+ر
+َ
+ـي ا
+َ
+مي
+ِ
+ف 
+َ
+ة
+َ
+ح
+ِ
+را
+َ
+ب
+ْ
+لا 
+ُ
+ت
+ْ
+ي
+َ
+أ
+َ
+ر 
+ِ
+ َّ
+ɍا 
+َ
+لو
+ُ
+س
+َ
+ر 
+َ
+ʮ 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+ب
+ُ
+ط
+ْ
+َ
+يخ 
+َ
+و
+ُ
+ه
+َ
+و 
+ٌ
+ل
+ُ
+ج
+َ
+ر
+ 
+ُ
+ه
+ُ
+ت
+ْ
+د
+َ
+ع
+َ
+أ
+َ
+ف 
+ُ
+ه
+ُ
+ت
+ْ
+ذ
+َ
+خ
+َ
+أ
+َ
+ف 
+ُ
+ه
+ُ
+ت
+ْ
+ع
+َ
+ـب
+ َّ
+ـتا
+َ
+ف ي
+ِ
+س
+ْ
+أ
+َ
+ر 
+َ
+ط
+َ
+ق
+َ
+س
+َ
+و 
+ْ
+ت
+َ
+ب
+ِ
+ر
+ُ
+ض ي
+ِ
+ق
+ُ
+ن
+ُ
+ع 
+ َّ
+ن
+َ
+أ
+َ
+ك 
+ُ
+م
+ِ
+ئا َّنلا  
+[ Ene personne fine vine cote le prophète pendant qui li ti pe faire Khutbah et li 
+fine dire :  
+“Ô messager d’Allaah, hier soir mo fine rêvé comme si quicaine fine coupe mo 
+licou et mo la tête fine tombé, li fine roulé li fine allé. Mo fine suivre li, mo fine 
+attrape li et mo fine mette li dans so place.”  
+ 
+ 
+ِ
+ َّ
+ɍا 
+ُ
+لو
+ُ
+س
+َ
+ر 
+َ
+لا
+َ
+ق
+َ
+ـف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+ِ
+ه
+ِ
+ب 
+ َّ
+ن
+َ
+ث
+ِ
+ّ
+د
+َ
+ُ
+يح 
+َ
+لا
+َ
+ف 
+ِ
+ه
+ِ
+ما
+َ
+ن
+َ
+م 
+ِ
+في 
+ْ
+م
+ُ
+ك
+ِ
+د
+َ
+ح
+َ
+ِ
+ϥ 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ب
+ِ
+ع
+َ
+ل ا
+َ
+ذ
+ِ
+إ
+ 
+َ
+سا َّنلا 
+Le messager d’Allaah fine riyé et li fine dire :  
+
+ 
+16
+“Quand Shaytwaan joué avec quicaine dans so sommeil, qui li pas raconte sa 
+bans dimounes!”] 
+(IBN MAAJAH 3902, S.S 3968) 
+ 
+Rapporté par Abu Hurayrah : 
+ 
+ 
+ِ
+ّ
+ِ
+بي َّنلا 
+َ
+لى
+ِ
+إ 
+ٌ
+ل
+ُ
+ج
+َ
+ر 
+َ
+ءا
+َ
+ج 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+ه
+َ
+د
+ْ
+ه
+َ
+د
+َ
+ت
+َ
+ـي 
+ُ
+ه
+ُ
+ت
+ْ
+ـي
+َ
+أ
+َ
+ر
+َ
+ـف 
+َ
+ب
+ِ
+ر
+ُ
+ض ي
+ِ
+س
+ْ
+أ
+َ
+ر 
+ُ
+ت
+ْ
+ي
+َ
+أ
+َ
+ر 
+ِ
+ّ
+ني
+ِ
+إ 
+َ
+لا
+َ
+ق
+َ
+ـف
+ 
+ِ
+ َّ
+ɍا 
+ُ
+لو
+ُ
+س
+َ
+ر 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع  
+َ
+سا َّنلا 
+ُ
+ِ
+بر
+ْ
+ُ
+يخ و
+ُ
+د
+ْ
+غ
+َ
+ـي 
+ َّ
+ُ
+ثم 
+ُ
+ه
+َ
+ل 
+ُ
+ل
+ َّ
+و
+َ
+ه
+َ
+ـت
+َ
+ـي
+َ
+ـف 
+ْ
+م
+ُ
+ك
+ِ
+د
+َ
+ح
+َ
+أ 
+َ
+لى
+ِ
+إ 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ُ
+د
+ِ
+م
+ْ
+ع
+َ
+ـي 
+[ Ene personne fine vini et li fine dire :  
+“Mo fine revé qui mo la tête fine  coupé et mo fine trouve li pe roulé pe allé!”  
+Le messager d’Allaah fine dire :  
+“Shaytwaan vine cote ene parmi zotte, li faire li gagne peur. Ensuite le matin sa 
+personne la vine raconte sa a bans dimounes!”] 
+(IBN MAAJAH 3901, S.S 2453) 
+ 
+Le prophète dire : 
+ 
+ 
+َ
+ف ا
+َ
+ه
+ ُّ
+ـب
+ِ
+ُ
+يح 
+َ
+ʮ
+ْ
+ؤ
+ُ
+ر 
+ْ
+م
+ُ
+ك
+ُ
+د
+َ
+ح
+َ
+أ ى
+َ
+أ
+َ
+ر ا
+َ
+ذ
+ِ
+إ
+ ا
+َ
+ذ
+ِ
+إ
+َ
+و ا
+َ
+ِ
+đ 
+ْ
+ث
+ِ
+ّ
+د
+َ
+ح
+ُ
+ي
+ْ
+ل
+َ
+و ا
+َ
+ه
+ْ
+ـي
+َ
+ل
+َ
+ع 
+َ
+ َّ
+ɍا 
+ِ
+د
+َ
+م
+ْ
+ح
+َ
+ي
+ْ
+ل
+َ
+ـف 
+ِ
+ َّ
+ɍا 
+َ
+ن
+ِ
+م 
+َ
+ي
+ِ
+ه ا
+َ
+ َّ
+نم
+ِ
+إ
+ ا
+َ
+ه
+ْ
+ر
+ُ
+ك
+ْ
+ذ
+َ
+ي 
+َ
+لا
+َ
+و ا
+َ
+ه
+ِ
+ّ
+ر
+َ
+ش 
+ْ
+ن
+ِ
+م 
+ْ
+ذ
+ِ
+ع
+َ
+ت
+ْ
+س
+َ
+ي
+ْ
+ل
+َ
+ـف 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ن
+ِ
+م 
+َ
+ي
+ِ
+ه ا
+َ
+ َّ
+نم
+ِ
+إ
+َ
+ف 
+ُ
+ه
+َ
+ر
+ْ
+ك
+َ
+ي ا
+ َّ
+ِ
+مم 
+َ
+ك
+ِ
+ل
+َ
+ذ 
+َ
+ر
+ْ
+ـي
+َ
+غ ى
+َ
+أ
+َ
+ر
+ 
+ُ
+ه
+ ُّ
+ر
+ُ
+ض
+َ
+ت 
+َ
+لا ا
+َ
+ه
+ َّ
+ـن
+ِ
+إ
+َ
+ف 
+ٍ
+د
+َ
+ح
+َ
+ِ
+لأ  
+[ Si quicaine parmi zotte trouve ene rêve qui li fine content, sa c’est depuis 
+Allaah. Alors, qui li glorifié Allaah et li raconte li (a les autres). Mais si li faire ene 
+l'autre rêve qui li pas content, sa c’est depuis Shaytwaan. Alors, qui li cherche 
+protection avec Allaah contre le mauvais (de sa rêve la), et qui li pas raconte sa 
+personne. Certainement sa pas pour apporte li (aucun) du tort.] 
+(BUKHARI 6470) 
+ 
+Le prophète dire :  
+ 
+ 
+َ
+ين
+ِ
+ح 
+ْ
+ث
+ِ
+ف
+ْ
+ن
+َ
+ـي
+ْ
+ل
+َ
+ـف 
+ُ
+ه
+ُ
+ه
+َ
+ر
+ْ
+ك
+َ
+ي ا
+ً
+ئ
+ْ
+ـي
+َ
+ش 
+ْ
+م
+ُ
+ك
+ُ
+د
+َ
+ح
+َ
+أ ى
+َ
+أ
+َ
+ر ا
+َ
+ذ
+ِ
+إ
+َ
+ف 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ن
+ِ
+م 
+ُ
+م
+ْ
+ل
+ُ
+ْ
+لحا
+َ
+و 
+ِ
+ َّ
+ɍا 
+َ
+ن
+ِ
+م 
+َ
+ʮ
+ْ
+ؤ
+ ُّ
+رلا
+ 
+ُ
+ه
+ ُّ
+ر
+ُ
+ض
+َ
+ت 
+َ
+لا ا
+َ
+ه
+ َّ
+ـن
+ِ
+إ
+َ
+ف ا
+َ
+ه
+ِ
+ّ
+ر
+َ
+ش 
+ْ
+ن
+ِ
+م 
+ْ
+ذ
+ َّ
+و
+َ
+ع
+َ
+ـت
+َ
+ـي
+َ
+و 
+ٍ
+تا
+ َّ
+ر
+َ
+م 
+َ
+ث
+َ
+لا
+َ
+ث 
+ُ
+ظ
+ِ
+ق
+ْ
+ي
+َ
+ـت
+ْ
+س
+َ
+ي 
+[ Bon rêve li vine depuis Allaah et mauvais rêve vine depuis Shaytwaan. Si 
+quicaine parmi zotte trouve ene quitechose qui li détesté, quand li levé, qui li 
+crache  ene  ti-crachet  trois  fois  et  li  cherche  protection  contre  so  mal. 
+Certainement sa pas pour apporte li (aucun) du tort.] 
+(BUKHARI 5206) 
+
+ 
+17
+Le prophète dire :  
+ 
+ ا
+ً
+ئ
+ْ
+ـي
+َ
+ش ا
+َ
+ه
+ْ
+ـن
+ِ
+م 
+َ
+ه
+ِ
+ر
+َ
+ك
+َ
+ف 
+َ
+ʮ
+ْ
+ؤ
+ُ
+ر ى
+َ
+أ
+َ
+ر 
+ْ
+ن
+َ
+م
+َ
+ف 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ن
+ِ
+م 
+ُ
+ء
+ْ
+و
+ َّ
+سلا 
+َ
+ʮ
+ْ
+ؤ
+ ُّ
+رلا
+َ
+و 
+ِ
+ َّ
+ɍا 
+َ
+ن
+ِ
+م 
+ُ
+ة
+َ
+ِ
+لحا
+ َّ
+صلا 
+َ
+ʮ
+ْ
+ؤ
+ ُّ
+رلا
+ 
+ْ
+ن
+ِ
+إ
+َ
+ف ا
+ً
+د
+َ
+ح
+َ
+أ ا
+َ
+ِ
+đ 
+ْ
+ِ
+بر
+ْ
+ُ
+يخ 
+َ
+لا
+َ
+و 
+ُ
+ه
+ ُّ
+ر
+ُ
+ض
+َ
+ت 
+َ
+لا 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ن
+ِ
+م 
+ِ
+ َّ
+ɍ
+ِ
+ʪ 
+ْ
+ذ
+ َّ
+و
+َ
+ع
+َ
+ـت
+َ
+ـي
+ْ
+ل
+َ
+و 
+ِ
+ه
+ِ
+را
+َ
+س
+َ
+ي 
+ْ
+ن
+َ
+ع 
+ْ
+ث
+ُ
+ف
+ْ
+ـن
+َ
+ـي
+ْ
+ل
+َ
+ـف
+ 
+َ
+ر 
+ ُّ
+ب
+ِ
+ُ
+يح 
+ْ
+ن
+َ
+م 
+ َّ
+لا
+ِ
+إ 
+ْ
+ِ
+بر
+ْ
+ُ
+يخ 
+َ
+لا
+َ
+و 
+ْ
+ر
+ِ
+ش
+ْ
+ب
+ُ
+ـي
+ْ
+ل
+َ
+ـف 
+ً
+ة
+َ
+ن
+َ
+س
+َ
+ح 
+َ
+ʮ
+ْ
+ؤ
+ُ
+ر ى
+َ
+أ
+ 
+[ Bon rêve li vine depuis Allaah et mauvais rêve vine depuis Shaytwaan. Si 
+quicaine fine faire ene rêve et li fine trouve ene quitechose qui li détesté, qui li 
+crache ene ti-crachet dans so coté gauche, et li cherche protection avec Allaah 
+contre Shaytwaan pour qui sa pas apporte li (aucun) du tort, et qui li pas raconte 
+sa personne. Si li faire ene bon rêve, qui li rejouir et qui li pas raconte sa excepté 
+à celui qui li content.] 
+(MUSLIM 4197) 
+ 
+Le prophète dire :  
+اه
+ِ
+ر
+ِ
+ّ
+س
+َ
+ف
+ُ
+ـي
+ْ
+ل
+َ
+و ا
+َ
+ه
+ْ
+ر
+ُ
+ك
+ْ
+ذ
+َ
+ي
+ْ
+ل
+َ
+ـف 
+ُ
+ه
+ُ
+ب
+ِ
+ج
+ْ
+ع
+ُ
+ـت 
+َ
+ʮ
+ْ
+ؤ
+ ُّ
+رلا 
+ُ
+م
+ُ
+ك
+ُ
+د
+َ
+ح
+َ
+أ ى
+َ
+أ
+َ
+ر ا
+َ
+ذ
+ِ
+إ
+  
+[ Quand ene quicaine parmi zotte faire ene rêve qui faire li plaisir, qui li raconte li 
+et qui li interprète li. 
+ا
+َ
+ه
+ْ
+ر
+ِ
+ّ
+س
+َ
+ف
+ُ
+ـي 
+َ
+لا
+َ
+و ا
+َ
+ه
+ْ
+ر
+ُ
+ك
+ْ
+ذ
+َ
+ي 
+َ
+لا
+َ
+ف 
+ُ
+ه
+ُ
+ءو
+ُ
+س
+َ
+ت 
+َ
+ʮ
+ْ
+ؤ
+ ُّ
+رلا 
+ْ
+م
+ُ
+ك
+ُ
+د
+َ
+ح
+َ
+أ ى
+َ
+أ
+َ
+ر ا
+َ
+ذ
+ِ
+إ
+َ
+و
+  
+[ Quand ene quicaine parmi zotte faire ene rêve qui déplaire li, qui li pas raconte 
+li et li pas interprète li.] 
+(HADIITH YAHYAA IBN MA’IIN 168, AT-TAMHIID 1/288, S.S 1340) 
+ 
+Le prophète dire :  
+ 
+ 
+ْ
+ن
+ِ
+م 
+َ
+ َّ
+ɍا 
+ِ
+ل
+َ
+أ
+ْ
+س
+َ
+ي
+ْ
+ل
+َ
+و 
+ً
+ʬ
+َ
+لا
+َ
+ث 
+ِ
+ه
+ِ
+را
+َ
+س
+َ
+ي 
+ْ
+ن
+َ
+ع 
+ْ
+ل
+ُ
+ف
+ْ
+ـت
+َ
+ـي
+ْ
+ل
+َ
+و 
+ْ
+ل
+ َّ
+و
+َ
+ح
+َ
+ت
+َ
+ـي
+ْ
+ل
+َ
+ـف ا
+َ
+ه
+ُ
+ه
+َ
+ر
+ْ
+ك
+َ
+ي 
+َ
+ʮ
+ْ
+ؤ
+ُ
+ر 
+ْ
+م
+ُ
+ك
+ُ
+د
+َ
+ح
+َ
+أ ى
+َ
+أ
+َ
+ر ا
+َ
+ذ
+ِ
+إ
+ا
+َ
+ه
+ِ
+ّ
+ر
+َ
+ش 
+ْ
+ن
+ِ
+م 
+ْ
+ذ
+ َّ
+و
+َ
+ع
+َ
+ـت
+َ
+ـي
+ْ
+ل
+َ
+و ا
+َ
+ه
+ِ
+ْ
+ير
+َ
+خ 
+[ Quand ene quicaine parmi zotte faire ene rêve qui li détesté, qui li change so 
+position dormi, qui li crache ene ti-crachet trois fois dans so coté gauche, qui li 
+demande Allaah de so bien et li cherche protection contre so mal.] 
+(IBN MAAJAH 3900, S.S 1311) 
+ 
+ 
+ 
+ 
+ 
+
+ 
+18
+Le prophète dire :  
+ 
+ 
+َ
+ʮ
+ْ
+ؤ
+ ُّ
+رلا 
+ُ
+م
+ُ
+ك
+ُ
+د
+َ
+ح
+َ
+أ ى
+َ
+أ
+َ
+ر ا
+َ
+ذ
+ِ
+إ
+ 
+َ
+ن
+ِ
+م 
+ِ
+ َّ
+ɍ
+ِ
+ʪ 
+ْ
+ذ
+ِ
+ع
+َ
+ت
+ْ
+س
+َ
+ي
+ْ
+ل
+َ
+و 
+ً
+ʬ
+َ
+لا
+َ
+ث 
+ِ
+ه
+ِ
+را
+َ
+س
+َ
+ي 
+ْ
+ن
+َ
+ع 
+ْ
+ق
+ُ
+ص
+ْ
+ب
+َ
+ـي
+ْ
+ل
+َ
+ـف ا
+َ
+ه
+ُ
+ه
+َ
+ر
+ْ
+ك
+َ
+ي
+ 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+َ
+نا
+َ
+ك ي
+ِ
+ذ
+ َّ
+لا 
+ِ
+ه
+ِ
+ب
+ْ
+ن
+َ
+ج 
+ْ
+ن
+َ
+ع 
+ْ
+ل
+ َّ
+و
+َ
+ح
+َ
+ت
+َ
+ـي
+ْ
+ل
+َ
+و 
+ً
+ʬ
+َ
+لا
+َ
+ث 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا
+ 
+[ Quand quicaine parmi zotte faire ene rêve qui li détesté, qui li crache trois fois 
+dans so coté gauche, qui li cherche protection avec Allaah contre Shaytwaan trois 
+fois, et qui li change so position lor laquelle li ti été.] 
+(MUSLIM 4199) 
+ 
+Rapporté par Muhammad Ibnul Munkadir : 
+ 
+ 
+ِ
+ّ
+ِ
+بي َّنلا 
+َ
+لى
+ِ
+إ 
+ٌ
+ل
+ُ
+ج
+َ
+ر 
+َ
+ءا
+َ
+ج 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+َ
+ت
+ْ
+ي
+َ
+و
+َ
+أ ا
+َ
+ذ
+ِ
+إ 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ِ
+ما
+َ
+ن
+َ
+م
+ْ
+لا 
+ِ
+في ا
+َ
+ها
+َ
+ر
+َ
+ـي 
+َ
+لي
+ِ
+وا
+َ
+ه
+َ
+أ 
+ِ
+ه
+ْ
+ي
+َ
+ل
+ِ
+إ ا
+َ
+ك
+َ
+ش
+َ
+ف
+ 
+ْ
+ن
+ِ
+م
+َ
+و 
+ِ
+ه
+ِ
+دا
+َ
+ب
+ِ
+ع 
+ِ
+ّ
+ر
+َ
+ش
+َ
+و 
+ِ
+ه
+ِ
+با
+َ
+ق
+ِ
+ع
+َ
+و 
+ِ
+ه
+ِ
+ب
+َ
+ض
+َ
+غ 
+ْ
+ن
+ِ
+م 
+ِ
+ة
+ َّ
+ما
+ َّ
+تلا 
+ِ
+ َّ
+ɍا 
+ِ
+تا
+َ
+م
+ِ
+ل
+َ
+ك
+ِ
+ب 
+ُ
+ذو
+ُ
+ع
+َ
+أ 
+ْ
+ل
+ُ
+ق
+َ
+ـف 
+َ
+ك
+ِ
+شا
+َ
+ر
+ِ
+ف 
+َ
+لى
+ِ
+إ
+ 
+ِ
+نو
+ُ
+ر
+ُ
+ض
+ْ
+َ
+يح 
+ْ
+ن
+َ
+أ
+َ
+و 
+ِ
+ين
+ِ
+طا
+َ
+ي
+ َّ
+شلا 
+ِ
+تا
+َ
+ز
+َ
+َ
+هم  
+[ Ene personne fine vine cote le prophète et li fine plaigné qui li trouve bans 
+quitechoses effrayants dans rêve.  
+Le prophète fine dire li : 
+“Quand to monte lor to lilit, dire : Mo cherche protection avec les paroles 
+parfaites  d’Allaah  contre  So  colère,  So  punition,  contre  le  mal  de So  bans 
+esclaves, contre suggestions de bans Shaytwaan et contre zotte présence.”] 
+(AMAL-UL-YAWM WAL-LAYLAH LIBNIS-SUNNI, S.S 264) 
+ 
+Le prophète dire : 
+ 
+ 
+َ
+ـق
+َ
+و 
+ْ
+ت
+َ
+ِ
+ّ
+بر
+ُ
+ع ا
+َ
+ذ
+ِ
+إ
+َ
+ف 
+ْ
+ر
+ َّ
+ـب
+َ
+ع
+ُ
+ـت 
+ْ
+َ
+لم ا
+َ
+م 
+ٍ
+ر
+ِ
+ئا
+َ
+ط 
+ِ
+ل
+ْ
+ج
+ِ
+ر ى
+َ
+ل
+َ
+ع 
+َ
+ʮ
+ْ
+ؤ
+ ُّ
+رلا
+ 
+ٍ
+ّ
+دا
+َ
+و ى
+َ
+ل
+َ
+ع 
+ َّ
+لا
+ِ
+إ ا
+َ
+ه
+ ُّ
+ص
+ُ
+ق
+َ
+ـي 
+َ
+لا
+َ
+و ... 
+ْ
+ت
+َ
+ع
+ 
+ٍ
+ى
+ْ
+أ
+َ
+ر ى
+ِ
+ذ 
+ْ
+و
+َ
+أ 
+[ Rêve li lor la patte d’ene zoiseau aussi longtemps qui pas encore interprète li. 
+Quand li être interprété, arrive li. Pas raconte li excepté à ene qui content (toi) ou 
+ene qui ena ene (bon) jugement.] 
+(ABU DAOUD 5022) 
+ 
+Ibn Siiriin dire : 
+ 
+ٍ
+ح
+ِ
+ص
+َ
+ʭ 
+ْ
+و
+َ
+أ
+ٍ
+م
+ِ
+لا
+َ
+ع ى
+َ
+ل
+َ
+ع لا
+ِ
+إ 
+َ
+ʮ
+ْ
+ؤ
+ ُّ
+رلا 
+ ُّ
+ص
+َ
+ق
+ُ
+ـت لا
+ 
+[ Bizin pas raconte (ene) rêve excepté a ene Aalim oubien ene qui pour conseille 
+(toi).] 
+
+ 
+19
+Donc, mauvais rêve vine depuis Shaytwaan, et alors, quand ene dimoune so 
+sommeil cassé avec ene mauvais rêve, li faire les actions suivants : 
+Li crache ene ti crachet 3 fois dans so cote gauche 
+Li cherche protection avec Allaah 3 fois contre Shaytwaan et contre sa 
+mauvais rêve la. 
+Li change so position dormi 
+Li levé et li faire Swalaat (si li oulé) 
+Li pas raconte sa mauvais rêve la à personne 
+ 
+ 
+Cauchemar 
+ 
+Cequi forme partie de mauvauis rêve c’est cauchemar. 
+ 
+Muhammad Ibn Abdillaah Al-Imaam dire : 
+ 
+الكوابيس تعد من الأحلام الشيطانية فيتعامل معها بما دلت عليه الأحاديث 
+المذكورة  
+[ Cauchemar li considéré comme bans mauvais rêves depuis Shaytwaan, et alors, 
+nous agir envers sa, basant lor cequi sa bans Hadiith qui nous fine cité-là prouvé. 
+ 
+ودعك مما يقوله علماء النفس وغيرهم في تفʭسير الكوابيس مما يخالف ما ذكر 
+Pas donne aucun considération à cequi bans psychologues et les autres dire 
+comme interprétation de cauchemar qui contredire cequi nous fine dire.] 
+(AL-IYDWAAH WAT-TABYIIN, PG 32) 
+ 
+ 
+Faire Ene Personne Oublié 
+ 
+Allaah dire : (12:42) 
+ 
+ 
+َ
+ث
+ِ
+ب
+َ
+ل
+َ
+ـف 
+ِ
+ه
+ِ
+ّ
+ب
+َ
+ر 
+َ
+ر
+ْ
+ك
+ِ
+ذ 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ُ
+ها
+َ
+س
+ْ
+ن
+َ
+أ
+َ
+ف 
+َ
+ك
+ِ
+ّ
+ب
+َ
+ر 
+َ
+د
+ْ
+ن
+ِ
+ع 
+ِ
+ني
+ْ
+ر
+ُ
+ك
+ْ
+ذا ا
+َ
+م
+ُ
+ه
+ْ
+ـن
+ِ
+م 
+ٍ
+ج
+َ
+ʭ 
+ُ
+ه
+ َّ
+ن
+َ
+أ 
+ َّ
+ن
+َ
+ظ ي
+ِ
+ذ
+ َّ
+ل
+ِ
+ل 
+َ
+لا
+َ
+ق
+َ
+و
+ 
+َ
+ين
+ِ
+ن
+ِ
+س 
+َ
+ع
+ْ
+ض
+ِ
+ب 
+ِ
+ن
+ْ
+ج
+ِ
+ّ
+سلا 
+ِ
+في 
+[ Yousuf fine dire à celui qui li fine pensé li pour échappé entre les deux : « Faire 
+mention de moi auprès de to maitre ! » Mais Shaytwaan fine faire li oublié 
+rappelle so maitre, et alors, Yousuf fine reste dans prison pendant quelques 
+années.] 
+
+ 
+20
+Allaah dire : (18:62-63) 
+ 
+ 
+ِ
+ر
+َ
+ف
+َ
+س 
+ْ
+ن
+ِ
+م ا
+َ
+ني
+ِ
+ق
+َ
+ل 
+ْ
+د
+َ
+ق
+َ
+ل 
+َ
+ʭ
+َ
+ءا
+َ
+د
+َ
+غ ا
+َ
+ن
+ِ
+ت
+َ
+آ 
+ُ
+ها
+َ
+ت
+َ
+ف
+ِ
+ل 
+َ
+لا
+َ
+ق ا
+َ
+ز
+َ
+وا
+َ
+ج ا
+ َّ
+م
+َ
+ل
+َ
+ـف
+ 
+ْ
+ذ
+ِ
+إ 
+َ
+ت
+ْ
+ي
+َ
+أ
+َ
+ر
+َ
+أ 
+َ
+لا
+َ
+ق ا
+ً
+ب
+َ
+ص
+َ
+ن ا
+َ
+ذ
+َ
+ه 
+َ
+ʭ
+ 
+ُ
+ه
+َ
+ر
+ُ
+ك
+ْ
+ذ
+َ
+أ 
+ْ
+ن
+َ
+أ 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ َّ
+لا
+ِ
+إ 
+ُ
+هي
+ِ
+نا
+َ
+س
+ْ
+ن
+َ
+أ ا
+َ
+م
+َ
+و 
+َ
+تو
+ُ
+ْ
+لحا 
+ُ
+تي
+ِ
+س
+َ
+ن 
+ِ
+ّ
+ني
+ِ
+إ
+َ
+ف 
+ِ
+ة
+َ
+ر
+ْ
+خ
+ َّ
+صلا 
+َ
+لى
+ِ
+إ ا
+َ
+ن
+ْ
+ـي
+َ
+و
+َ
+أ 
+[ Quand les deux (Mousaa et le jeune qui ti pe faire so Khidmat) fine dépasse sa 
+(l’endroit la), (Mousaa) fine dire à so serviteur : « Amene nous déjeuner, nous 
+fine joindre ene fatigue avec sa voyage la ! » (Sa serviteur la) fine dire : « Ou 
+connez, quand nous ti mettre-nous à l’abri de sa roche la, mo fine oublié poisson 
+la. Narien pas fine faire moi oublié rappelle li excepté Shaytwaan. »] 
+ 
+Allaah dire : (6:68) 
+ 
+ 
+َ
+ين
+ِ
+م
+ِ
+لا
+ َّ
+ظلا 
+ِ
+م
+ْ
+و
+َ
+ق
+ْ
+لا 
+َ
+ع
+َ
+م ى
+َ
+ر
+ْ
+ك
+ِ
+ّ
+ذلا 
+َ
+د
+ْ
+ع
+َ
+ـب 
+ْ
+د
+ُ
+ع
+ْ
+ق
+َ
+ـت 
+َ
+لا
+َ
+ف 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ك َّن
+َ
+ـي
+ِ
+س
+ْ
+ن
+ُ
+ـي ا
+ َّ
+م
+ِ
+إ
+َ
+و 
+[ Si Shaytwaan faire toi oublié, alors, après qui to fine rappelle, pas assize avec 
+bans injustes.] 
+ 
+ 
+Faire Ene Personne Intéressé Avec Du Lait Plus Qui Bizin 
+ 
+Ena ene Hadiith comme suite : 
+ 
+ 
+ِ
+حي
+ِ
+ر
+ َّ
+صلا
+َ
+و 
+ِ
+ة
+َ
+و
+ْ
+غ
+ َّ
+رلا 
+َ
+ْ
+ين
+َ
+ـب 
+َ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ َّ
+ن
+ِ
+إ
+َ
+ف 
+َ
+َ
+بن
+ َّ
+للا 
+ َّ
+لا
+ِ
+إ 
+ِ
+تي
+ َّ
+م
+ُ
+أ ى
+َ
+ل
+َ
+ع 
+ُ
+فا
+َ
+خ
+َ
+أ 
+َ
+لا 
+[ Mo pas peur narien pour mo Ummat excepté du lait, parcequi Shaytwaan li 
+entre la mousse et cequi pure.] 
+(AHMAD 6640) 
+ 
+Dans (As-Subul-Us-Sawiyyah Fii Maa Laa Yaswihhu Minal Ahaadiith, pg 23), sa 
+Hadiith la fine être considéré faible. Quant à Muhammad Ibn Abdillaah Al-Imaam, 
+li fine considère sa Hadiith la Hassan. Wallaahu A’lam. 
+(AL-IYDWAAH WAT-TABYIIN, PG 121) 
+ 
+ 
+Faire Bans Musulmans Vivre Avec Le Chagrin Et Le Chagrin 
+ 
+Allaah dire : (58:10) 
+ 
+او
+ُ
+ن
+َ
+م
+َ
+آ 
+َ
+ني
+ِ
+ذ
+ َّ
+لا 
+َ
+ن
+ُ
+ز
+ْ
+ح
+َ
+ي
+ِ
+ل 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+ن
+ِ
+م ى
+َ
+و
+ْ
+ج َّنلا ا
+َ
+ َّ
+نم
+ِ
+إ 
+
+ 
+21
+[ La conversation confidentielle li depuis Shaytwaan, afin qui bans qui fine amène 
+Imaan zotte chagrin.] 
+ 
+Rapporté par Al-Miqdaad Ibnul Aswad : 
+ 
+ 
+ُ
+ض
+ِ
+ر
+ْ
+ع
+َ
+ـن ا
+َ
+ن
+ْ
+ل
+َ
+ع
+َ
+ج
+َ
+ف 
+ِ
+د
+ْ
+ه
+َ
+ْ
+لجا 
+َ
+ن
+ِ
+م 
+َ
+ʭ
+ُ
+را
+َ
+ص
+ْ
+ب
+َ
+أ
+َ
+و ا
+َ
+ن
+ُ
+عا
+َ
+ْ
+سم
+َ
+أ 
+ْ
+ت
+َ
+ب
+َ
+ه
+َ
+ذ 
+ْ
+د
+َ
+ق
+َ
+و 
+ِ
+لي 
+ِ
+نا
+َ
+ب
+ِ
+حا
+َ
+ص
+َ
+و 
+َ
+ʭ
+َ
+أ 
+ُ
+ت
+ْ
+ل
+َ
+ـب
+ْ
+ـق
+َ
+أ
+ 
+ِ
+ﷲ 
+ِ
+لو
+ُ
+س
+َ
+ر 
+ِ
+با
+َ
+ح
+ْ
+ص
+َ
+أ ى
+َ
+ل
+َ
+ع ا
+َ
+ن
+َ
+س
+ُ
+ف
+ْ
+ـن
+َ
+أ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  ا
+َ
+ن
+ُ
+ل
+َ
+ـب
+ْ
+ق
+َ
+ـي 
+ْ
+م
+ُ
+ه
+ْ
+ـن
+ِ
+م 
+ٌ
+د
+َ
+ح
+َ
+أ 
+َ
+س
+ْ
+ي
+َ
+ل
+َ
+ـف 
+[ Moi et deux de mo bans compagnons, nous ti arrive (à Masjid du prophète) 
+dans ene l’état qui avec la faim et la fatigue, nous ti commence gagne difficulté 
+pour  tender  et  pour  trouver.  Nous  fine  commence  présente-nous  à  bans 
+compagnons du messager d’Allaah, mais personne parmi banla pas ti pe accepté 
+nous, (car banla-mêmes ti dans difficulté).  
+ 
+ 
+ َّ
+ِ
+بي َّنلا ا
+َ
+ن
+ْ
+ـي
+َ
+ـت
+َ
+أ
+َ
+ف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+ ُّ
+ِ
+بي َّنلا 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ٍ
+ز
+ُ
+ن
+ْ
+ع
+َ
+أ 
+ُ
+ة
+َ
+ث
+َ
+لا
+َ
+ث ا
+َ
+ذ
+ِ
+إ
+َ
+ف 
+ِ
+ه
+ِ
+ل
+ْ
+ه
+َ
+أ 
+َ
+لى
+ِ
+إ ا
+َ
+ن
+ِ
+ب 
+َ
+ق
+َ
+ل
+َ
+ط
+ْ
+نا
+َ
+ف 
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص 
+َ
+م 
+ ا
+َ
+ن
+َ
+ـن
+ْ
+ـي
+َ
+ـب 
+َ
+َ
+بن
+ َّ
+للا ا
+َ
+ذ
+َ
+ه او
+ُ
+ب
+ِ
+ل
+َ
+ت
+ْ
+حا 
+Alors, nous fine alle côte le prophète, et li fine amène nous cote so famille et qui 
+ti ena trois chèvres cote li.  
+Le prophète ﷺ fine dire (nous) : 
+“Tire du lait avec sa bans chèvres là pour qui nous boire li entre nous !” 
+ 
+ 
+ِ
+ّ
+ِ
+بي َّنل
+ِ
+ل 
+ُ
+ع
+َ
+ف
+ْ
+ر
+َ
+ـن
+َ
+و 
+ُ
+ه
+َ
+بي
+ِ
+ص
+َ
+ن ا َّن
+ِ
+م 
+ٍ
+نا
+َ
+س
+ْ
+ن
+ِ
+إ 
+ ُّ
+ل
+ُ
+ك 
+ُ
+ب
+َ
+ر
+ْ
+ش
+َ
+ي
+َ
+ـف 
+ُ
+ب
+ِ
+ل
+َ
+ت
+ْ
+َ
+نح ا َّن
+ُ
+ك
+َ
+ف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+ُ
+ه
+َ
+بي
+ِ
+ص
+َ
+ن  
+Nous ti pe tire du lait (avec sa bans chèvres là). Chacun parmi nous ti pe boire so 
+part, et (ensuite) nous ti pe garde le prophète so part.  
+ 
+ 
+ِ
+تي
+ْ
+َ
+ϩ 
+ َّ
+ُ
+ثم ... 
+َ
+نا
+َ
+ظ
+ْ
+ق
+َ
+ـي
+ْ
+لا 
+ُ
+ع
+ِ
+م
+ْ
+س
+ُ
+ي
+َ
+و ا
+ً
+م
+ِ
+ئ
+َ
+ʭ 
+ُ
+ظ
+ِ
+قو
+ُ
+ي 
+َ
+لا ا
+ً
+مي
+ِ
+ل
+ْ
+س
+َ
+ت 
+ُ
+م
+ِ
+ّ
+ل
+َ
+س
+ُ
+ي
+َ
+ـف 
+ِ
+ل
+ْ
+ي
+ َّ
+للا 
+َ
+ن
+ِ
+م 
+ُ
+ءي
+ِ
+ج
+َ
+ي
+َ
+ـف
+ 
+ُ
+ب
+َ
+ر
+ْ
+ش
+َ
+ي
+َ
+ـف 
+ُ
+ه
+َ
+با
+َ
+ر
+َ
+ش 
+ِ
+تي
+ْ
+َ
+ϩ 
+ َّ
+ُ
+ثم ي
+ِ
+ّ
+ل
+َ
+ص
+ُ
+ي
+َ
+ـف 
+َ
+د
+ِ
+ج
+ْ
+س
+َ
+م
+ْ
+لا  
+Le prophète ti pe vini pendant la nuit, li ti pe faire ene qualité Salaam par lequel li 
+pas ti pe casse sommeil de celui qui pe dormi, mais li ti pe faire bans éveillés 
+tender. Ensuite li ti pe alle dans place cote li faire Swalaat, li ti pe faire Swalaat, 
+ensuite li ti pe vine cote so du lait et li ti pe boire li. 
+ 
+
+ 
+22
+ 
+ُ
+ه
+َ
+نو
+ُ
+ف
+ِ
+ح
+ْ
+ت
+ُ
+ـي
+َ
+ـف 
+َ
+را
+َ
+ص
+ْ
+ن
+َ
+ْ
+لأا 
+ِ
+تي
+ْ
+َ
+ϩ 
+ٌ
+د
+ َّ
+م
+َ
+ُ
+مح 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ِ
+بيي
+ِ
+ص
+َ
+ن 
+ُ
+ت
+ْ
+ب
+ِ
+ر
+َ
+ش 
+ْ
+د
+َ
+ق
+َ
+و 
+ٍ
+ة
+َ
+ل
+ْ
+ـي
+َ
+ل 
+َ
+تا
+َ
+ذ 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ِ
+ني
+َ
+ʫ
+َ
+أ
+َ
+ف
+ ا
+َ
+ه
+ُ
+ـت
+ْ
+ـب
+ِ
+ر
+َ
+ش
+َ
+ف ا
+َ
+ه
+ُ
+ـت
+ْ
+ـي
+َ
+ـت
+َ
+أ
+َ
+ف 
+ِ
+ة
+َ
+ع
+ْ
+ر
+ُ
+ْ
+لجا 
+ِ
+ه
+ِ
+ذ
+َ
+ه 
+َ
+لى
+ِ
+إ 
+ٌ
+ة
+َ
+جا
+َ
+ح 
+ِ
+ه
+ِ
+ب ا
+َ
+م 
+ْ
+م
+ُ
+ه
+َ
+د
+ْ
+ن
+ِ
+ع 
+ُ
+بي
+ِ
+ص
+ُ
+ي
+َ
+و  
+Ene nuit, Shaytwaan fine vine cote moi, après qui mo ti fini boire mo part et li 
+fine dire (moi) : 
+« Muhammad  li alle cote bans Answaar, banla donne li cadeau et li mangé-
+boire cote banla, et alors, li pas en besoin de sa gorgée (du lait) là!” 
+Mo fine vine cote (le prophète so part) et mo fine boire li.  
+ 
+ 
+ٌ
+لي
+ِ
+ب
+َ
+س ا
+َ
+ه
+ْ
+ـي
+َ
+ل
+ِ
+إ 
+َ
+س
+ْ
+ي
+َ
+ل 
+ُ
+ه
+ َّ
+ن
+َ
+أ 
+ُ
+ت
+ْ
+م
+ِ
+ل
+َ
+ع
+َ
+و 
+ِ
+ني
+ْ
+ط
+َ
+ب 
+ِ
+في 
+ْ
+ت
+َ
+ل
+َ
+غ
+َ
+و 
+ْ
+ن
+َ
+أ ا
+ َّ
+م
+َ
+ل
+َ
+ـف 
+Couma sa du lait la fine rentre dans mo ventre, mo fine conné qui li pas pour 
+gagne aucun chemin. 
+ 
+ 
+ َّ
+شلا 
+ِ
+ني
+َ
+م
+ َّ
+د
+َ
+ن 
+ُ
+ه
+ُ
+د
+ِ
+َ
+يج 
+َ
+لا
+َ
+ف 
+ُ
+ءي
+ِ
+ج
+َ
+ي
+َ
+ـف 
+ٍ
+د
+ َّ
+م
+َ
+ُ
+مح 
+َ
+با
+َ
+ر
+َ
+ش 
+َ
+ت
+ْ
+ب
+ِ
+ر
+َ
+ش
+َ
+أ 
+َ
+ت
+ْ
+ع
+َ
+ـن
+َ
+ص ا
+َ
+م 
+َ
+ك
+َ
+ْ
+يح
+َ
+و 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+نا
+َ
+ط
+ْ
+ي
+ 
+َ
+ك
+ُ
+ت
+َ
+ر
+ِ
+خآ
+َ
+و 
+َ
+كا
+َ
+ي
+ْ
+ـن
+ُ
+د 
+ُ
+ب
+َ
+ه
+ْ
+ذ
+َ
+ت
+َ
+ـف 
+ُ
+ك
+ِ
+ل
+ْ
+ه
+َ
+ـت
+َ
+ـف 
+َ
+ك
+ْ
+ي
+َ
+ل
+َ
+ع و
+ُ
+ع
+ْ
+د
+َ
+ي
+َ
+ـف  
+Shaytwaan fine faire moi regretté et li fine dire : 
+“Malheur à toi ! Qui to fine faire ? To fine boire du lait qui Muhammad  
+supposé boire ! Li pour vini, li pas pour trouve so du lait, li pour faire Du’aa contre 
+toi, et alors, to pour périr ! To pour perdi to Dunyaa et to Aakhirah!” 
+ 
+ 
+َ
+ق ى
+َ
+ل
+َ
+ع ا
+َ
+ه
+ُ
+ـت
+ْ
+ع
+َ
+ض
+َ
+و ا
+َ
+ذ
+ِ
+إ 
+ٌ
+ة
+َ
+ل
+ْ
+َ
+شم 
+ َّ
+ي
+َ
+ل
+َ
+ع
+َ
+و 
+َ
+ج
+َ
+ر
+َ
+خ ي
+ِ
+س
+ْ
+أ
+َ
+ر ى
+َ
+ل
+َ
+ع ا
+َ
+ه
+ُ
+ـت
+ْ
+ع
+َ
+ض
+َ
+و ا
+َ
+ذ
+ِ
+إ
+َ
+و ي
+ِ
+س
+ْ
+أ
+َ
+ر 
+َ
+ج
+َ
+ر
+َ
+خ 
+ َّ
+ي
+َ
+م
+َ
+د
+ 
+َ
+يا
+َ
+م
+َ
+د
+َ
+ق  
+Ti ena ene cape lor moi qui quand mo ti pe pose li lor mo deux lipieds, mo la tête 
+ti pe découvert, et quand mo ti pe pose li lor mo la tête, mo deux lipieds ti pe 
+découvert.  
+ 
+ُ
+ت
+ْ
+ع
+َ
+ـن
+َ
+ص ا
+َ
+م ا
+َ
+ع
+َ
+ـن
+ْ
+ص
+َ
+ي 
+ْ
+َ
+لم
+َ
+و ا
+َ
+ما
+َ
+ن
+َ
+ـف 
+َ
+يا
+َ
+ب
+ِ
+حا
+َ
+ص ا
+ َّ
+م
+َ
+أ
+َ
+و 
+ُ
+م
+ْ
+و َّـنلا 
+ِ
+ني
+ُ
+ئي
+ِ
+َ
+يج 
+َ
+لا 
+َ
+ل
+َ
+ع
+َ
+ج
+َ
+و 
+Mo pas ti pe gagne sommeil. Quant à mo deux compagnons, les deux ti fini 
+dormi, car les deux pas ti faire cequi mo fine faire. 
+ 
+ 
+ ُّ
+ِ
+بي َّنلا 
+َ
+ءا
+َ
+ج
+َ
+ف 
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل  
+ُ
+ه
+َ
+با
+َ
+ر
+َ
+ش ى
+َ
+ت
+َ
+أ 
+ َّ
+ُ
+ثم ى
+ َّ
+ل
+َ
+ص
+َ
+ف 
+َ
+د
+ِ
+ج
+ْ
+س
+َ
+م
+ْ
+لا ى
+َ
+ت
+َ
+أ 
+ َّ
+ُ
+ثم 
+ُ
+م
+ِ
+ّ
+ل
+َ
+س
+ُ
+ي 
+َ
+نا
+َ
+ك ا
+َ
+م
+َ
+ك 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+ف
+ 
+ِ
+ءا
+َ
+م
+ َّ
+سلا 
+َ
+لى
+ِ
+إ 
+ُ
+ه
+َ
+س
+ْ
+أ
+َ
+ر 
+َ
+ع
+َ
+ف
+َ
+ر
+َ
+ـف ا
+ً
+ئ
+ْ
+ـي
+َ
+ش 
+ِ
+هي
+ِ
+ف 
+ْ
+د
+ِ
+َ
+يج 
+ْ
+م
+َ
+ل
+َ
+ـف 
+ُ
+ه
+ْ
+ن
+َ
+ع 
+َ
+ف
+َ
+ش
+َ
+ك
+َ
+ف 
+
+ 
+23
+Le prophète fine vini, li fine faire Salaam pareille couma li habitué faire Salaam, 
+ensuite li fine alle place cote li faire Swalaat et li fine faire Swalaat. Ensuite li fine 
+vine cote so du lait, li fine découvert li, li fine trouve qui pas ena narien dans le 
+récipient, et alors, li fine lève so la tête vers le ciel. 
+ 
+ 
+ُ
+ت
+ْ
+ل
+ُ
+ق
+َ
+ـف  
+ِ
+نيا
+َ
+ق
+ْ
+س
+َ
+أ 
+ْ
+ن
+َ
+م 
+ِ
+ق
+ْ
+س
+َ
+أ
+َ
+و 
+ِ
+ني
+َ
+م
+َ
+ع
+ْ
+ط
+َ
+أ 
+ْ
+ن
+َ
+م 
+ْ
+م
+ِ
+ع
+ْ
+ط
+َ
+أ 
+ َّ
+م
+ُ
+هللا 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+ك
+ِ
+ل
+ْ
+ه
+َ
+أ
+َ
+ف 
+ َّ
+ي
+َ
+ل
+َ
+ع و
+ُ
+ع
+ْ
+د
+َ
+ي 
+َ
+ن
+ْ
+لآا 
+(Quand mo fine trouve li faire sa), mo fine dire (à mo-même) : 
+“Ala li pour faire Du’aa contre moi et sa pour faire moi périr!” 
+Mais le prophète fine dire :  
+“Ô Allaah, donne à manger, celui qui donne-moi à manger, et donne à boire, celui 
+qui donne-moi à boire!” 
+ 
+ ا
+َ
+ه
+ ُّ
+ـي
+َ
+أ 
+ِ
+ز
+ُ
+ن
+ْ
+ع
+َ
+ْ
+لأا 
+َ
+لى
+ِ
+إ 
+ُ
+ت
+ْ
+ق
+َ
+ل
+َ
+ط
+ْ
+نا
+َ
+ف 
+َ
+ة
+َ
+ر
+ْ
+ف
+ َّ
+شلا 
+ُ
+ت
+ْ
+ذ
+َ
+خ
+َ
+أ
+َ
+و 
+ َّ
+ي
+َ
+ل
+َ
+ع ا
+َ
+ه
+ُ
+ـت
+ْ
+د
+َ
+د
+َ
+ش
+َ
+ف 
+ِ
+ة
+َ
+ل
+ْ
+م
+ َّ
+شلا 
+َ
+لى
+ِ
+إ 
+ُ
+ت
+ْ
+د
+َ
+م
+َ
+ع
+َ
+ـف
+ 
+ُ
+س
+َ
+ر
+ِ
+ل ا
+َ
+ه
+ُ
+َ
+بح
+ْ
+ذ
+َ
+أ
+َ
+ف 
+ُ
+ن
+َ
+ْ
+سم
+َ
+أ 
+ِ
+ﷲ 
+ِ
+لو 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+ َّ
+ن
+ُ
+ه
+ ُّ
+ل
+ُ
+ك 
+ٌ
+ل
+ َّ
+ف
+ُ
+ح 
+ َّ
+ن
+ُ
+ه ا
+َ
+ذ
+ِ
+إ
+َ
+و 
+ٌ
+ة
+َ
+ل
+ِ
+فا
+َ
+ح 
+َ
+ي
+ِ
+ه ا
+َ
+ذ
+ِ
+إ
+َ
+ف  
+Alors, mo fine serre (mo) cape lor moi, mo fine prend couteau, mo fine alle vers 
+bans chèvres là, vers cequi plus gros, afin qui mo égorge li, pour le messager 
+d’Allaah, mais (à ma surprise) mo fine trouve qui so mamelle remplie avec du lait, 
+et mo fine trouve qui tous bans chèvres là zotte mamelles remplies avec du lait. 
+ 
+ 
+ٍ
+د
+ َّ
+م
+َ
+ُ
+مح 
+ِ
+ل
+ِ
+لآ 
+ٍ
+ء
+َ
+ʭ
+ِ
+إ 
+َ
+لى
+ِ
+إ 
+ُ
+ت
+ْ
+د
+َ
+م
+َ
+ع
+َ
+ـف
+ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+َ
+ي او
+ُ
+نا
+َ
+ك ا
+َ
+م 
+ُ
+ت
+ْ
+ب
+َ
+ل
+َ
+ح
+َ
+ف ... 
+ِ
+هي
+ِ
+ف او
+ُ
+ب
+ِ
+ل
+َ
+ت
+ْ
+َ
+يح 
+ْ
+ن
+َ
+أ 
+َ
+نو
+ُ
+ع
+َ
+م
+ْ
+ط
+ 
+ِ
+ﷲ 
+ِ
+لو
+ُ
+س
+َ
+ر 
+َ
+لى
+ِ
+إ 
+ُ
+ت
+ْ
+ئ
+ِ
+ج
+َ
+ف 
+ٌ
+ة
+َ
+و
+ْ
+غ
+َ
+ر 
+ُ
+ه
+ْ
+ت
+َ
+ل
+َ
+ع 
+ َّ
+تى
+َ
+ح 
+ِ
+هي
+ِ
+ف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+Alors, mo fine dirige vers ene (gros) récipient qui ti appartenir à la famille de 
+Muhammad  qui banla pas ti habitué tire du lait pour mettre la-dans. Mo fine 
+tire du lait pour mettre la-dans jusqu’à qui ene la mousse fine vine par là-haut li 
+et mo fine vine cote le messager d’Allaah. 
+ 
+ 
+ُ
+س
+َ
+ر 
+َ
+ʮ 
+ُ
+ت
+ْ
+ل
+ُ
+ـق 
+َ
+ة
+َ
+ل
+ْ
+ـي
+ َّ
+للا 
+ُ
+م
+ُ
+ك
+َ
+با
+َ
+ر
+َ
+ش 
+ْ
+م
+ُ
+ت
+ْ
+ـب
+ِ
+ر
+َ
+ش
+َ
+أ 
+َ
+لا
+َ
+ق
+َ
+ـف 
+َ
+ʮ 
+ُ
+ت
+ْ
+ل
+ُ
+ق
+َ
+ـف 
+ِ
+ني
+َ
+ل
+َ
+و
+َ
+ʭ 
+ َّ
+ُ
+ثم 
+َ
+ب
+ِ
+ر
+َ
+ش
+َ
+ف 
+ْ
+ب
+َ
+ر
+ْ
+شا 
+ِ
+ﷲ 
+َ
+لو
+ 
+ِ
+ني
+َ
+ل
+َ
+و
+َ
+ʭ 
+ َّ
+ُ
+ثم 
+َ
+ب
+ِ
+ر
+َ
+ش
+َ
+ف 
+ْ
+ب
+َ
+ر
+ْ
+شا 
+ِ
+ﷲ 
+َ
+لو
+ُ
+س
+َ
+ر  
+(Quand le prophète fine trouve moi), li fine demandé : 
+“Est-ce qui zotte fine boire zotte du lait azordi soir ?” 
+Mo fine dire : 
+“Ô messager d’Allaah, boire !” 
+Li fine boire (ene tipeu), ensuite li fine donne-moi li. 
+
+ 
+24
+Mo fine dire : 
+“Ô messager d’Allaah, boire !” 
+Li fine boire (ene tipeu), ensuite li fine donne-moi (cequi fine resté). 
+ 
+ 
+ َّ
+ِ
+بي َّنلا 
+ َّ
+ن
+َ
+أ 
+ُ
+ت
+ْ
+ف
+َ
+ر
+َ
+ع ا
+ َّ
+م
+َ
+ل
+َ
+ـف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+َ
+لى
+ِ
+إ 
+ُ
+تي
+ِ
+ق
+ْ
+ل
+ُ
+أ 
+ َّ
+تى
+َ
+ح 
+ُ
+ت
+ْ
+ك
+ِ
+ح
+َ
+ض 
+ُ
+ه
+َ
+ت
+َ
+و
+ْ
+ع
+َ
+د 
+ُ
+ت
+ْ
+ب
+َ
+ص
+َ
+أ
+َ
+و 
+َ
+ي
+ِ
+و
+َ
+ر 
+ْ
+د
+َ
+ق
+ 
+ِ
+ض
+ْ
+ر
+َ
+ْ
+لأا  
+Quand mo fine trouve qui le prophète so la soif fine allé et qui so Du’aa fine porte 
+lor moi, mo fine commence riyer jusqu’à qui mo fine tombe par terre. 
+ 
+ 
+ ُّ
+ِ
+بي َّنلا 
+َ
+لا
+َ
+ق
+َ
+ـف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص   ي
+ِ
+ر
+ْ
+م
+َ
+أ 
+ْ
+ن
+ِ
+م 
+َ
+نا
+َ
+ك 
+ِ
+ﷲ 
+َ
+لو
+ُ
+س
+َ
+ر 
+َ
+ʮ 
+ُ
+ت
+ْ
+ل
+ُ
+ق
+َ
+ـف 
+ُ
+دا
+َ
+د
+ْ
+ق
+ِ
+م 
+َ
+ʮ 
+َ
+ك
+ِ
+تآ
+ْ
+و
+َ
+س ى
+َ
+د
+ْ
+ح
+ِ
+إ
+ ا
+َ
+ذ
+َ
+ك 
+ُ
+ت
+ْ
+ل
+َ
+ع
+َ
+ـف
+َ
+و ا
+َ
+ذ
+َ
+ك
+َ
+و ا
+َ
+ذ
+َ
+ك  
+Le prophète fine dire : 
+“Ô Miqdaad, sa qualité riyé la li ene acte vilain de to part!” 
+Mo fine dire : 
+“Ô messager, fine arrive moi sa et sa, et mo fine faire telle zaffaire !” 
+ 
+ 
+ ُّ
+ِ
+بي َّنلا 
+َ
+لا
+َ
+ق
+َ
+ـف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  ا
+َ
+ن
+ْ
+ـي
+َ
+ـب
+ِ
+حا
+َ
+ص 
+َ
+ظ
+ِ
+قو
+ُ
+ن
+َ
+ـف 
+ِ
+ني
+َ
+ت
+ْ
+ـن
+َ
+ذآ 
+َ
+ت
+ْ
+ن
+ُ
+ك 
+َ
+لا
+َ
+ف
+َ
+أ 
+ِ
+ﷲ 
+َ
+ن
+ِ
+م 
+ٌ
+ة
+َ
+ْ
+حم
+َ
+ر 
+ َّ
+لا
+ِ
+إ 
+ِ
+ه
+ِ
+ذ
+َ
+ه ا
+َ
+م
+ ا
+َ
+ه
+ْ
+ـن
+ِ
+م 
+ِ
+نا
+َ
+بي
+ِ
+ص
+ُ
+ي
+َ
+ـف  
+Le prophète fine dire : 
+“Sa c’est simplement ene miséricorde depuis Allaah! To pas ti capave mettre moi 
+au courant, afin qui nous lève to deux compagnons, et les deux aussi ti capave 
+boire la-dans !” 
+ 
+ 
+َ
+ع
+َ
+م ا
+َ
+ه
+ُ
+ـت
+ْ
+ـب
+َ
+ص
+َ
+أ
+َ
+و ا
+َ
+ه
+َ
+ـت
+ْ
+ـب
+َ
+ص
+َ
+أ ا
+َ
+ذ
+ِ
+إ 
+ِ
+لي
+َ
+ʪ
+ُ
+أ ا
+َ
+م 
+ِ
+ّ
+ق
+َ
+ْ
+لح
+ِ
+ʪ 
+َ
+ك
+َ
+ث
+َ
+ع
+َ
+ـب ي
+ِ
+ذ
+ َّ
+لا
+َ
+و 
+ُ
+ت
+ْ
+ل
+ُ
+ق
+َ
+ـف 
+َ
+ن
+ِ
+م ا
+َ
+ه
+َ
+ـبا
+َ
+ص
+َ
+أ 
+ْ
+ن
+َ
+م 
+َ
+ك
+ 
+ِ
+سا َّنلا  
+Mo fine dire : 
+“Serment lor Celui qui fine envoye ou avec la vérité, quand ou fine boire et mo 
+fine boire ensemble avec ou, mo pas casse la tête qui sanla parmi bans dimounes 
+qui boire la-dans !”] 
+(MUSLIM 2055) 
+ 
+ 
+
+ 
+25
+Faire So Bans Alliés Vine Discute Avec Bans Mu’min 
+ 
+Allaah dire : (6:121) 
+ 
+ 
+ْ
+م
+ُ
+كو
+ُ
+ل
+ِ
+دا
+َ
+ج
+ُ
+ي
+ِ
+ل 
+ْ
+م
+ِ
+ه
+ِ
+ئا
+َ
+ي
+ِ
+ل
+ْ
+و
+َ
+أ 
+َ
+لى
+ِ
+إ 
+َ
+نو
+ُ
+حو
+ُ
+ي
+َ
+ل 
+َ
+ين
+ِ
+طا
+َ
+ي
+ َّ
+شلا 
+ َّ
+ن
+ِ
+إ
+َ
+و 
+[ Certainement bans Shaytwaan inspire à zotte bans alliés afin qui banla discute 
+avec zotte.] 
+ 
+Allaah dire : (22:3) 
+ 
+ 
+ٍ
+دي
+ِ
+ر
+َ
+م 
+ٍ
+نا
+َ
+ط
+ْ
+ي
+َ
+ش 
+ َّ
+ل
+ُ
+ك 
+ُ
+ع
+ِ
+ب
+ َّ
+ت
+َ
+ـي
+َ
+و 
+ٍ
+م
+ْ
+ل
+ِ
+ع 
+ِ
+ْ
+ير
+َ
+غ
+ِ
+ب 
+ِ
+ َّ
+ɍا 
+ِ
+في 
+ُ
+ل
+ِ
+دا
+َ
+ُ
+يج 
+ْ
+ن
+َ
+م 
+ِ
+سا َّنلا 
+َ
+ن
+ِ
+م
+َ
+و 
+[  Parmi  bans  dimounes,  ena  qui  discute  concernant  Allaah  sans  aucun 
+connaissance et li suivre chaque Shaytwaan rebelle.] 
+ 
+Rapporté par Abu Is-haaq : 
+ 
+ 
+ُ
+ت
+ْ
+ل
+ُ
+ـق 
+ َّ
+ن
+ِ
+إ
+َ
+و 
+َ
+ق
+َ
+د
+َ
+ص 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ِ
+ه
+ْ
+ي
+َ
+ل
+ِ
+إ ى
+َ
+حو
+ُ
+ي 
+ُ
+ه
+ َّ
+ن
+َ
+أ 
+ُ
+م
+ُ
+ع
+ْ
+ز
+َ
+ـي 
+َ
+را
+َ
+ت
+ْ
+خ
+ُ
+م
+ْ
+لا 
+ َّ
+ن
+ِ
+إ 
+َ
+ر
+َ
+م
+ُ
+ع 
+ِ
+ن
+ْ
+ب 
+ِ
+ َّ
+ɍا 
+ِ
+د
+ْ
+ب
+َ
+ع
+ِ
+ل
+ 
+ْ
+م
+ِ
+ه
+ِ
+ئا
+َ
+ي
+ِ
+ل
+ْ
+و
+َ
+أ 
+َ
+لى
+ِ
+إ 
+َ
+نو
+ُ
+حو
+ُ
+ي
+َ
+ل 
+َ
+ين
+ِ
+طا
+َ
+ي
+ َّ
+شلا 
+[ Mo ti dire à Abdullaah Ibn Umar : 
+« Al-Mukhtaar prétendre qui li gagne Wahi ? » 
+Ibn Umar fine répondre : 
+« Li pe cause vrai ! Certainement bans Shaytwaan inspire zotte à bans alliés ! »] 
+(AL-MU’JAM-UL-AWSAT 924) 
+ 
+ 
+Faire Ene Dimoune Gagne Douleur 
+ 
+Rapporté par Uthmaan Ibn Abil-'Aas : 
+ 
+ 
+ِ
+ َّ
+ɍا 
+ِ
+لو
+ُ
+س
+َ
+ر 
+َ
+لى
+ِ
+إ ا
+َ
+ك
+َ
+ش 
+ُ
+ه
+ َّ
+ن
+َ
+أ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+ُ
+لو
+ُ
+س
+َ
+ر 
+ُ
+ه
+َ
+ل 
+َ
+لا
+َ
+ق
+َ
+ـف 
+َ
+م
+َ
+ل
+ْ
+س
+َ
+أ 
+ُ
+ذ
+ْ
+ن
+ُ
+م 
+ِ
+ه
+ِ
+د
+َ
+س
+َ
+ج 
+ِ
+في 
+ُ
+ه
+ُ
+د
+ِ
+َ
+يج ا
+ً
+ع
+َ
+ج
+َ
+و
+ 
+ِ
+ َّ
+ɍا 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+َ
+ع
+ْ
+ب
+َ
+س 
+ْ
+ل
+ُ
+ق
+َ
+و 
+ً
+ʬ
+َ
+لا
+َ
+ث 
+ِ
+ َّ
+ɍا 
+ِ
+م
+ْ
+س
+ِ
+ʪ 
+ْ
+ل
+ُ
+ق
+َ
+و 
+َ
+ك
+ِ
+د
+َ
+س
+َ
+ج 
+ْ
+ن
+ِ
+م 
+َ
+ َّ
+لم
+َ
+َ
+Ϧ ي
+ِ
+ذ
+ َّ
+لا ى
+َ
+ل
+َ
+ع 
+َ
+ك
+َ
+د
+َ
+ي 
+ْ
+ع
+َ
+ض
+ 
+ِ
+ّ
+ر
+َ
+ش 
+ْ
+ن
+ِ
+م 
+ِ
+ه
+ِ
+ت
+َ
+ر
+ْ
+د
+ُ
+ق
+َ
+و 
+ِ
+ َّ
+ɍ
+ِ
+ʪ 
+ُ
+ذو
+ُ
+ع
+َ
+أ 
+ٍ
+تا
+ َّ
+ر
+َ
+م  
+ُ
+ر
+ِ
+ذا
+َ
+ح
+ُ
+أ
+َ
+و 
+ُ
+د
+ِ
+ج
+َ
+أ ا
+َ
+م  
+[ Mo fine plaindre ene douleur qui mo ti pe gagné dans mo le corps depuis qui 
+mo ti accepté l'Islaam, au messager d'Allaah, et le messager d'Allaah  fine dire 
+moi : 
+
+ 
+26
+« Pose to la main lor place cote to pe gagne douleur dans to le corps et ensuite 
+dire 3 fois : Bismillaah, et 7 fois : A-‘ouzu Billaahi Wa Qudratihii min Sharri Maa 
+Ajidu Wa Uhaazir. »] 
+(MUSLIM 4/1728/2202) 
+ 
+ 
+Faire Dimounes Gagne Peur Avec So La Voix 
+ 
+Rapporté par Suhayl Ibn Abi Swaalih : 
+ 
+ ا
+َ
+ن
+َ
+ل 
+ٌ
+م
+َ
+لا
+ُ
+غ ي
+ِ
+ع
+َ
+م
+َ
+و ... 
+َ
+ة
+َ
+ث
+ِ
+را
+َ
+ح 
+ِ
+ني
+َ
+ب 
+َ
+لى
+ِ
+إ 
+ِ
+بي
+َ
+أ 
+ِ
+ني
+َ
+ل
+َ
+س
+ْ
+ر
+َ
+أا
+َ
+ن
+َ
+ل 
+ٌ
+ب
+ِ
+حا
+َ
+ص 
+ْ
+وَأ  
+ٍ
+ط
+ِ
+ئا
+َ
+ح 
+ْ
+ن
+ِ
+م 
+ٍ
+دا
+َ
+ن
+ُ
+م 
+ُ
+ها
+َ
+دا
+َ
+ن
+َ
+ـف
+ ا
+ً
+ئ
+ْ
+ـي
+َ
+ش 
+َ
+ر
+َ
+ـي 
+ْ
+م
+َ
+ل
+َ
+ـف 
+ِ
+ط
+ِ
+ئا
+َ
+ْ
+لحا ى
+َ
+ل
+َ
+ع ي
+ِ
+ع
+َ
+م ي
+ِ
+ذ
+ َّ
+لا 
+َ
+ف
+َ
+ر
+ْ
+ش
+َ
+أ
+َ
+و ... 
+ِ
+ه
+ِ
+ْ
+سم
+ِ
+ʪ  
+[ Mo papa fine envoye moi vers Banu Haarithah et ti ena nous jeune esclave avec 
+moi. Ene quicaine fine crié li par so nom depuis ene jardin. Esclave avec moi la 
+fine montre lor (muraille) jardin la, mais li pas fine trouve narien.  
+ 
+ 
+َ
+ك
+ِ
+ل
+َ
+ذ 
+ُ
+ت
+ْ
+ر
+َ
+ك
+َ
+ذ
+َ
+ف 
+َ
+ت
+ْ
+ع
+ِ
+َ
+سم ا
+َ
+ذ
+ِ
+إ 
+ْ
+ن
+ِ
+ك
+َ
+ل
+َ
+و 
+َ
+ك
+ْ
+ل
+ِ
+س
+ْ
+ر
+ُ
+أ 
+ْ
+َ
+لم ا
+َ
+ذ
+َ
+ه 
+َ
+ق
+ْ
+ل
+َ
+ـت 
+َ
+ك
+ َّ
+ن
+َ
+أ 
+ُ
+ت
+ْ
+ر
+َ
+ع
+َ
+ش 
+ْ
+و
+َ
+ل 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ِ
+بي
+َ
+ِ
+لأ
+ 
+ َّ
+ن
+ِ
+إ 
+َ
+لا
+َ
+ق 
+ُ
+ه
+ َّ
+ن
+َ
+أ 
+ِ
+ َّ
+ɍا 
+ِ
+لو
+ُ
+س
+َ
+ر 
+ْ
+ن
+َ
+ع 
+ُ
+ث
+ِ
+ّ
+د
+َ
+ُ
+يح 
+َ
+ة
+َ
+ر
+ْ
+ـي
+َ
+ر
+ُ
+ه 
+َ
+ʪ
+َ
+أ 
+ُ
+ت
+ْ
+ع
+ِ
+َ
+سم 
+ِ
+ّ
+ني
+ِ
+إ
+َ
+ف 
+ِ
+ة
+َ
+لا
+ َّ
+صل
+ِ
+ʪ 
+ِ
+دا
+َ
+ن
+َ
+ـف 
+ً
+ʫ
+ْ
+و
+َ
+ص
+ 
+َ
+ل
+َ
+و 
+ َّ
+لى
+َ
+و 
+ِ
+ة
+َ
+لا
+ َّ
+صل
+ِ
+ʪ 
+َ
+ي
+ِ
+دو
+ُ
+ن ا
+َ
+ذ
+ِ
+إ 
+َ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ٌ
+صا
+َ
+ص
+ُ
+ح 
+ُ
+ه 
+Mo fine raconte sa mo papa, et alors, li fine dire :  
+« Si mo ti pensé qui to pour joindre sa, mo pas ti pour envoye toi. Mais si to 
+entendre kit la voix, donne Azaan pour Swalaat, car mo fine entendre Abu 
+Hurayrah pe rapporte depuis le prophète qui li fine dire : Quand donne Azaan 
+pour Swalaat, Shaytwaan vire le dos allé, en laissant l’air sorti de li.»] 
+(MUSLIM 584) 
+ 
+Sheikh Uthaymiin dire : 
+وربما يروعون الإنس 
+[ Li possible qui bans Jinn faire bans Insaan gagne peur.] 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+27
+Coquin Du Bien Dimounes 
+ 
+Rapporté par Ubay Ibn Ka’b : 
+ 
+ 
+ِ
+ه
+ْ
+ب
+ِ
+ش 
+ٍ
+ة
+ َّ
+با
+َ
+د
+ِ
+ب 
+َ
+و
+ُ
+ه ا
+َ
+ذ
+ِ
+إ
+َ
+ف 
+ٍ
+ة
+َ
+ل
+ْ
+ـي
+َ
+ل 
+َ
+تا
+َ
+ذ 
+ُ
+ه
+َ
+س
+َ
+ر
+َ
+ح
+َ
+ف 
+ُ
+ص
+ُ
+ق
+ْ
+ـن
+َ
+ـي 
+َ
+نا
+َ
+ك
+َ
+ف 
+ٍ
+ر
+َْ
+تم 
+ْ
+ن
+ِ
+م 
+ٌ
+ن
+ْ
+ر
+ُ
+ج 
+ُ
+ه
+َ
+ل 
+َ
+نا
+َ
+ك 
+ُ
+ه
+ َّ
+ن
+َ
+أ
+ 
+ْ
+م
+َ
+أ 
+ ٌّ
+ِ
+ّ
+ني
+ِ
+ج 
+َ
+ت
+ْ
+ن
+َ
+أ ا
+َ
+م 
+َ
+لا
+َ
+ق
+َ
+ـف 
+َ
+م
+َ
+لا
+ َّ
+سلا 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ َّ
+د
+َ
+ر
+َ
+ـف 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+ف 
+ِ
+م
+ِ
+ل
+َ
+ت
+ْ
+ح
+ُ
+م
+ْ
+لا 
+ِ
+م
+َ
+لا
+ُ
+غ
+ْ
+لا  
+َ
+لا 
+َ
+لا
+َ
+ق 
+ ٌّ
+ي
+ِ
+س
+ْ
+ن
+ِ
+إ
+ 
+ ٌّ
+ِ
+ّ
+ني
+ِ
+ج 
+ْ
+ل
+َ
+ب 
+[ Mo ti ena un peu tamme et li ti pe diminué. Ene nuit, mo fine veille li, et voilà 
+qui mo fine trouve ene bébête qui ressemblé ene jeune garçon qui fine fecque 
+vine Baaligh. Mo fine faire li Salaam et li fine répondre moi mo Salaam. Mo fine 
+demande li :  
+« To ene Jinn oubien ene Insaan ? »  
+Li fine répondre :  
+« Mo ene Jinn. »  
+ 
+ ا
+َ
+ذ
+َ
+ك
+َ
+ه 
+َ
+لا
+َ
+ق 
+ٍ
+ب
+ْ
+ل
+َ
+ك 
+ُ
+ر
+ْ
+ع
+َ
+ش 
+ُ
+ه
+ُ
+ر
+ْ
+ع
+َ
+ش
+َ
+و 
+ٍ
+ب
+ْ
+ل
+َ
+ك 
+ُ
+د
+َ
+ي 
+ُ
+ه
+ُ
+د
+َ
+ي ا
+َ
+ذ
+ِ
+إ
+َ
+ف 
+ُ
+ه
+َ
+د
+َ
+ي 
+ُ
+ه
+َ
+ل
+َ
+وا
+َ
+ن
+َ
+ـف 
+َ
+ك
+َ
+د
+َ
+ي 
+ِ
+ني
+ْ
+ل
+ِ
+وا
+َ
+ن
+َ
+ـف 
+َ
+لا
+َ
+ق
+ 
+ِ
+ت
+َ
+م
+ِ
+ل
+َ
+ع 
+ْ
+د
+َ
+ق 
+َ
+لا
+َ
+ق 
+ِ
+ّ
+ن
+ِ
+ْ
+لجا 
+ُ
+ق
+ْ
+ل
+َ
+خ  
+ِ
+ّ
+ني
+ِ
+م 
+ ُّ
+د
+َ
+ش
+َ
+أ 
+ٌ
+ل
+ُ
+ج
+َ
+ر 
+ْ
+م
+ِ
+هي
+ِ
+ف ا
+َ
+م 
+ َّ
+ن
+َ
+أ 
+ ُّ
+ن
+ِ
+ْ
+لجا 
+Mo fine dire li :  
+«Donne moi to la main ! »  
+Li fine donne moi so la main, et voilà qui so la main couma la patte lichien et so 
+bans poils couma poils lichien.  
+Mo fine dire li :  
+« C’est sa forme de Jinn ? »  
+Li fine dire moi :  
+« Bans Jinn conné qui pas ena aucun zomme parmi banla qui plus solide qui 
+moi. » 
+  
+ 
+َ
+لا
+َ
+ق 
+َ
+ك
+ِ
+ما
+َ
+ع
+َ
+ط 
+ْ
+ن
+ِ
+م 
+ُ
+بي
+ِ
+ص
+ُ
+ن ا
+َ
+ن
+ْ
+ـئ
+ِ
+ج
+َ
+ف 
+َ
+ة
+َ
+ق
+َ
+د
+ َّ
+صلا 
+ ُّ
+ب
+ِ
+ُ
+تح 
+َ
+ك
+ َّ
+ن
+َ
+أ ا
+َ
+ن
+َ
+غ
+َ
+ل
+َ
+ـب 
+َ
+لا
+َ
+ق 
+َ
+ك
+ِ
+ب 
+َ
+ءا
+َ
+ج ا
+َ
+م
+َ
+ف 
+َ
+لا
+َ
+ق
+ 
+ْ
+لآا 
+ِ
+ه
+ِ
+ذ
+َ
+ه 
+َ
+لا
+َ
+ق 
+ْ
+م
+ُ
+ك
+ْ
+ن
+ِ
+م ا
+َ
+ني
+ِ
+ج
+ْ
+ن
+ُ
+ـي ا
+َ
+م
+َ
+ف 
+ ُّ
+ي
+َ
+ْ
+لحا 
+َ
+و
+ُ
+ه 
+ َّ
+لا
+ِ
+إ 
+َ
+ه
+َ
+ل
+ِ
+إ 
+َ
+لا 
+ُ
+ﷲ) 
+ِ
+ة
+َ
+ر
+َ
+ق
+َ
+ـب
+ْ
+لا 
+ِ
+ة
+َ
+رو
+ُ
+س 
+ِ
+في 
+ِ
+تي
+ َّ
+لا 
+ُ
+ة
+َ
+ي
+ ا َّن
+ِ
+م 
+َ
+ير
+ِ
+ج
+ُ
+أ 
+ُ
+ح
+ِ
+ب
+ْ
+ص
+ُ
+ي 
+َ
+ين
+ِ
+ح ا
+َ
+َ
+لها
+َ
+ق 
+ْ
+ن
+َ
+م
+َ
+و 
+َ
+ح
+ِ
+ب
+ْ
+ص
+ُ
+ي 
+ َّ
+تى
+َ
+ح ا َّن
+ِ
+م 
+َ
+ير
+ِ
+ج
+ُ
+أ ي
+ِ
+س
+ُْ
+يم 
+َ
+ين
+ِ
+ح ا
+َ
+َ
+لها
+َ
+ق 
+ْ
+ن
+َ
+م (
+ُ
+مو
+ ُّ
+ي
+َ
+ق
+ْ
+لا
+
+ 
+28
+ 
+ِ
+ﷲ 
+َ
+لو
+ُ
+س
+َ
+ر ى
+َ
+ت
+َ
+أ 
+َ
+ح
+َ
+ب
+ْ
+ص
+َ
+أ ا
+ َّ
+م
+َ
+ل
+َ
+ـف 
+َ
+ي
+ِ
+س
+ُْ
+يم 
+ َّ
+تى
+َ
+حى
+ َّ
+ل
+َ
+ص  
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ  
+َ
+ق
+َ
+د
+َ
+ص 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+ه
+َ
+ل 
+َ
+ك
+ِ
+ل
+َ
+ذ 
+َ
+ر
+َ
+ك
+َ
+ذ
+َ
+ف
+ 
+ُ
+ثي
+ِ
+ب
+َ
+ْ
+لخا 
+Mo fine demande li :  
+« Qui fine amène toi ici ? »  
+Li fine répondre :  
+« Nous fine apprendre qui to content faire la charité. Alors, nous fine vine prend 
+de to nourriture. »  
+Mo fine dire li :  
+«Qui pour sauve nous contre zotte ? »  
+Li fine répondre :  
+« Sa Aayat qui dans Sourah Baqarah la : Allaahu Laa ilaaha illaa Huwal Hayyul 
+Qayyoum... Celui qui dire sa le soir, li être protégé contre nous jusqu’à le matin et 
+celui qui dire sa le matin li être protégé contre nous jusqu’à le soir. » 
+Quand fine arrive le matin, mo fine vine cote le messager d’Allaah et mo fine 
+raconte li cequi fine arrivé.  
+Le prophète fine dire :  
+« Malpropre la fine cause vrai. »] 
+(AL-MUSTADRAK 1/201/541, AL-MU’JAM-UL-KABIIR 541) 
+ 
+ 
+Brule Lacaze Bans Dimounes 
+ 
+Rapporté par Ibn Abbaas : 
+ 
+ 
+ِ
+ َّ
+ɍا 
+ِ
+لو
+ُ
+س
+َ
+ر 
+ْ
+ى
+َ
+د
+َ
+ي 
+َ
+ْ
+ين
+َ
+ـب ا
+َ
+ه
+ْ
+ـت
+َ
+ق
+ْ
+ل
+َ
+أ
+َ
+ف ا
+َ
+ِ
+đ 
+ْ
+ت
+َ
+ءا
+َ
+ج
+َ
+ف 
+َ
+ة
+َ
+لي
+ِ
+ت
+َ
+ف
+ْ
+لا 
+ ُّ
+ر
+ُ
+َ
+تج 
+ْ
+ت
+َ
+ذ
+َ
+خ
+َ
+أ
+َ
+ف 
+ٌ
+ة
+َ
+ر
+ْ
+أ
+َ
+ف 
+ْ
+ت
+َ
+ءا
+َ
+جصلى ﷲ عليه 
+وسلم 
+ِ
+م
+َ
+ه
+ْ
+ر
+ِ
+ّ
+دلا 
+ِ
+ع
+ِ
+ض
+ْ
+و
+َ
+م 
+َ
+ل
+ْ
+ث
+ِ
+م ا
+َ
+ه
+ْ
+ـن
+ِ
+م 
+ْ
+ت
+َ
+ق
+َ
+ر
+ْ
+ح
+َ
+أ
+َ
+ف ا
+َ
+ه
+ْ
+ـي
+َ
+ل
+َ
+ع ا
+ً
+د
+ِ
+عا
+َ
+ق 
+َ
+نا
+َ
+ك 
+ِ
+تى
+ َّ
+لا 
+ِ
+ة
+َ
+ر
+ْ
+م
+ُ
+ْ
+لخا ى
+َ
+ل
+َ
+ع 
+[ Ene le rat fine vini, li fine commence risse la mèche (d’ene la lampe), li fine 
+amène li et li fine jette li juste devant le messager d’Allaah, lor Khumrah qui le 
+prophète ti pe assize lor la, et li fine brule ene boute de sa Khumrah la, largeur 
+d’ene Dirham.  
+ 
+ 
+ْ
+م
+ُ
+ك
+َ
+ق
+ِ
+ر
+ْ
+ح
+َ
+ت
+َ
+ـف ا
+َ
+ذ
+َ
+ه ى
+َ
+ل
+َ
+ع 
+ِ
+ه
+ِ
+ذ
+َ
+ه 
+َ
+ل
+ْ
+ث
+ِ
+م 
+ ُّ
+ل
+ُ
+د
+َ
+ي 
+َ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ َّ
+ن
+ِ
+إ
+َ
+ف 
+ْ
+م
+ُ
+ك
+َ
+ج
+ُ
+ر
+ُ
+س او
+ُ
+ئ
+ِ
+ف
+ْ
+ط
+َ
+أ
+َ
+ف 
+ْ
+م
+ُ
+ت
+ْ
+ِ
+نم ا
+َ
+ذ
+ِ
+إ 
+َ
+لا
+َ
+ق
+َ
+ـف 
+Alors, le prophète fine dire :  
+“Quand zotte dormi, teigne zotte la lampes, car Shaytwaan li montré sa le rat la, 
+sa la lampe la, et alors li brule zotte.”] 
+(ABU DAOUD 4567) 
+ 
+
+ 
+29
+Le prophète dire : 
+ 
+ 
+ َّ
+ن
+ِ
+إ
+َ
+ف 
+ِ
+ءا
+َ
+ش
+ِ
+ع
+ْ
+لا 
+َ
+د
+ْ
+ن
+ِ
+ع 
+ْ
+م
+ُ
+ك
+َ
+نا
+َ
+ي
+ْ
+ـب
+ِ
+ص او
+ُ
+ت
+ِ
+ف
+ْ
+كا
+َ
+و 
+َ
+با
+َ
+و
+ْ
+ـب
+َ
+لأا او
+ُ
+في
+ِ
+ج
+َ
+أ
+َ
+و 
+َ
+ة
+َ
+ي
+ِ
+ق
+ْ
+س
+َ
+لأا او
+ُ
+ك
+ْ
+و
+َ
+أ
+َ
+و 
+َ
+ة
+َ
+ي
+ِ
+نلآا او
+ُ
+ر
+ِ
+ّ
+َ
+خم
+ 
+ً
+ة
+َ
+ف
+ْ
+ط
+َ
+خ
+َ
+و ا
+ً
+را
+َ
+ش
+ِ
+ت
+ْ
+نا 
+ِ
+ّ
+ن
+ِ
+ج
+ْ
+ل
+ِ
+ل 
+[ Couvert bans récipients, attache bans Siqaa, ferme bans la portes, empêche 
+zotte bans ti-zenfants (sorti) l’heure Esha, car (sa l’heure la) bans Jinn éparpillé et 
+zotte arrache (bans quitechoses) en vitesse.  
+ 
+ 
+َ
+ل
+ْ
+ه
+َ
+أ 
+ْ
+ت
+َ
+ق
+َ
+ر
+ْ
+ح
+َ
+أ
+َ
+ف 
+َ
+ة
+َ
+لي
+ِ
+ت
+َ
+ف
+ْ
+لا 
+ِ
+ت
+ َّ
+ر
+َ
+ـت
+ْ
+جا ا
+َ
+ َّ
+بم
+ُ
+ر 
+َ
+ة
+َ
+ق
+ِ
+س
+ْ
+ي
+َ
+و
+ُ
+ف
+ْ
+لا 
+ َّ
+ن
+ِ
+إ
+َ
+ف 
+ِ
+دا
+َ
+ق
+ ُّ
+رلا 
+َ
+د
+ْ
+ن
+ِ
+ع 
+َ
+حي
+ِ
+با
+َ
+ص
+َ
+م
+ْ
+لا او
+ُ
+ئ
+ِ
+ف
+ْ
+ط
+َ
+أ
+َ
+و
+ 
+ِ
+ت
+ْ
+ي
+َ
+ـب
+ْ
+لا 
+Éteigne bans la lampes quand (zotte alle) dormi. Li possible qui le rat risse la 
+mêche et li brule bans habitants d’ene lacaze.] 
+(BUKHARI 3316) 
+ 
+Rapporté par Abu Mousaa : 
+ 
+ 
+ ُّ
+ِ
+بي َّنلا 
+ُ
+م
+ِِ
+Ĕ
+ْ
+أ
+َ
+ش
+ِ
+ب 
+َ
+ث
+ِ
+ّ
+د
+ُ
+ح
+َ
+ف 
+ِ
+ل
+ْ
+ي
+ َّ
+للا 
+َ
+ن
+ِ
+م 
+ِ
+ه
+ِ
+ل
+ْ
+ه
+َ
+أ ى
+َ
+ل
+َ
+ع 
+ِ
+ة
+َ
+ني
+ِ
+د
+َ
+م
+ْ
+ل
+ِ
+ʪ 
+ٌ
+ت
+ْ
+ي
+َ
+ـب 
+َ
+ق
+َ
+ر
+َ
+ـت
+ْ
+حا 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+ َّ
+ن
+ِ
+إ 
+َ
+لا
+َ
+ق
+ 
+ْ
+م
+ُ
+ك
+ْ
+ن
+َ
+ع ا
+َ
+هو
+ُ
+ئ
+ِ
+ف
+ْ
+ط
+َ
+أ
+َ
+ف 
+ْ
+م
+ُ
+ت
+ْ
+ِ
+نم ا
+َ
+ذ
+ِ
+إ
+َ
+ف 
+ْ
+م
+ُ
+ك
+َ
+ل 
+ ٌّ
+و
+ُ
+د
+َ
+ع 
+َ
+ي
+ِ
+ه ا
+َ
+ َّ
+نم
+ِ
+إ 
+َ
+را َّنلا 
+ِ
+ه
+ِ
+ذ
+َ
+ه  
+[ Ene lacaze ti prend du feu dans Madiinah pendant qui so bans habitants ti pe 
+dormi pendant la nuit. Quand banla fine raconte sa le prophète, li fine dire :  
+“Certainement sa du feu la c’est ene l’ennemi pour zotte, et alors, quand zotte 
+alle dormi, éteigne li.”]    
+(BUKHARI 5820) 
+ 
+ 
+Créé Panique Dans Jihaad 
+ 
+Rapporté par Aaishah : 
+ 
+ 
+ْ
+ت
+َ
+ع
+َ
+ج
+َ
+ر
+َ
+ـف 
+ْ
+م
+ُ
+كا
+َ
+ر
+ْ
+خ
+ُ
+أ 
+ِ
+ َّ
+ɍا 
+َ
+دا
+َ
+ب
+ِ
+ع 
+ْ
+ي
+َ
+أ 
+ُ
+سي
+ِ
+ل
+ْ
+ب
+ِ
+إ 
+َ
+حا
+َ
+ص
+َ
+ف 
+َ
+نو
+ُ
+ك
+ِ
+ر
+ْ
+ش
+ُ
+م
+ْ
+لا 
+َ
+م
+ِ
+ز
+ُ
+ه 
+ٍ
+د
+ُ
+ح
+ُ
+أ 
+َ
+م
+ْ
+و
+َ
+ـي 
+َ
+نا
+َ
+ك ا
+ َّ
+م
+َ
+ل
+ 
+ْ
+م
+ُ
+ها
+َ
+ر
+ْ
+خ
+ُ
+أ
+َ
+و 
+َ
+ي
+ِ
+ه 
+ْ
+ت
+َ
+د
+َ
+ل
+َ
+ـت
+ْ
+جا
+َ
+ف 
+ْ
+م
+ُ
+ه
+َ
+لاو
+ُ
+أ 
+[ Quand ti arrive jour Uhud, bans Mushrik ti perdi la guerre. Alors, Ibliis fine criyé:  
+“Ô bans esclaves d’Allaah, attention groupe qui par derrière zotte!”  
+
+ 
+30
+Alors, bans qui ti par devant fine viré et zotte fine commence combattre bans 
+musulmans qui ti par derrière.  
+ 
+ او
+ُ
+ز
+َ
+ج
+َ
+ت
+ْ
+حا ا
+َ
+م 
+ِ
+ َّ
+ɍا
+َ
+و
+َ
+ـف 
+ِ
+بي
+َ
+أ 
+ِ
+بي
+َ
+أ 
+ِ
+ َّ
+ɍا 
+َ
+دا
+َ
+ب
+ِ
+ع 
+ْ
+ي
+َ
+أ 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ِ
+نا
+َ
+م
+َ
+ي
+ْ
+لا 
+ِ
+هي
+ِ
+ب
+َ
+ِ
+ϥ 
+َ
+و
+ُ
+ه ا
+َ
+ذ
+ِ
+إ
+َ
+ف 
+ُ
+ة
+َ
+ف
+ْ
+ـي
+َ
+ذ
+ُ
+ح 
+َ
+ر
+َ
+ظ
+َ
+ن
+َ
+ـف
+ 
+ْ
+م
+ُ
+ك
+َ
+ل 
+ُ
+ َّ
+ɍا 
+َ
+ر
+َ
+ف
+َ
+غ 
+ُ
+ة
+َ
+ف
+ْ
+ـي
+َ
+ذ
+ُ
+ح 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+هو
+ُ
+ل
+َ
+ـت
+َ
+ـق 
+ َّ
+تى
+َ
+ح 
+Pendant qui Huzayfah pe guetté, li fine trouve so papa Al-Yamaan. Li fine criyé :  
+“Ô bans esclaves d’Allaah, mo papa, mo papa!”  
+Serment lor Allaah, banla pas fine reculé jusqu’à qui zotte fine touye li.  
+Alors, Huzayfah fine dire :  
+“Qui Allaah pardonne zotte!”] 
+(BUKHARI 3047) 
+ 
+ 
+Istihaadwah 
+ 
+Rapporté par Hamnah Bint Jahsh : 
+ 
+ 
+ِ
+ َّ
+ɍا 
+َ
+لو
+ُ
+س
+َ
+ر 
+ُ
+ت
+ْ
+ي
+َ
+ـت
+َ
+أ
+َ
+ف 
+ً
+ة
+َ
+دي
+ِ
+د
+َ
+ش 
+ً
+ة
+َ
+ير
+ِ
+ث
+َ
+ك 
+ً
+ة
+َ
+ض
+ْ
+ي
+َ
+ح 
+ُ
+ضا
+َ
+ح
+َ
+ت
+ْ
+س
+ُ
+أ 
+ُ
+ت
+ْ
+ن
+ُ
+كصلى ﷲ عليه وسلم  
+ُ
+ه
+ُ
+ِ
+بر
+ْ
+خ
+ُ
+أ
+َ
+و 
+ِ
+هي
+ِ
+ت
+ْ
+ف
+َ
+ـت
+ْ
+س
+َ
+أ
+ 
+ِ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+ِ
+تا
+َ
+ض
+َ
+ك
+َ
+ر نم 
+ٌ
+ة
+َ
+ض
+ْ
+ك
+َ
+ر 
+ِ
+ه
+ِ
+ذ
+َ
+ه ا
+َ
+ َّ
+نم
+ِ
+إ ا
+َ
+َ
+له 
+َ
+لا
+َ
+ق
+َ
+ـف ...  
+[ Mo ti pe affectée par ene saignement intense. Mo fine vine cote le messager 
+d’Allaah pour demande li et pour informe li. 
+Le prophète fine dire moi :  
+“Sa c'est ene coup de pied parmi bans coup de pied de Shaytwaan.”] 
+(ABU DAOUD 248) 
+ 
+ 
+Enlève Ene Personne 
+ 
+Rapporté par Ibn Mas’oud : 
+ 
+ ا
+َ
+ن
+ْ
+ل
+ُ
+ق
+َ
+ـف 
+ِ
+با
+َ
+ع
+ِ
+ّ
+شلا
+َ
+و 
+ِ
+ة
+َ
+ي
+ِ
+د
+ْ
+و
+َ
+ْ
+لأا 
+ِ
+في 
+ُ
+ها
+َ
+ن
+ْ
+س
+َ
+م
+َ
+ت
+ْ
+لا
+َ
+ف 
+ُ
+ه
+َ
+ʭ
+ْ
+د
+َ
+ق
+َ
+ف
+َ
+ـف 
+ٍ
+ة
+َ
+ل
+ْ
+ـي
+َ
+ل 
+َ
+تا
+َ
+ذ 
+ِ
+ َّ
+ɍا 
+ِ
+لو
+ُ
+س
+َ
+ر 
+َ
+ع
+َ
+م ا َّن
+ُ
+ك
+ 
+ٌ
+م
+ْ
+و
+َ
+ـق ا
+َ
+ِ
+đ 
+َ
+ت
+َ
+ʪ 
+ٍ
+ة
+َ
+ل
+ْ
+ـي
+َ
+ل 
+ِ
+ّ
+ر
+َ
+ش
+ِ
+ب ا
+َ
+ن
+ْ
+ـت
+ِ
+ب
+َ
+ف ... 
+َ
+لي
+ِ
+ت
+ْ
+غا 
+ِ
+و
+َ
+أ 
+َ
+ير
+ِ
+ط
+ُ
+ت
+ْ
+سا 
+[ Ene nuit nous ti ensemble avec le messager d’Allaah et nous fine perdi li. Nous 
+fine cherche li dans bans vallées et bans chemins entre bans montagnes, (mais 
+nous pas fine trouve li).  
+
+ 
+31
+Nous fine dire :  
+«Bans Jinn fine prend li fine envolé fine allé oubien bans dimounes fine touye li 
+en cachiette ! »  
+Nous fine passe ene plus pire la nuit qui ene groupe dimounes capave passé.] 
+(MUSLIM 682) 
+ 
+Rapporté par Abdur-Rahmaan Ibn Abi Laylaa :  
+ 
+ 
+َ
+د
+ِ
+ق
+ُ
+ف
+َ
+ـف 
+ ُّ
+ن
+ِ
+ْ
+لجا 
+ُ
+ه
+ْ
+ت
+َ
+ـب
+َ
+س
+َ
+ف 
+َ
+ءا
+َ
+ش
+ِ
+ع
+ْ
+لا 
+ِ
+ه
+ِ
+م
+ْ
+و
+َ
+ـق 
+َ
+ع
+َ
+م ى
+ِ
+ّ
+ل
+َ
+ص
+ُ
+ي 
+َ
+ج
+َ
+ر
+َ
+خ 
+ِ
+را
+َ
+ص
+ْ
+ن
+َ
+لأا 
+َ
+ن
+ِ
+م 
+ِ
+ه
+ِ
+م
+ْ
+و
+َ
+ـق 
+ْ
+ن
+ِ
+م 
+ً
+لا
+ُ
+ج
+َ
+ر 
+ َّ
+ن
+َ
+أ
+ 
+ِ
+با
+ َّ
+ط
+َ
+ْ
+لخا 
+ِ
+ن
+ْ
+ب 
+َ
+ر
+َ
+م
+ُ
+ع 
+َ
+لى
+ِ
+إ 
+ُ
+ه
+ُ
+ت
+َ
+أ
+َ
+ر
+ْ
+ما 
+ِ
+ت
+َ
+ق
+َ
+ل
+َ
+ط
+ْ
+نا
+َ
+ف 
+ُ
+ه
+ْ
+ن
+َ
+ع 
+ُ
+ َّ
+ɍا 
+َ
+ى
+ِ
+ض
+َ
+ر  
+ُ
+ر
+َ
+م
+ُ
+ع 
+ُ
+ه
+ْ
+ن
+َ
+ع 
+َ
+ل
+َ
+أ
+َ
+س
+َ
+ف 
+َ
+ة
+ َّ
+ص
+ِ
+ق
+ْ
+لا 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ْ
+ت
+ َّ
+ص
+َ
+ق
+َ
+ـف
+ 
+َ
+ـف 
+ُ
+ه
+َ
+م
+ْ
+و
+َ
+ـق 
+َ
+د
+ِ
+ق
+ُ
+ف
+َ
+ـف 
+َ
+ءا
+َ
+ش
+ِ
+ع
+ْ
+لا ى
+ِ
+ّ
+ل
+َ
+ص
+ُ
+ي 
+َ
+ج
+َ
+ر
+َ
+خ 
+ْ
+م
+َ
+ع
+َ
+ـن او
+ُ
+لا
+َ
+ق  
+[ Ene personne parmi bans Answaar ti sorti pour alle faire Swalaat Esha ensemble 
+avec so tribu. Bans Jinn fine capture li, et alors, li fine disparaitre. So madame fine 
+alle cote Umar Ibnul Khattwaab et li fine raconte li qui so missier fine disparaitre. 
+Umar fine demande so tribu à propos li. 
+Banla fine dire : 
+“Oui, li ti sorti pour alle faire Swalaat Esha, li fine disparaître !”  
+ 
+ 
+ِ
+س 
+ُ
+ع
+َ
+ب
+ْ
+ر
+َ
+لأا 
+ِ
+ت
+َ
+ض
+َ
+م ا
+ َّ
+م
+َ
+ل
+َ
+ـف 
+َ
+ين
+ِ
+ن
+ِ
+س 
+َ
+ع
+َ
+ب
+ْ
+ر
+َ
+أ 
+َ
+ص
+ َّ
+ب
+َ
+ر
+َ
+ـت 
+ْ
+ن
+َ
+أ ا
+َ
+ه
+َ
+ر
+َ
+م
+َ
+أ
+َ
+ف ا
+َ
+ه
+َ
+م
+ْ
+و
+َ
+ـق 
+َ
+ل
+َ
+أ
+َ
+س
+َ
+ف 
+ُ
+ه
+ْ
+ت
+َ
+ر
+َ
+ـب
+ْ
+خ
+َ
+أ
+َ
+ف 
+ُ
+ه
+ْ
+ت
+َ
+ـت
+َ
+أ 
+َ
+ين
+ِ
+ن
+ 
+ْ
+ت
+َ
+ج
+ َّ
+و
+َ
+ز
+َ
+ـت
+َ
+ـف 
+َ
+ج
+ َّ
+و
+َ
+ز
+َ
+ـت
+َ
+ـت 
+ْ
+ن
+َ
+أ ا
+َ
+ه
+َ
+ر
+َ
+م
+َ
+أ
+َ
+ف 
+ْ
+م
+َ
+ع
+َ
+ـن او
+ُ
+لا
+َ
+ق
+َ
+ـف  
+Umar fine ordonne sa madame là pour attendre pendant quatre ans. Quand sa 
+quatre ans là fine traversé, madame-là fine vine cote Umar et li fine informe li de 
+so cas. Umar fine demande madame-là so peuple. 
+Banla fine répondre : 
+“Oui, li fine attendre pendant quatre ans !” 
+Alors, Umar fine permettre li pour alle marier et madame là fine marié. 
+ 
+ 
+ِ
+با
+ َّ
+ط
+َ
+ْ
+لخا 
+ِ
+ن
+ْ
+ب 
+َ
+ر
+َ
+م
+ُ
+ع 
+َ
+لى
+ِ
+إ 
+َ
+ك
+ِ
+ل
+َ
+ذ 
+ِ
+فى 
+ُ
+م
+ِ
+صا
+َ
+ُ
+يخ ا
+َ
+ه
+ُ
+ج
+ْ
+و
+َ
+ز 
+َ
+ءا
+َ
+ج
+َ
+ف 
+ُ
+ه
+ْ
+ن
+َ
+ع 
+ُ
+ َّ
+ɍا 
+َ
+ى
+ِ
+ض
+َ
+ر  
+ِ
+با
+ َّ
+ط
+َ
+ْ
+لخا 
+ُ
+ن
+ْ
+ب 
+ُ
+ر
+َ
+م
+ُ
+ع 
+َ
+لا
+َ
+ق
+َ
+ـف
+ 
+ُ
+ه
+ْ
+ن
+َ
+ع 
+ُ
+ َّ
+ɍا 
+َ
+ى
+ِ
+ض
+َ
+ر  
+َ
+ʮ ا
+ً
+ر
+ْ
+ذ
+ُ
+ع 
+ِ
+لى 
+ َّ
+ن
+ِ
+إ 
+ُ
+ه
+َ
+ل 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+ه
+َ
+تا
+َ
+ي
+َ
+ح 
+ُ
+ه
+ُ
+ل
+ْ
+ه
+َ
+أ 
+ُ
+م
+َ
+ل
+ْ
+ع
+َ
+ـي 
+َ
+لا 
+َ
+لي
+ِ
+و
+ َّ
+طلا 
+َ
+نا
+َ
+م
+ َّ
+زلا 
+ُ
+م
+ُ
+ك
+ُ
+د
+َ
+ح
+َ
+أ 
+ُ
+بي
+ِ
+غ
+َ
+ي
+ 
+ِ
+م
+َ
+أ 
+َ
+ك
+ُ
+ر
+ْ
+ذ
+ُ
+ع ا
+َ
+م
+َ
+و 
+َ
+لا
+َ
+ق 
+َ
+ين
+ِ
+ن
+ِ
+م
+ْ
+ؤ
+ُ
+م
+ْ
+لا 
+َ
+ير  
+(Après sa), so missier fine vine cote Umar Ibnul Khattwaab pour dispute à propos 
+sa. 
+Umar Ibnul Khattwaab fine dire li : 
+
+ 
+32
+“Ene dimoune parmi zotte li arrivé absent pendant ene longue période qui so 
+famille pas pe conné si pas li encore vivant !” 
+Missier la fine dire : 
+“Mo ena ene excuse, ô chef de bans Mu’min. ” 
+Umar fine demande li : 
+“Qui to excuse ?” 
+ 
+ 
+ ٌّ
+ن
+ِ
+ج 
+ْ
+م
+ُ
+ها
+َ
+ز
+َ
+غ
+َ
+ـف 
+ً
+لاي
+ِ
+و
+َ
+ط 
+ً
+ʭا
+َ
+م
+َ
+ز 
+ْ
+م
+ِ
+هي
+ِ
+ف 
+ُ
+ت
+ْ
+ث
+ِ
+ب
+َ
+ل
+َ
+ـف 
+ ُّ
+ن
+ِ
+ْ
+لجا 
+ِ
+نى
+ْ
+ت
+َ
+ـب
+َ
+س
+َ
+ف 
+َ
+ءا
+َ
+ش
+ِ
+ع
+ْ
+لا ى
+ِ
+ّ
+ل
+َ
+ص
+ُ
+أ 
+ُ
+ت
+ْ
+ج
+َ
+ر
+َ
+خ 
+َ
+لا
+َ
+ق
+ 
+ُ
+م 
+َ
+نو
+ُ
+ن
+ِ
+م
+ْ
+ؤ 
+ٌ
+دي
+ِ
+ع
+َ
+س 
+ َّ
+ك
+َ
+ش 
+َ
+نو
+ُ
+م
+ِ
+ل
+ْ
+س
+ُ
+م 
+َ
+لا
+َ
+ق 
+ْ
+وَأ  ا
+َ
+مي
+ِ
+ف 
+ِ
+نى
+ْ
+و
+َ
+ـب
+َ
+س
+َ
+ف 
+َ
+ʮا
+َ
+ب
+َ
+س 
+ْ
+م
+ُ
+ه
+ْ
+ـن
+ِ
+م ا
+ْ
+و
+َ
+ـب
+َ
+س
+َ
+ف 
+ْ
+م
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع او
+ُ
+ر
+َ
+ه
+َ
+ظ
+َ
+ف 
+ْ
+م
+ُ
+هو
+ُ
+ل
+َ
+ـتا
+َ
+ق
+َ
+ـف
+ 
+ِ
+ما
+َ
+ق
+ُ
+م
+ْ
+لا 
+َ
+ْ
+ين
+َ
+ـب 
+ِ
+نىو
+ُ
+ر
+ َّ
+ـي
+َ
+خ
+َ
+ف 
+َ
+ك
+َ
+ي
+ْ
+ـب
+َ
+س ا
+َ
+ن
+َ
+ل 
+ ُّ
+ل
+ِ
+َ
+يح 
+َ
+لا
+َ
+و ا
+ً
+م
+ِ
+ل
+ْ
+س
+ُ
+م 
+ً
+لا
+ُ
+ج
+َ
+ر 
+َ
+كا
+َ
+ر
+َ
+ـن او
+ُ
+لا
+َ
+ق
+َ
+ـف 
+ْ
+م
+ُ
+ه
+ْ
+ـن
+ِ
+م ا
+ْ
+و
+َ
+ـب
+َ
+س
+ 
+َ
+لا 
+َ
+ْ
+ين
+َ
+ـب
+َ
+و 
+َ
+س
+ْ
+ي
+َ
+ل
+َ
+ـف 
+ِ
+ل
+ْ
+ي
+ َّ
+لل
+ِ
+ʪ ا
+ َّ
+م
+َ
+أ ى
+ِ
+ع
+َ
+م او
+ُ
+ل
+َ
+ـب
+ْ
+ـق
+َ
+أ
+َ
+ف ى
+ِ
+ل
+ْ
+ه
+َ
+أ 
+َ
+لى
+ِ
+إ 
+َ
+لو
+ُ
+ف
+ُ
+ق
+ْ
+لا 
+ُ
+ت
+ْ
+ر
+َ
+ـت
+ْ
+خا
+َ
+ف ى
+ِ
+ل
+ْ
+ه
+َ
+أ 
+َ
+لى
+ِ
+إ 
+ِ
+لو
+ُ
+ف
+ُ
+ق
+ ا
+َ
+ه
+ُ
+ع
+َ
+ـب
+ْ
+ـت
+َ
+أ 
+ٍ
+حي
+ِ
+ر 
+ُ
+را
+َ
+ص
+ِ
+ع
+َ
+ف 
+ِ
+را
+َ
+ه َّـنل
+ِ
+ʪ ا
+ َّ
+م
+َ
+أ
+َ
+و 
+ِ
+نىو
+ُ
+ث
+ِ
+ّ
+د
+َ
+ُ
+يح  
+Sa dimoune là fine répondre : 
+“Mo ti sorti pour alle faire Swalaat Esha. Bans Jinn ti capture moi, et alors, mo 
+fine reste parmi banla pendant ene longue période ! Jusqu’à qui bans Jinn 
+musulmans fine vine conquérir sa bans Jinn Kaafir la zotte territoire, banla fine 
+combattre sa bans Jinn Kaafir là, et zotte fine faire la victoire lor banla. Banla fine 
+capture bans prisonniers parmi banla, et banla fine capture moi parmi bans qui 
+zotte fine capturé parmi banla.  
+Banla fine dire (moi) : 
+Nous trouve qui toi ene musulman, nous pas gagne droit capture toi !  
+Banla fine faire moi choisir entre qui mo reste parmi banla oubien qui mo 
+retourne à mo famille. Mo fine choisir pour retourne à mo famille. Banla fine vine 
+ensemble avec moi. Pendant la nuit, banla pas fine cause avec moi, mais pendant 
+la journée, mo fine suivre ene ouragan du vent.” 
+ 
+ 
+َ
+ق
+َ
+ـف 
+ُ
+ر
+َ
+م
+ُ
+ع 
+ُ
+ه
+َ
+ل 
+َ
+لا 
+ُ
+ه
+ْ
+ن
+َ
+ع 
+ُ
+ َّ
+ɍا 
+َ
+ى
+ِ
+ض
+َ
+ر  
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ِ
+ َّ
+ɍا 
+ُ
+م
+ْ
+سا 
+ِ
+ر
+َ
+ك
+ْ
+ذ
+ُ
+ي 
+ْ
+َ
+لم ا
+َ
+م
+َ
+و 
+َ
+لو
+ُ
+ف
+ْ
+لا 
+َ
+لا
+َ
+ق 
+ْ
+م
+ِ
+هي
+ِ
+ف 
+َ
+ك
+ُ
+ما
+َ
+ع
+َ
+ط 
+َ
+نا
+َ
+ك ا
+َ
+م
+َ
+ف
+... 
+َ
+ف
+َ
+د
+َ
+ْ
+لجا 
+َ
+لا
+َ
+ق 
+ْ
+م
+ِ
+هي
+ِ
+ف 
+َ
+ك
+ُ
+با
+َ
+ر
+َ
+ش 
+َ
+نا
+َ
+ك ا
+َ
+م
+َ
+ف 
+َ
+لا
+َ
+ق  
+Umar fine demande li : 
+“Qui to ti pe mangé parmi banla ?” 
+Li fine répondre : 
+“Haricots et cequi pas prend nom Allaah lor là.” 
+Umar fine demande li : 
+“Qui to ti pe boire parmi banla ?” 
+
+ 
+33
+Li fine répondre : 
+“La boisson qui pas couvert !” 
+ 
+ُ
+ر
+َ
+م
+ُ
+ع 
+ُ
+ه
+َ
+ر
+ َّ
+ـي
+َ
+خ
+َ
+ف 
+ُ
+ه
+ْ
+ن
+َ
+ع 
+ُ
+ َّ
+ɍا 
+َ
+ى
+ِ
+ض
+َ
+ر  
+ِ
+ه
+ِ
+ت
+َ
+أ
+َ
+ر
+ْ
+ما 
+َ
+ْ
+ين
+َ
+ـب
+َ
+و 
+ِ
+قا
+َ
+د
+ َّ
+صلا 
+َ
+ْ
+ين
+َ
+ـب  
+Umar fine faire li choisir soit qui so madame retourne li so Mahr oubien qui so 
+madame retourne avec li.] 
+(BAIHAQI 15978) 
+ 
+Rapporté par Ubayd Ibn Umayr :  
+ 
+ ي
+ِ
+ق
+ِ
+ل
+َ
+ط
+ْ
+نا 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+ه
+َ
+ل 
+َ
+ك
+ِ
+ل
+َ
+ذ 
+ْ
+ت
+َ
+ر
+َ
+ك
+َ
+ذ
+َ
+ف 
+َ
+ر
+َ
+م
+ُ
+ع 
+َ
+لىإ 
+ُ
+ه
+ُ
+ت
+َ
+أ
+َ
+ر
+ْ
+ما 
+ْ
+ت
+َ
+ءا
+َ
+ج
+َ
+ف 
+َ
+ر
+َ
+م
+ُ
+ع 
+ِ
+د
+ْ
+ه
+َ
+ع 
+ِ
+في 
+ٌ
+ل
+ُ
+ج
+َ
+ر 
+َ
+د
+ِ
+ق
+ُ
+ف
+ 
+ َّ
+ب
+َ
+ر
+َ
+ـت
+َ
+ـف 
+ْ
+ت
+َ
+ل
+َ
+ع
+َ
+ف
+َ
+ـف 
+َ
+ين
+ِ
+ن
+ِ
+س 
+َ
+ع
+َ
+ب
+ْ
+ر
+َ
+أ ي
+ِ
+ص 
+[ Ene dimoune ti disparaître dans l’époque de Umar. So madame fine vine cote 
+Umar et li fine dire li qui so missier fine disparaître.  
+Umar fine dire li : 
+“Alle attendre quatre ans !” 
+Madame là fine alle attendre quatre ans.  
+ 
+ 
+ْ
+ت
+َ
+ل
+َ
+ع
+َ
+ف
+َ
+ـف ا
+ً
+ر
+ْ
+ش
+َ
+ع
+َ
+و 
+ٍ
+ر
+ُ
+ه
+ْ
+ش
+َ
+أ 
+َ
+ة
+َ
+ع
+َ
+ـب
+ْ
+ر
+َ
+أ ي
+ِ
+ّ
+د
+َ
+ت
+ْ
+عا
+َ
+ف ي
+ِ
+ق
+ِ
+ل
+َ
+ط
+ْ
+نا 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+ه
+ْ
+ت
+َ
+ـت
+َ
+أ 
+ َّ
+ُ
+ثم 
+Après sa, madame la fine vine cite Umar.  
+Umar fine dire (li) : 
+“Alle observe ene Iddah de 4 mois 10 jours !” 
+Madame là fine alle observe so Iddah. 
+ 
+ 
+َ
+ل
+َ
+ع
+َ
+ف
+َ
+ـف ا
+َ
+ه
+ْ
+ق
+ِ
+ّ
+ل
+َ
+ط 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+ه
+ ُّ
+ي
+ِ
+ل
+َ
+و 
+َ
+ءا
+َ
+ج
+َ
+ف 
+ِ
+ل
+ُ
+ج
+ َّ
+رلا ا
+َ
+ذ
+َ
+ه 
+ ُّ
+ِ
+لي
+َ
+و 
+َ
+ن
+ْ
+ي
+َ
+أ 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+ه
+ْ
+ت
+َ
+ـت
+َ
+أ 
+ َّ
+ُ
+ثم 
+Ensuite madame la fine vine cote Umar.  
+Umar fine demandé : 
+“Cote le Wali de sa dimoune là ?” 
+Sa dimoune là so Wali fine vini. 
+Umar fine dire li : 
+“Donne sa madame là Twalaaq !” 
+Wali là fine donne sa madame là Twalaaq. 
+ 
+ 
+ْ
+ت
+َ
+ج
+ َّ
+و
+َ
+ز
+َ
+ـت
+َ
+ـف ت
+ْ
+ئ
+ِ
+ش 
+ْ
+ن
+َ
+م ي
+ِ
+ج
+ َّ
+و
+َ
+ز
+َ
+ـت
+َ
+ـف ي
+ِ
+ق
+ِ
+ل
+َ
+ط
+ْ
+نا 
+ُ
+ر
+َ
+م
+ُ
+ع ا
+َ
+َ
+له 
+َ
+لا
+َ
+ق
+َ
+ـف 
+Ensuite Umar fine dire à sa madame là : 
+“Alle marier avec celui qui ou oulé !” 
+
+ 
+34
+Madame-là fine alle marier. 
+ 
+ 
+ِ
+ني
+ْ
+ت
+َ
+و
+ْ
+ه
+َ
+ـت
+ْ
+سا 
+َ
+ين
+ِ
+ن
+ِ
+م
+ْ
+ؤ
+ُ
+م
+ْ
+لا 
+َ
+ير
+ِ
+م
+َ
+أ 
+َ
+ʮ 
+َ
+لا
+َ
+ق ت
+ْ
+ن
+ُ
+ك 
+َ
+ن
+ْ
+ي
+َ
+أ 
+ُ
+ر
+َ
+م
+ُ
+ع 
+ُ
+ه
+َ
+ل 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+ل
+ َّ
+و
+َ
+ْ
+لأا ا
+َ
+ه
+ُ
+ج
+ْ
+و
+َ
+ز 
+َ
+ءا
+َ
+ج 
+ َّ
+ُ
+ثم
+ 
+ِ
+ َّ
+ɍا 
+ِ
+ض
+ْ
+ر
+َ
+أ 
+ِ
+ّ
+ي
+َ
+أ 
+ِ
+في ي
+ِ
+ر
+ْ
+د
+َ
+أ ا
+َ
+م 
+ِ
+ َّ
+ɍ
+َ
+ا
+َ
+و
+َ
+ـف 
+ُ
+ين
+ِ
+طا
+َ
+ي
+ َّ
+شلا
+ ت
+ْ
+ن
+ُ
+ك 
+Ensuite so premier époux fine vini. 
+Umar fine demande li : 
+“Cote to ti été ?” 
+Sa dimoune là fine dire : 
+“Ô chef de bans Mu’min, bans Shaytwaan ti capture moi. Serment lor Allaah, mo 
+pas conné lor quelle la terre Allaah mo ti été !”] 
+(AL-MUGHNI 8/132) 
+ 
+Ibn Taymiyyah dire : 
+ 
+ 
+ْ
+ن
+ِ
+ْ
+لإا 
+ْ
+ن
+ِ
+م ا
+ً
+ير
+ِ
+ث
+َ
+ك 
+ُ
+ف
+َ
+ط
+ْ
+َ
+تخ 
+ ُّ
+ن
+ِ
+ْ
+لجا
+َ
+و 
+ِ
+ءا
+َ
+و
+َ
+ْ
+لها 
+ِ
+في 
+ْ
+م
+ِ
+ِ
+đ 
+ُ
+ير
+ِ
+ط
+َ
+ت
+َ
+و 
+ِ
+سا َّنلا 
+ِ
+را
+َ
+ص
+ْ
+ب
+َ
+أ 
+ْ
+ن
+َ
+ع 
+ُ
+ه
+ُ
+ب
+ِ
+ّ
+ي
+َ
+غ
+ُ
+ـت
+َ
+و 
+ِ
+س 
+[ Bans Jinn kidnappe beaucoup parmi bans humains, banla faire li disparaître 
+depuis regards de bans dimounes, et banla envolé avec bans humains dans l’air.] 
+(M. FATAAWAA 11/575) 
+ 
+ 
+Pousse Ene Personne Pour Faire Crime 
+ 
+Le prophète dire : 
+ 
+ 
+ِ
+ه
+ِ
+دــ
+َ
+ي 
+ِ
+فى 
+ُ
+عِزــ
+ْ
+ن
+َ
+ـي 
+َ
+نا
+َ
+ط
+ْ
+يــ
+ َّ
+شلا 
+ َّ
+لــ
+َ
+ع
+َ
+ل ى
+ِ
+ر
+ْ
+دــ
+َ
+ي 
+َ
+لا 
+ُ
+هــ
+ َّ
+ن
+ِ
+إ
+َ
+ف 
+ِ
+ح
+َ
+لاــ
+ِ
+ّ
+سل
+ِ
+ʪ 
+ِ
+هــي
+ِ
+خ
+َ
+أ ىــ
+َ
+ل
+َ
+ع 
+ْ
+م
+ُ
+ك
+ُ
+دــ
+َ
+ح
+َ
+أ 
+ُ
+يرــ
+ِ
+ش
+ُ
+ي 
+َ
+لا
+ 
+ِ
+را َّنلا 
+َ
+ن
+ِ
+م 
+ٍ
+ة
+َ
+ر
+ْ
+ف
+ُ
+ح 
+ِ
+فى 
+ُ
+ع
+َ
+ق
+َ
+ـي
+َ
+ـف 
+[ Qui personne parmi zotte pas montré so frère kit zarme. Li pas conné peut-être 
+Shaytwaan arrache (sa zarme la) dans so la main, et alors, li tombe dans ene 
+fossé du feu.] 
+(BUKHARI 7072) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+35
+Pousse Ene Personne Pour Séparer De So Madame 
+ 
+Le prophète dire : 
+ 
+ ى
+َ
+ل
+َ
+ع 
+ُ
+ه
+َ
+ش
+ْ
+ر
+َ
+ع 
+ُ
+ع
+َ
+ض
+َ
+ي 
+َ
+سي
+ِ
+ل
+ْ
+ب
+ِ
+إ 
+ َّ
+ن
+ِ
+إ 
+ْ
+م
+ُ
+ه
+ُ
+م
+َ
+ظ
+ْ
+ع
+َ
+أ 
+ً
+ة
+َ
+ل
+ِ
+ز
+ْ
+ن
+َ
+م 
+ُ
+ه
+ْ
+ن
+ِ
+م 
+ْ
+م
+ُ
+ه
+َ
+ʭ
+ْ
+د
+َ
+أ
+َ
+ف 
+ُ
+ه
+َ
+ʮا
+َ
+ر
+َ
+س 
+ُ
+ث
+َ
+ع
+ْ
+ـب
+َ
+ـي 
+ َّ
+ُ
+ثم 
+ِ
+ءا
+َ
+م
+ْ
+لا
+.... ا
+ً
+ئ
+ْ
+ـي
+َ
+ش 
+َ
+ت
+ْ
+ع
+َ
+ـن
+َ
+ص ا
+َ
+م 
+ُ
+لو
+ُ
+ق
+َ
+ـي
+َ
+ـف ا
+َ
+ذ
+َ
+ك
+َ
+و ا
+َ
+ذ
+َ
+ك 
+ُ
+ت
+ْ
+ل
+َ
+ع
+َ
+ـف 
+ُ
+لو
+ُ
+ق
+َ
+ـي
+َ
+ـف 
+ْ
+م
+ُ
+ه
+ُ
+د
+َ
+ح
+َ
+أ 
+ُ
+ءي
+ِ
+َ
+يج 
+ً
+ة
+َ
+ن
+ْ
+ـت
+ِ
+ف  
+[ Ibliis mettre so trône lor de l’eau, et ensuite li envoye so l’armée (parmi bans 
+dimounes). Celui qui gagne rang plus près (avec Ibliis), c’est celui qui faire plus 
+grand Fitnah.  
+Ene vini et dire :  
+“Mo fine faire tel-tel quitechose.”  
+Ibliis dire :  
+“To pas fine faire narien!”  
+ 
+ 
+َ
+ح 
+ُ
+ه
+ُ
+ت
+ْ
+ك
+َ
+ر
+َ
+ـت ا
+َ
+م 
+ُ
+لو
+ُ
+ق
+َ
+ـي
+َ
+ـف 
+ْ
+م
+ُ
+ه
+ُ
+د
+َ
+ح
+َ
+أ 
+ُ
+ءي
+ِ
+َ
+يج 
+ َّ
+ُ
+ثم 
+ُ
+ه
+ْ
+ن
+ِ
+م 
+ِ
+هي
+ِ
+ن
+ْ
+د
+ُ
+ي
+َ
+ـف ... 
+ِ
+ه
+ِ
+ت
+َ
+أ
+َ
+ر
+ْ
+ما 
+َ
+ْ
+ين
+َ
+ـب
+َ
+و 
+ُ
+ه
+َ
+ن
+ْ
+ـي
+َ
+ـب 
+ُ
+ت
+ْ
+ق
+ َّ
+ر
+َ
+ـف 
+ َّ
+تى
+ 
+َ
+ت
+ْ
+ن
+َ
+أ 
+َ
+م
+ْ
+ع
+ِ
+ن 
+ُ
+لو
+ُ
+ق
+َ
+ـي
+َ
+و  
+Ene l’autre vini et li dire :  
+“Mo pas fine quitte li aussi longtemps qui mo pas fine sépare li de so madame.”  
+Alors Ibliis faire li costé avec li et li dire :  
+“Toi to fine réussi faire ene grand quitechose!”] 
+(MUSLIM 5032) 
+ 
+Rapporté par Maalik Ibnul Huwayrith : 
+ 
+ 
+َ
+ك
+ َّ
+م
+َ
+ع 
+ َّ
+ن
+ِ
+إ 
+َ
+لا
+َ
+ق 
+ً
+ʬ
+َ
+لا
+َ
+ث 
+ُ
+ه
+َ
+ت
+َ
+أ
+َ
+ر
+ْ
+ما 
+َ
+ق
+ َّ
+ل
+َ
+ط ي
+ِ
+ّ
+م
+َ
+ع 
+ َّ
+ن
+ِ
+إ 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ٌ
+ل
+ُ
+ج
+َ
+ر 
+ُ
+ه
+َ
+ل
+َ
+أ
+َ
+س 
+َ
+لا
+َ
+ق 
+ٍ
+سا
+ َّ
+ب
+َ
+ع 
+ِ
+ن
+ْ
+با 
+ِ
+ن
+َ
+ع
+ ا
+ً
+ج
+َ
+ر
+ْ
+َ
+مخ 
+ُ
+ه
+َ
+ل 
+ْ
+ل
+َ
+ع
+ْ
+َ
+يج 
+ْ
+م
+َ
+ل
+َ
+ـف 
+َ
+نا
+َ
+ط
+ْ
+ي
+ َّ
+شلا 
+َ
+عا
+َ
+ط
+َ
+أ
+َ
+و 
+ُ
+ه
+َ
+م
+َ
+د
+ْ
+ن
+َ
+أ
+َ
+ف 
+َ
+ َّ
+ɍا ى
+َ
+ص
+َ
+ع 
+[ Ene dimoune ti demande Ibn Abbaas : 
+“Mo chacha fine donne ene madame trois Twalaaq !” 
+Ibn Abbaas fine dire (li) : 
+“To chacha fine désobéir Allaah, et alors, Allaah fine faire li regretter, et li fine 
+obéir Shaytwaan, et alors, Allaah pas fine mettre ene chemin sortie pour li !” 
+ 
+ 
+ ُّ
+ل
+ِ
+ُ
+يح 
+ٍ
+ل
+ُ
+ج
+َ
+ر 
+ِ
+في ى
+َ
+ر
+َ
+ـت 
+َ
+ف
+ْ
+ي
+َ
+ك 
+َ
+لا
+َ
+ق 
+ُ
+ه
+ْ
+ع
+َ
+د
+ْ
+َ
+يخ 
+َ
+ َّ
+ɍا 
+ِ
+ع
+ِ
+دا
+َ
+ُ
+يخ 
+ْ
+ن
+َ
+م 
+َ
+لا
+َ
+ق 
+ُ
+ه
+َ
+ل ا
+َ
+ه  
+Sa dimoune là fine demandé : 
+
+ 
+36
+“Qui ou dire concernant ene dimoune qui faire li vine Halaal pour li ? » 
+Ibn Abbaas fine répondre : 
+“Celui qui faire ene mauvais tour avec Allaah, Allaah pour faire ene mauvais tour 
+avec li ! »] 
+(MUSWANNAF ABDIR-RAZZAAQ 10779) 
+ 
+ 
+Touye Ene Personne 
+ 
+Comité Fatawaa l’Arabie Saoudite dire : 
+ 
+والجني قد يؤذي الإنسي ويصرعه أو يقتله كما أن الإنسي قد يؤذي الإنسي 
+ويضره 
+[ Li possible qui ene Jinn nuire ene Insaan, li rentre dans li, oubien qui li touye li, 
+pareille couma li possible qui ene Insaan nuire ene l’autre Insaan et apporte li du 
+tort.] 
+(FATAAWAL-LAJNAH 1/180) 
+ 
+Sheikh Uthaymiin dire : 
+ 
+لأذية التي قد تصل إلى اʪثير على الإنس Ϧلا شك أن الجن لهم لقتل 
+[ Pas ena doute qui bans Jinn zotte ena l’effet lor bans Insaan par bans nuisances 
+qui capave arrive jusqu’à touye li.] 
+(MAJMOU FATAAWAA 1/287) `;
+    
+      module.exports = jin5;
+    

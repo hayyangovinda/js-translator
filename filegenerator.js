@@ -10,7 +10,6 @@ module.exports = ${name};
 
   fs.writeFile(filename, templateContent, (err) => {
     if (err) throw err;
-    console.log(`${filename} created successfully.`);
   });
 }
 

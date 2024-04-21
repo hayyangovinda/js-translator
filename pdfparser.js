@@ -16,7 +16,6 @@ function getPdfPathArray(fileNames) {
 
 function processPDF(pdfPath) {
   const pdfName = pdfPath.split("/").pop().split(".")[0];
-  console.log(pdfName);
   const pdfData = fs.readFileSync(pdfPath);
 
   // Parse the PDF data
@@ -37,9 +36,6 @@ function processPDF(pdfPath) {
             console.error("Error writing file:", err);
             return;
           }
-          console.log(
-            `Text extracted and written to ${pdfName}.js successfully!`
-          );
         }
       );
     })

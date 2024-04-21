@@ -1,0 +1,1979 @@
+const istisqaakhutbah = `
+
+[1] 
+ 
+ 
+ 
+CERTAINS HADIITH LOR SWALAAT-UL-ISTISQAA’ 
+ 
+Hadiith De Abdullaah Ibn Yaziid 
+ 
+Rapporté par Abu Is-haaq : 
+ 
+ 
+ِ
+ َّ
+ɍا 
+ُ
+د
+ْ
+ب
+َ
+ع 
+َ
+ج
+َ
+ر
+َ
+خ  
+َ
+م
+َ
+ق
+ْ
+ر
+َ
+أ 
+ُ
+ن
+ْ
+ب 
+ُ
+د
+ْ
+ي
+َ
+ز
+َ
+و 
+ٍ
+ب
+ِ
+زا
+َ
+ع 
+ُ
+ن
+ْ
+ب 
+ُ
+ءا
+َ
+ر
+َ
+ـب
+ْ
+لا 
+ُ
+ه
+َ
+ع
+َ
+م 
+َ
+ج
+َ
+ر
+َ
+خ
+َ
+و 
+ ُّ
+ى
+ِ
+را
+َ
+ص
+ْ
+ن
+َ
+لأا 
+َ
+دي
+ِ
+ز
+َ
+ي 
+ُ
+ن
+ْ
+برضى ﷲ عنهم  
+َ
+ما
+َ
+ق
+َ
+ـف ى
+َ
+ق
+ْ
+س
+َ
+ت
+ْ
+سا
+َ
+ف
+ 
+ْ
+ن
+ِ
+ّ
+ذ
+َ
+ؤ
+ُ
+ـي 
+ْ
+َ
+لم
+َ
+و 
+ِ
+ة
+َ
+ءا
+َ
+ر
+ِ
+ق
+ْ
+ل
+ِ
+ʪ 
+ُ
+ر
+َ
+ه
+ْ
+َ
+يج 
+ِ
+ْ
+ين
+َ
+ـت
+َ
+ع
+ْ
+ك
+َ
+ر ى
+ َّ
+ل
+َ
+ص 
+ َّ
+ُ
+ثم 
+َ
+ر
+َ
+ف
+ْ
+غ
+َ
+ـت
+ْ
+سا
+َ
+ف 
+ٍ
+َ
+بر
+ْ
+ـن
+ِ
+م 
+ِ
+ْ
+ير
+َ
+غ ى
+َ
+ل
+َ
+ع 
+ِ
+ه
+ْ
+ي
+َ
+ل
+ْ
+ج
+ِ
+ر ى
+َ
+ل
+َ
+ع 
+ْ
+م
+ِِ
+đ 
+َ
+و  
+ْ
+م
+ِ
+ق
+ُ
+ي 
+ْ
+َ
+لم 
+[ Abdullaah Ibn Yaziid Al-Answaari ti sorti (pour alle lor Muswallaa) pour demande Allaah la pluie. 
+Al-Baraa’ Ibn Aazib et Zayd Ibn Arqam ti sorti ensemble avec li. Abdullaah fine déboute avec banla 
+lor so deux lipieds, pas lor Mimbar, et li fine faire Istighfaar. Ensuite li fine faire deux Rakaat en 
+lisant à haute voix. Li pas fine donne ni Azaan et ni Iqaamah.] 
+(BUKHARI 1022, MAA SWAHHA 1/514) 
+ 
+ 
+Hadiith De Abdullaah Ibn Zayd 
+ 
+Rapporté par Abdullaah Ibn Zayd : 
+ 
+ 
+ َّ
+ِ
+بى َّنلا 
+ َّ
+ن
+َ
+أصلى ﷲ عليه وسلم  
+َ
+و 
+ُ
+ه
+َ
+ءا
+َ
+د
+ِ
+ر 
+َ
+ب
+َ
+ل
+َ
+ـق
+َ
+و 
+َ
+ة
+َ
+ل
+ْ
+ـب
+ِ
+ق
+ْ
+لا 
+َ
+ل
+َ
+ب
+ْ
+ق
+َ
+ـت
+ْ
+سا
+َ
+ف ى
+َ
+ق
+ْ
+س
+َ
+ت
+ْ
+سا
+َ
+ف ى
+ َّ
+ل
+َ
+ص
+ُ
+م
+ْ
+لا 
+َ
+لى
+ِ
+إ 
+َ
+ج
+َ
+ر
+َ
+خ 
+ِ
+ْ
+ين
+َ
+ـت
+َ
+ع
+ْ
+ك
+َ
+ر ى
+ َّ
+ل
+َ
+ص  
+[ Le messager d’Allaah fine sorti pour alle lor Muswallaa et li fine demande Allaah pour faire la 
+pluie tombé; li fine faire face Qiblah, li fine vire so Ridaa et li fine faire deux Rakaat.] 
+(BUKHARI 1012) 
+ 
+Rapporté par Abdullaah Ibn Zayd : 
+ 
+ 
+ ُّ
+ِ
+بى َّنلا 
+َ
+ج
+َ
+ر
+َ
+خصلى ﷲ عليه وسلم  ا
+َ
+م
+ِ
+هي
+ِ
+ف 
+َ
+ر
+َ
+ه
+َ
+ج 
+ِ
+ْ
+ين
+َ
+ـت
+َ
+ع
+ْ
+ك
+َ
+ر ى
+ َّ
+ل
+َ
+ص 
+ َّ
+ُ
+ثم 
+ُ
+ه
+َ
+ءا
+َ
+د
+ِ
+ر 
+َ
+ل
+ َّ
+و
+َ
+ح
+َ
+و و
+ُ
+ع
+ْ
+د
+َ
+ي 
+ِ
+ة
+َ
+ل
+ْ
+ـب
+ِ
+ق
+ْ
+لا 
+َ
+لى
+ِ
+إ 
+َ
+ه
+ َّ
+ج
+َ
+و
+َ
+ـت
+َ
+ـف ى
+ِ
+ق
+ْ
+س
+َ
+ت
+ْ
+س
+َ
+ي
+ 
+ِ
+ة
+َ
+ءا
+َ
+ر
+ِ
+ق
+ْ
+ل
+ِ
+ʪ  
+[ Le messager d’Allaah fine sorti pour demande Allaah pour faire la pluie tombé. Li fine tourne-li 
+vers Qiblah pour faire Du’aa et li fine vire so Ridaa. Ensuite li fine faire deux Rakaat dans lesquels li 
+fine lire à haute voix.] 
+(BUKHARI 1024) 
+ 
+Rapporté par Abdullaah Ibn Zayd : 
+ 
+ 
+ِ
+ َّ
+ɍا 
+َ
+لو
+ُ
+س
+َ
+ر 
+ َّ
+ن
+َ
+أ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص ى
+ َّ
+ل
+َ
+ص
+ُ
+م
+ْ
+لا 
+َ
+لى
+ِ
+إ 
+َ
+ج
+َ
+ر
+َ
+خ  
+َ
+ل
+ َّ
+و
+َ
+ح
+َ
+و 
+َ
+ة
+َ
+ل
+ْ
+ـب
+ِ
+ق
+ْ
+لا 
+َ
+ل
+َ
+ب
+ْ
+ق
+َ
+ـت
+ْ
+سا 
+َ
+و
+ُ
+ع
+ْ
+د
+َ
+ي 
+ْ
+ن
+َ
+أ 
+َ
+دا
+َ
+ر
+َ
+أ ا
+ َّ
+م
+َ
+ل 
+ُ
+ه
+ َّ
+ن
+َ
+أ
+َ
+و ي
+ِ
+ق
+ْ
+س
+َ
+ت
+ْ
+س
+َ
+ي
+ 
+ُ
+ه
+َ
+ءا
+َ
+د
+ِ
+ر  
+[ Le messager d’Allaah fine sorti (pour alle) vers Muswallaa pour demande la pluie. Quand li fine 
+oulé faire Du’aa, li fine faire face Qiblah et li fine vire so Ridaa.] 
+(MUSLIM 1488) 
+ 
+
+[2] 
+ 
+Rapporté par Abdullaah Ibn Zayd : 
+ 
+ 
+ِ
+ َّ
+ɍا 
+ُ
+لو
+ُ
+س
+َ
+ر ى
+َ
+ق
+ْ
+س
+َ
+ت
+ْ
+ساصلى ﷲ عليه وسلم  
+ِ
+ َّ
+ɍا 
+ُ
+لو
+ُ
+س
+َ
+ر 
+َ
+دا
+َ
+ر
+َ
+أ
+َ
+ف 
+ُ
+ءا
+َ
+د
+ْ
+و
+َ
+س 
+ُ
+ه
+َ
+ل 
+ٌ
+ة
+َ
+صي
+ِ
+َ
+خم 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع
+َ
+وصلى ﷲ عليه وسلم  ا
+َ
+ه
+ِ
+ل
+َ
+ف
+ْ
+س
+َ
+ِ
+ϥ 
+َ
+ذ
+ُ
+خ
+ْ
+َ
+ϩ 
+ْ
+ن
+َ
+أ
+ 
+ِ
+ه
+ِ
+ق
+ِ
+تا
+َ
+ع ى
+َ
+ل
+َ
+ع ا
+َ
+ه
+َ
+ـب
+َ
+ل
+َ
+ـق 
+ْ
+ت
+َ
+ل
+ُ
+ق
+َ
+ـث ا
+ َّ
+م
+َ
+ل
+َ
+ـف ا
+َ
+ه
+َ
+لا
+ْ
+ع
+َ
+أ 
+ُ
+ه
+َ
+ل
+َ
+ع
+ْ
+ج
+َ
+ي
+َ
+ـف 
+[ Le messager d’Allaah ti faire Istisqaa’ et qui ti ena ene Khamiiswah noire lor li. Le messager 
+d’Allaah fine oulé prend so embas et mettre li la haut. Quand sa fine être lourd, le prophète fine 
+vire li lor so zépaule.] 
+(ABU DAOUD 1166) 
+ 
+Rapporté par le chacha de Abbaad Ibn Tamiim Al-Maazini (Abdullaah Ibn Zayd) : 
+ 
+ 
+ِ
+ َّ
+ɍا 
+ُ
+لو
+ُ
+س
+َ
+ر 
+َ
+ج
+َ
+ر
+َ
+خ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+َ
+ َّ
+ɍا و
+ُ
+ع
+ْ
+د
+َ
+ي 
+ُ
+ه
+َ
+ر
+ْ
+ه
+َ
+ظ 
+ِ
+سا َّنلا 
+َ
+لى
+ِ
+إ 
+َ
+ل
+ َّ
+و
+َ
+ح
+َ
+ف ي
+ِ
+ق
+ْ
+س
+َ
+ت
+ْ
+س
+َ
+ي ا
+ً
+م
+ْ
+و
+َ
+ـي 
+ َّ
+ل
+َ
+ج
+َ
+و 
+ َّ
+ز
+َ
+ع ...  
+ُ
+ه
+َ
+ءا
+َ
+د
+ِ
+ر 
+َ
+ل
+ َّ
+و
+َ
+ح
+َ
+و
+) 
+َ
+لأا 
+ِ
+ه
+ِ
+ق
+ِ
+تا
+َ
+ع ى
+َ
+ل
+َ
+ع 
+َ
+ر
+َ
+س
+ْ
+ي
+َ
+لأا 
+ُ
+ه
+َ
+فا
+َ
+ط
+ِ
+ع 
+َ
+ل
+َ
+ع
+َ
+ج
+َ
+و 
+ِ
+ر
+َ
+س
+ْ
+ي
+َ
+لأا 
+ِ
+ه
+ِ
+ق
+ِ
+تا
+َ
+ع ى
+َ
+ل
+َ
+ع 
+َ
+ن
+َ
+ْ
+يم
+َ
+لأا 
+ُ
+ه
+َ
+فا
+َ
+ط
+ِ
+ع 
+َ
+ل
+َ
+ع
+َ
+ج
+َ
+ف 
+َ
+ َّ
+ɍا ا
+َ
+ع
+َ
+د 
+ َّ
+ُ
+ثم 
+ِ
+ن
+َ
+ْ
+يم 
+ َّ
+ل
+َ
+ج
+َ
+و 
+ َّ
+ز
+َ
+ع ( 
+ 
+ِ
+ْ
+ين
+َ
+ـت
+َ
+ع
+ْ
+ك
+َ
+ر ى
+ َّ
+ل
+َ
+ص 
+ َّ
+ُ
+ثم...  ا
+َ
+م
+ِ
+هي
+ِ
+ف 
+َ
+أ
+َ
+ر
+َ
+ـق
+َ
+و  
+[ Ene jour le messager d’Allaah ti sorti pour demande Allaah pour faire la pluie tomber. Li fine 
+tourne so le dos vers bans dimounes, li fine faire Du’aa avec Allaah. Li fine vire so Ridaa – li fine 
+mettre so manteau (Ridaa) droite lor so zépaule gauche, li fine mettre so manteau (Ridaa) gauche 
+lor so zépaule droite – et li fine invoque Allaah. Ensuite li fine faire deux Rakaat et li fine lire (à 
+haute voix) dans sa deux Rakaat la] 
+(ABU DAOUD 1162-1163) 
+ 
+ 
+Hadiith De Ibn Abbaas 
+ 
+Rapporté par Ibn Abbaas : 
+ 
+ 
+ِ
+ َّ
+ɍا 
+َ
+لو
+ُ
+س
+َ
+ر 
+ َّ
+ن
+ِ
+إصلى ﷲ عليه وسلم  
+ْ
+م
+ُ
+ك
+َ
+ت
+َ
+ـب
+ْ
+ط
+ُ
+خ 
+ْ
+ب
+ُ
+ط
+ْ
+َ
+يخ 
+ْ
+م
+َ
+ل
+َ
+ـف ى
+ َّ
+ل
+َ
+ص
+ُ
+م
+ْ
+لا ى
+َ
+تَأ 
+ َّ
+تى
+َ
+ح ا
+ً
+ع
+ِ
+ّ
+ر
+َ
+ض
+َ
+ت
+ُ
+م ا
+ً
+ع
+ِ
+ضا
+َ
+و
+َ
+ـت
+ُ
+م 
+ً
+لا
+ِ
+ّ
+ذ
+َ
+ب
+َ
+ـت
+ُ
+م 
+َ
+ج
+َ
+ر
+َ
+خ
+ 
+ُ
+ي 
+َ
+نا
+َ
+ك ا
+َ
+م
+َ
+ك 
+ِ
+ْ
+ين
+َ
+ـت
+َ
+ع
+ْ
+ك
+َ
+ر ى
+ َّ
+ل
+َ
+ص
+َ
+و 
+ِ
+ير
+ِ
+ب
+ْ
+ك
+ َّ
+تلا
+َ
+و 
+ِ
+ع
+ ُّ
+ر
+َ
+ض
+ َّ
+تلا
+َ
+و 
+ِ
+ءا
+َ
+ع
+ ُّ
+دلا 
+ِ
+فى 
+ْ
+ل
+َ
+ز
+َ
+ـي 
+ْ
+َ
+لم 
+ْ
+ن
+ِ
+ك
+َ
+ل
+َ
+و 
+ِ
+ه
+ِ
+ذ
+َ
+ه 
+ِ
+دي
+ِ
+ع
+ْ
+لا 
+ِ
+فى ى
+ِ
+ّ
+ل
+َ
+ص  
+[ Le messager d’Allaah fine sorti avec so vêtement simple, avec humilité et en suppliant Allaah, 
+jusqu’à qui li fine vine lor Muswallaa. Li pas fine faire Khutbah couma zotte faire Khutbah, mais li 
+fine continué faire Du’aa, supplié Allaah et faire Takbiir. Ensuite li fine faire deux Rakaat, pareille 
+couma li faire Swalaat Eid.] 
+(TIRMIZI 561) 
+ 
+ 
+Hadiith De Aaishah 
+ 
+Rapporté par Aaishah : 
+ 
+ 
+ِ
+ َّ
+ɍا 
+ِ
+لو
+ُ
+س
+َ
+ر 
+َ
+لى
+ِ
+إ 
+ُ
+سا َّنلا ى
+َ
+ك
+َ
+شصلى ﷲ عليه وسلم   َّنلا 
+َ
+د
+َ
+ع
+َ
+و
+َ
+و ى
+ َّ
+ل
+َ
+ص
+ُ
+م
+ْ
+لا 
+ِ
+فى 
+ُ
+ه
+َ
+ل 
+َ
+ع
+ِ
+ض
+ُ
+و
+َ
+ـف 
+ٍ
+َ
+بر
+ْ
+ـن
+ِ
+ِ
+بم 
+َ
+ر
+َ
+م
+َ
+أ
+َ
+ف 
+ِ
+ر
+َ
+ط
+َ
+م
+ْ
+لا 
+َ
+طو
+ُ
+ح
+ُ
+ق 
+َ
+سا
+ 
+ِ
+هي
+ِ
+ف 
+َ
+نو
+ُ
+ج
+ُ
+ر
+ْ
+َ
+يخ ا
+ً
+م
+ْ
+و
+َ
+ـي 
+
+[3] 
+ 
+[ Bans dimounes fine plaigné avec le messager d’Allaah qui la pluie pas pe tombé. Alors, le 
+prophète fine ordonne pour mettre ene Mimbar pour li lor Muswallaa et li fine donne bans 
+dimounes ene rendez-vous pour qui bans dimounes sorti pour vine lor Muswallaa sa jour la.  
+ 
+ 
+ِ
+ َّ
+ɍا 
+ُ
+لو
+ُ
+س
+َ
+ر 
+َ
+ج
+َ
+ر
+َ
+خ
+َ
+فصلى ﷲ عليه وسلم  
+ْ
+م
+ َّ
+شلا 
+ُ
+ب
+ِ
+جا
+َ
+ح ا
+َ
+د
+َ
+ب 
+َ
+ين
+ِ
+ح 
+َ
+ر
+ َّ
+ـب
+َ
+ك
+َ
+ف 
+ِ
+َ
+بر
+ْ
+ـن
+ِ
+م
+ْ
+لا ى
+َ
+ل
+َ
+ع 
+َ
+د
+َ
+ع
+َ
+ق
+َ
+ـف 
+ِ
+سصلى ﷲ عليه وسلم  
+َ
+ َّ
+ɍا 
+َ
+د
+ِ
+َ
+حم
+َ
+و 
+ َّ
+ز
+َ
+ع
+ 
+ َّ
+ل
+َ
+ج
+َ
+و  
+Le messager d’Allaah fine sorti l’heure qui le bord du soleil apparaitre. Li fine assize lor Mimbar, li 
+fine faire Takbiir et li fine faire éloge Allaah.  
+ 
+ا
+َ
+ق 
+ َّ
+ُ
+ثم 
+ُ
+ َّ
+ɍا 
+ُ
+م
+ُ
+ك
+َ
+ر
+َ
+م
+َ
+أ 
+ْ
+د
+َ
+ق
+َ
+و 
+ْ
+م
+ُ
+ك
+ْ
+ن
+َ
+ع 
+ِ
+ه
+ِ
+نا
+َ
+م
+َ
+ز 
+ِ
+ن
+ َّ
+ʪ
+ِ
+إ 
+ْ
+ن
+َ
+ع 
+ِ
+ر
+َ
+ط
+َ
+م
+ْ
+لا 
+َ
+را
+َ
+خ
+ْ
+ئ
+ِ
+ت
+ْ
+سا
+َ
+و 
+ْ
+م
+ُ
+ك
+ِ
+ر
+َ
+ʮ
+ِ
+د 
+َ
+ب
+ْ
+د
+َ
+ج 
+ْ
+ُ
+تم
+ْ
+و
+َ
+ك
+َ
+ش 
+ْ
+م
+ُ
+ك
+ َّ
+ن
+ِ
+إ 
+َ
+ل
+  
+ َّ
+ل
+َ
+ج
+َ
+و 
+ َّ
+ز
+َ
+ع  
+ْ
+ن
+َ
+أ
+ 
+ْ
+م
+ُ
+ك
+َ
+ل 
+َ
+بي
+ِ
+ج
+َ
+ت
+ْ
+س
+َ
+ي 
+ْ
+ن
+َ
+أ 
+ْ
+م
+ُ
+ك
+َ
+د
+َ
+ع
+َ
+و
+َ
+و 
+ُ
+هو
+ُ
+ع
+ْ
+د
+َ
+ت 
+Ensuite li fine dire : 
+"Zotte fine plaigne la sécheresse cote zotte et qui la pluie pe tardé pour tomber de so saison 
+habituel. Allaah fine ordonne zotte pour qui zotte invoque Li et Li fine promettre zotte pour 
+répondre zotte." 
+ 
+ 
+ِ
+م
+ْ
+و
+َ
+ـي 
+ِ
+ك
+ِ
+ل
+َ
+م 
+ِ
+مي
+ِ
+ح
+ َّ
+رلا 
+ِ
+ن
+َ
+ْ
+حم
+ َّ
+رلا 
+َ
+ين
+ِ
+م
+َ
+لا
+َ
+ع
+ْ
+لا 
+ِ
+ّ
+ب
+َ
+ر 
+ِ
+ َّ
+ِ
+ɍ 
+ُ
+د
+ْ
+م
+َ
+ْ
+لحا) 
+َ
+لا
+َ
+ق 
+ َّ
+ُ
+ثم 
+ َّ
+م
+ُ
+ه
+ َّ
+للا 
+ُ
+دي
+ِ
+ر
+ُ
+ي ا
+َ
+م 
+ُ
+ل
+َ
+ع
+ْ
+ف
+َ
+ـي 
+ُ
+ َّ
+ɍا 
+ َّ
+لا
+ِ
+إ 
+َ
+ه
+َ
+ل
+ِ
+إ 
+َ
+لا 
+ِ
+ني
+ِ
+ّ
+دلا
+ 
+َ
+ت
+ْ
+ل
+َ
+ز
+ْ
+ـن
+َ
+أ ا
+َ
+م 
+ْ
+ل
+َ
+ع
+ْ
+جا
+َ
+و 
+َ
+ث
+ْ
+ي
+َ
+غ
+ْ
+لا ا
+َ
+ن
+ْ
+ـي
+َ
+ل
+َ
+ع 
+ْ
+ل
+ِ
+ز
+ْ
+ن
+َ
+أ 
+ُ
+ءا
+َ
+ر
+َ
+ق
+ُ
+ف
+ْ
+لا 
+ُ
+ن
+ْ
+َ
+نح
+َ
+و 
+ ُّ
+ِ
+نى
+َ
+غ
+ْ
+لا 
+َ
+ت
+ْ
+ن
+َ
+أ 
+ َّ
+لا
+ِ
+إ 
+َ
+ه
+َ
+ل
+ِ
+إ 
+َ
+لا 
+ُ
+ َّ
+ɍا 
+َ
+ت
+ْ
+ن
+َ
+أ 
+َ
+لى
+ِ
+إ ا
+ً
+غ
+َ
+لا
+َ
+ب
+َ
+و 
+ً
+ة
+ َّ
+و
+ُ
+ـق ا
+َ
+ن
+َ
+ل 
+ (
+ٍ
+ين
+ِ
+ح 
+Ensuite li fine dire :  
+“Tous louanges pour Allaah, Rab de Al-‘Aalamiin.  (Li-même) Ar-Rahmaan et Ar-Rahiim. Maitre du 
+jour de la rétribution. Pas ena aucun Ilaah excepté Allaah. Li faire cequi Li oulé. Ô Allaah, c’est Toi 
+Allaah, pas ena aucun Ilaah excepté Toi. Toi To le Riche, et nous, nous les pauvres. Faire la pluie 
+tombé lor nous. Et cequi To pour faire descendre, faire sa vine pour nous, ene la force et prolonge 
+li lor nous pendant ene longue période.” 
+ 
+ 
+ َّ
+ل
+َ
+ـق
+َ
+و 
+ُ
+ه
+َ
+ر
+ْ
+ه
+َ
+ظ 
+ِ
+سا َّنلا ى
+َ
+ل
+َ
+ع 
+َ
+ل
+ َّ
+و
+َ
+ح 
+ َّ
+ُ
+ثم 
+ِ
+ه
+ْ
+ي
+َ
+ط
+ْ
+ب
+ِ
+إ 
+ُ
+ضا
+َ
+ي
+َ
+ـب ا
+َ
+د
+َ
+ب 
+ َّ
+تى
+َ
+ح 
+ِ
+ع
+ْ
+ف
+ َّ
+رلا 
+ِ
+فى 
+ْ
+ل
+َ
+ز
+َ
+ـي 
+ْ
+م
+َ
+ل
+َ
+ـف 
+ِ
+ه
+ْ
+ي
+َ
+د
+َ
+ي 
+َ
+ع
+َ
+ف
+َ
+ر 
+ َّ
+ُ
+ثم 
+َ
+ل
+ َّ
+و
+َ
+ح 
+ْ
+و
+َ
+أ 
+َ
+ب
+ 
+ِ
+ْ
+ين
+َ
+ـت
+َ
+ع
+ْ
+ك
+َ
+ر ى
+ َّ
+ل
+َ
+ص
+َ
+ف 
+َ
+ل
+َ
+ز
+َ
+ـن
+َ
+و 
+ِ
+سا َّنلا ى
+َ
+ل
+َ
+ع 
+َ
+ل
+َ
+ب
+ْ
+ـق
+َ
+أ 
+ َّ
+ُ
+ثم 
+ِ
+ه
+ْ
+ي
+َ
+د
+َ
+ي 
+ٌ
+ع
+ِ
+فا
+َ
+ر 
+َ
+و
+ُ
+ه
+َ
+و 
+ُ
+ه
+َ
+ءا
+َ
+د
+ِ
+ر  
+Ensuite li fine lève so deux la mains et li fine continué lève so deux la mains jusqu’à qui la 
+blancheur de so embas-le-bras fine paraitre. Ensuite li fine vire so le dos à bans dimounes, li fine 
+vire so Ridaa pendant qui li pe lève so deux la mains. Ensuite li fine tourne vers bans dimounes, li 
+fine descendre et li fine faire deux Rakaat.] 
+(ABU DAOUD 1175) 
+ 
+ 
+ 
+ `;
+    
+      module.exports = istisqaakhutbah;
+    

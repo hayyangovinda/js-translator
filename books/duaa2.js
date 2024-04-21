@@ -1,0 +1,1013 @@
+const duaa2 = `
+
+Page | 1 
+ 
+ 
+ 
+DEUX DU'AA QUI ENGLOBE TOUS CEQUI NOUS EN BESOIN DE SA 
+ 
+Rapporté par Anas : 
+ 
+ 
+ِ
+ّ
+ِ
+بي َّنلا 
+َ
+لى
+ِ
+إ 
+ ٌّ
+ِ
+بيا
+َ
+ر
+ْ
+ع
+َ
+أ 
+َ
+ءا
+َ
+ج 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+ ُّ
+ِ
+بي َّنلا 
+َ
+ذ
+َ
+خ
+َ
+أ
+َ
+ف ا
+ً
+ر
+ْ
+ـي
+َ
+خ 
+ِ
+ني
+ْ
+م
+ِ
+ّ
+ل
+َ
+ع 
+ِ
+ﷲ 
+َ
+لو
+ُ
+س
+َ
+ر 
+َ
+ʮ 
+َ
+لا
+َ
+ق
+َ
+ـف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+ْ
+ل
+ُ
+ق 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ِ
+ه
+ِ
+د
+َ
+ي
+ِ
+ب
+ 
+ُ
+ر
+َ
+ـب
+ْ
+ك
+َ
+أ 
+ُ
+ﷲ
+َ
+و 
+ُ
+ﷲ 
+ َّ
+لا
+ِ
+إ 
+َ
+ه
+َ
+ل
+ِ
+إ 
+َ
+لا
+َ
+و 
+ِ
+ َّ
+ِ
+ɍ 
+ُ
+د
+ْ
+م
+َ
+ْ
+لحا
+َ
+و 
+ِ
+ﷲ 
+َ
+نا
+َ
+ح
+ْ
+ب
+ُ
+س 
+[ Ene bédouin ti vine côte le prophète et li fine dire : 
+“Ô messager d’Allaah, enseigne moi ene bon quitechose ?” 
+Le prophète fine attrape so la main et li fine dire : 
+“Dire : Sub-haanallaah, Alhamdulillaah, Laa Ilaa Illallaah, Allaahu Akbar.” 
+ 
+ 
+َ
+ع
+َ
+ج
+َ
+ر 
+ َّ
+ُ
+ثم 
+َ
+ر
+ َّ
+ك
+َ
+ف
+َ
+ـت
+َ
+ـف ى
+َ
+ض
+َ
+م
+َ
+و 
+ِ
+ه
+ِ
+د
+َ
+ي ى
+َ
+ل
+َ
+ع 
+ ُّ
+ِ
+بيا
+َ
+ر
+ْ
+ع
+َ
+ْ
+لأا 
+َ
+د
+َ
+ق
+َ
+ع
+َ
+ـف 
+Sa bédouin-là fine faire ene nœud avec (bans les doigts de) so la main, li fine allé, li fine réfléchit et 
+ensuite li fine retourné. 
+ 
+ ُّ
+ِ
+بي َّنلا 
+َ
+م
+ َّ
+س
+َ
+ب
+َ
+ـت
+َ
+ـف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+ُ
+س
+ِ
+ئا
+َ
+ب
+ْ
+لا 
+َ
+ر
+ َّ
+ك
+َ
+ف
+َ
+ـت 
+َ
+لا
+َ
+ق 
+(Quand le prophète fine trouve li pe retourné), le prophète fine souriyé et li fine dire : 
+“Le misérable fine réfléchit !” 
+ 
+  
+ِ
+ َّ
+ِ
+ɍ ا
+َ
+ذ
+َ
+ه 
+ُ
+ر
+َ
+ـب
+ْ
+ك
+َ
+أ 
+ُ
+ﷲ
+َ
+و 
+ُ
+ﷲ 
+ َّ
+لا
+ِ
+إ 
+َ
+ه
+َ
+ل
+ِ
+إ 
+َ
+لا
+َ
+و 
+ِ
+ َّ
+ِ
+ɍ 
+ُ
+د
+ْ
+م
+َ
+ْ
+لحا
+َ
+و 
+ِ
+ﷲ 
+َ
+نا
+َ
+ح
+ْ
+ب
+ُ
+س 
+ِ
+ﷲ 
+َ
+لو
+ُ
+س
+َ
+ر 
+َ
+ʮ 
+َ
+لا
+َ
+ق
+َ
+ـف 
+َ
+ءا
+َ
+ج
+َ
+ف 
+ِ
+لي ا
+َ
+م
+َ
+ف  
+Sa bédouin-là fine vini et li fine dire : 
+“Ô messager, Sub-haanallaah, Alhamdulillaah, Laa Ilaa Illallaah, Allaahu Akbar, sa li pour Allaah, bé 
+qui ena pour moi ?” 
+ 
+ 
+ ُّ
+ِ
+بي َّنلا 
+ُ
+ه
+َ
+ل 
+َ
+لا
+َ
+ق
+َ
+ـف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+ُ
+ﷲ 
+َ
+لا
+َ
+ق 
+ِ
+ َّ
+ِ
+ɍ 
+ُ
+د
+ْ
+م
+َ
+ْ
+لحا 
+َ
+ت
+ْ
+ل
+ُ
+ـق ا
+َ
+ذ
+ِ
+إ
+َ
+و 
+َ
+ت
+ْ
+ق
+َ
+د
+َ
+ص 
+ُ
+ﷲ 
+َ
+لا
+َ
+ق 
+ِ
+ﷲ 
+َ
+نا
+َ
+ح
+ْ
+ب
+ُ
+س 
+َ
+ت
+ْ
+ل
+ُ
+ـق ا
+َ
+ذ
+ِ
+إ 
+ ُّ
+ِ
+بيا
+َ
+ر
+ْ
+ع
+َ
+أ 
+َ
+ʮ
+ 
+ َّ
+لا
+ِ
+إ 
+َ
+ه
+َ
+ل
+ِ
+إ 
+َ
+لا 
+َ
+ت
+ْ
+ل
+ُ
+ـق ا
+َ
+ذ
+ِ
+إ
+َ
+و 
+َ
+ت
+ْ
+ق
+َ
+د
+َ
+ص 
+َ
+ت
+ْ
+ق
+َ
+د
+َ
+ص 
+ُ
+ﷲ 
+َ
+لا
+َ
+ق 
+ُ
+ر
+َ
+ـب
+ْ
+ك
+َ
+أ 
+ُ
+ﷲ 
+َ
+ت
+ْ
+ل
+ُ
+ـق ا
+َ
+ذ
+ِ
+إ
+َ
+و 
+َ
+ت
+ْ
+ق
+َ
+د
+َ
+ص 
+ُ
+ﷲ 
+َ
+لا
+َ
+ق 
+ُ
+ﷲ  
+Le prophète fine dire li : 
+“Ô bédouin, quand to dire ‘Sub-haanallaah’, Allaah dire : ‘To fine cause vrai !’, quand to dire 
+‘Alhamdulillaah’, Allaah dire : ‘To fine cause vrai !’, quand to dire ‘Laa Ilaa Illallaah’, Allaah dire : ‘To 
+fine cause vrai !’, quand to dire ‘Allaahu Akbar’, Allaah dire : ‘To fine cause vrai !’ 
+ 
+ 
+ َّ
+م
+ُ
+هللا 
+َ
+ت
+ْ
+ل
+ُ
+ـق ا
+َ
+ذ
+ِ
+إ
+َ
+و 
+ُ
+ت
+ْ
+ل
+َ
+ع
+َ
+ـف 
+ُ
+ﷲ 
+َ
+لا
+َ
+ق 
+ِ
+لي 
+ْ
+ر
+ِ
+ف
+ْ
+عا 
+ َّ
+م
+ُ
+هللا 
+َ
+ت
+ْ
+ل
+ُ
+ـق ا
+َ
+ذ
+ِ
+إ
+َ
+و 
+ َّ
+م
+ُ
+هللا 
+َ
+ت
+ْ
+ل
+ُ
+ـق ا
+َ
+ذ
+ِ
+إ
+َ
+و 
+ُ
+ت
+ْ
+ل
+َ
+ع
+َ
+ـف 
+ُ
+ﷲ 
+َ
+لا
+َ
+ق 
+ِ
+ني
+ْ
+َ
+حم
+ْ
+را
+ 
+ُ
+ت
+ْ
+ل
+َ
+ع
+َ
+ـف 
+ْ
+د
+َ
+ق 
+ُ
+ﷲ 
+َ
+لا
+َ
+ق 
+ِ
+ني
+ْ
+ق
+ُ
+ز
+ْ
+را 
+Ensuite quand to dire : ‘Ô Allaah, pardonne-moi’, Allaah répondre : ‘Mo fine fini pardonne toi.’, 
+quand to dire : ‘Ô Allaah, Gagne pitié lor moi’, Allaah répondre : ‘Mo fine fini gagne pitié lor toi.’, 
+quand to dire : ‘Ô Allaah, donne-moi mo Rizq’, Allaah répondre : ‘Mo fine fini donne toi to Rizq.’ » 
+ 
+
+Page | 2 
+ 
+ 
+ َّ
+لى
+َ
+و 
+ َّ
+ُ
+ثم 
+ِ
+ه
+ِ
+د
+َ
+ي 
+ِ
+في 
+ٍ
+ع
+ْ
+ب
+َ
+س ى
+َ
+ل
+َ
+ع 
+ ُّ
+ِ
+بيا
+َ
+ر
+ْ
+ع
+َ
+ْ
+لأا 
+َ
+د
+َ
+ق
+َ
+ع
+َ
+ـف 
+Sa bédouin la fine compte sept (phrases) avec so la main, ensuite li fine allé.] 
+(SHU’AB-UL-IYMAAN 610, S.S 3336) 
+ 
+Rapporté par Twaariq Ibn Ash-yam : 
+ 
+ 
+ َّ
+ِ
+بي َّنلا 
+َ
+ع
+ِ
+َ
+سم 
+ُ
+ه
+ َّ
+ن
+َ
+أ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+ْ
+ر
+ِ
+ف
+ْ
+غا 
+ َّ
+م
+ُ
+هللا 
+ْ
+ل
+ُ
+ق 
+َ
+لا
+َ
+ق 
+ِ
+ّ
+بي
+َ
+ر 
+ُ
+ل
+َ
+أ
+ْ
+س
+َ
+أ 
+َ
+ين
+ِ
+ح 
+ُ
+لو
+ُ
+ق
+َ
+أ 
+َ
+ف
+ْ
+ي
+َ
+ك 
+ِ
+ﷲ 
+َ
+لو
+ُ
+س
+َ
+ر 
+َ
+ʮ 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ٌ
+ل
+ُ
+ج
+َ
+ر 
+ُ
+ه
+َ
+ʫ
+َ
+أ
+َ
+و
+ 
+َ
+ما
+َ
+ه
+ْ
+ـب
+ِ
+ْ
+لإا 
+ َّ
+لا
+ِ
+إ 
+ُ
+ه
+َ
+ع
+ِ
+با
+َ
+ص
+َ
+أ 
+ُ
+ع
+َ
+م
+ْ
+َ
+يج
+َ
+و 
+ِ
+ني
+ْ
+ق
+ُ
+ز
+ْ
+را
+َ
+و 
+ِ
+ني
+ِ
+فا
+َ
+ع
+َ
+و 
+ِ
+ني
+ْ
+َ
+حم
+ْ
+را
+َ
+و 
+ِ
+لي 
+[ Mo fine entendre ene dimoune fine vine côte le prophète et li fine dire : 
+“Ô messager d’Allaah, couma mo demandé, quand mo demande mo Rab ?”  
+Le prophète fie répondre (li) : 
+“Dire : Ô Allaah, pardonne moi, gagne pitié lor moi, garde moi en bonne santé, et donne moi mo 
+Rizq.» 
+Entre temps le prophète fine rassemblé so bans les doigts excepté so pouce. 
+ 
+Ensuite le prophète fine continué dire : 
+ 
+َ
+ك
+َ
+ت
+َ
+ر
+ِ
+خآ
+َ
+و 
+َ
+كا
+َ
+ي
+ْ
+ـن
+ُ
+د 
+َ
+ك
+َ
+ل 
+ُ
+ع
+َ
+م
+ْ
+َ
+تج 
+ِ
+ء
+َ
+لا
+ُ
+ؤ
+َ
+ه 
+ َّ
+ن
+ِ
+إ
+َ
+ف 
+“Sa bans phrases là rassemblé (cequi to en besoin de sa) pour to Dunyaa et pour to Aakhirah!”] 
+(MUSLIM 2697, S.S 1318) 
+ `;
+    
+      module.exports = duaa2;
+    

@@ -1,0 +1,4580 @@
+const societemadinah = `
+
+1 
+ 
+ 
+ 
+LA SOCIÉTÉ DE MADIINAH DANS L’ÉPOQUE DU PROPHÈTE 
+ 
+Pas ena doute qui le prophète Muhammad  fine être le meilleur de tous humains qui fine vivre lor 
+sa la terre là. Dans présence d’ene personnalité pareille, bans Swahaabah fine gagne la chance pour 
+qui zotte aussi zotte vine parmi les meilleurs, car banla fine gagne pour profiter avec les conseils du 
+prophète et aussi avec so façon qui li pe faire Ibaadat et li ti pe amène so la vie. Basant lor là, nous 
+comprend qui la société de Madiinah dans l’époque du prophète c’est sa même meilleure société qui 
+fine existe dans l’histoire de l’homme, ene société qui nous bizin toujours prend li comme ene 
+référence. Mais nous bizin conné qui sa société-là, malgré qui c’était la meilleure société qui fine 
+gagne pour jouir présence et conseils du prophète, li reste qui banla ti bans humains, avec zotte 
+faiblesse humaine, et alors, malgré zotte haut degré de Imaan, fine ena bans péchés et bans erreurs 
+qui fine glissé de zotte part. Li important nous conne ene ti-peu concernant certains bans péchés qui 
+fine glissé de la part de sa bans meilleurs dimounes la, afin qui nous tire bans leçons depuis sa : 
+Nous pas perdi l’espoir lor pitié Allaah, si nous arrivé tombe dans certains péchés. 
+Nous pas donne Visa l’enfer à n’importe qui sanla qui arrivé faire ene gaffe dans so la vie. 
+ 
+Voici l’exemples de certains péchés qui fine arrivé glissé dans la ville de Madiinah, dans présence du 
+messager d’Allaah :- 
+ 
+Lève La Main Lor Esclave 
+ 
+Rapporté par Abu Mas’oud : 
+ 
+ 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+َ
+ك
+ْ
+ن
+ِ
+م 
+َ
+ك
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ر
+َ
+د
+ْ
+ق
+َ
+أ 
+ُ
+ َّ
+َ
+ɍ 
+ٍ
+دو
+ُ
+ع
+ْ
+س
+َ
+م 
+َ
+ʪ
+َ
+أ 
+ْ
+م
+َ
+ل
+ْ
+عا 
+ً
+ʫ
+ْ
+و
+َ
+ص ى
+ِ
+ف
+ْ
+ل
+َ
+خ 
+ْ
+ن
+ِ
+م 
+ُ
+ت
+ْ
+ع
+ِ
+م
+َ
+س
+َ
+ف 
+ِ
+لى ا
+ً
+م
+َ
+لا
+ُ
+غ 
+ُ
+ب
+ِ
+ر
+ْ
+ض
+َ
+أ 
+ُ
+ت
+ْ
+ن
+ُ
+ك
+ 
+ 
+ِ
+ َّ
+ɍا 
+ُ
+لو
+ُ
+س
+َ
+ر 
+َ
+و
+ُ
+ه ا
+َ
+ذ
+ِ
+إ
+َ
+ف 
+ ُّ
+ت
+َ
+ف
+َ
+ـت
+ْ
+لا
+َ
+فصلى ﷲ عليه وسلم 
+[ Mo ti pe batte ene mo esclave et mo fine entendre ene la voix par derrière moi : 
+“Connez, ô Abu Mas’oud, Allaah plus ena pouvoir lor toi qui toi to pouvoir lor li!” 
+Quand mo fine viré, (mo fine trouve qui) c’était le messager d’Allaah.  
+ 
+ 
+ُ
+را َّنلا 
+َ
+ك
+ْ
+ت
+َ
+ح
+َ
+ف
+َ
+ل
+َ
+ل 
+ْ
+ل
+َ
+ع
+ْ
+ف
+َ
+ـت 
+ْ
+َ
+لم 
+ْ
+و
+َ
+ل ا
+َ
+م
+َ
+أ 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ِ
+ َّ
+ɍا 
+ِ
+ه
+ْ
+ج
+َ
+و
+ِ
+ل 
+ ٌّ
+ر
+ُ
+ح 
+َ
+و
+ُ
+ه 
+ِ
+ َّ
+ɍا 
+َ
+لو
+ُ
+س
+َ
+ر 
+َ
+ʮ 
+ُ
+ت
+ْ
+ل
+ُ
+ق
+َ
+ـف 
+ُ
+را َّنلا 
+َ
+ك
+ْ
+ت
+ َّ
+س
+َ
+م
+َ
+ل 
+ْ
+وَأ 
+Mo fine dire : 
+“Ô messager d’Allaah, mo pe libère li pour le plaisir d’Allaah!” 
+Le prophète fine dire : 
+“Si to pas ti faire sa, du feu l’enfer ti pour brule toi!”] 
+(MUSLIM 4398) 
+ 
+Rapporté par Mu'aawiyah Ibnul-Hakam : 
+ 
+ 
+ْ
+دــ
+َ
+ق 
+ُ
+بي
+ِ
+ّ
+ذــلا ا
+َ
+ذ
+ِ
+إــ
+َ
+ف 
+ٍ
+م
+ْ
+وــ
+َ
+ـي 
+َ
+تا
+َ
+ذ 
+ُ
+تــ
+ْ
+ع
+َ
+ل
+ َّ
+طا
+َ
+ف 
+ِ
+ةــ
+ َّ
+ي
+ِ
+نا
+ َّ
+و
+َ
+ْ
+لجا
+َ
+و 
+ٍ
+دــ
+ُ
+ح
+ُ
+أ 
+َ
+لــ
+َ
+ب
+ِ
+ق 
+ِ
+لي اــ
+ً
+م
+َ
+ن
+َ
+غ ىــ
+َ
+ع
+ْ
+ر
+َ
+ـت 
+ٌ
+ةــ
+َ
+ي
+ِ
+را
+َ
+ج 
+ِ
+لي 
+ْ
+تــ
+َ
+نا
+َ
+ك
+َ
+و 
+ٍ
+ةاــ
+َ
+ش
+ِ
+ب 
+َ
+بــ
+َ
+ه
+َ
+ذ
+ ا
+َ
+ه
+ِ
+م
+َ
+ن
+َ
+غ 
+ْ
+ن
+ِ
+م 
+
+2 
+ 
+[ Mo ti ena ene tifille esclave qui ti pe faire pâturage de mo bans moutons parti cote Uhud et 
+Jawwaaniyyah. Ene jour quand mo fine vine guetté, mo trouve qui le loup fine prend ene mouton 
+fine allé. 
+ 
+ 
+َ
+نو
+ُ
+فــ
+َ
+س
+ْ
+َ
+ϩ اــ
+َ
+م
+َ
+ك 
+ُ
+فــ
+َ
+سآ 
+َ
+م
+َ
+دآ 
+ِ
+نيــ
+َ
+ب 
+ْ
+نــ
+ِ
+م 
+ٌ
+لــ
+ُ
+ج
+َ
+ر 
+َ
+ʭ
+َ
+أ
+َ
+و
+  
+ِ
+ َّ
+ɍا 
+َ
+لوــ
+ُ
+س
+َ
+ر 
+ُ
+تــ
+ْ
+ي
+َ
+ـت
+َ
+أ
+َ
+ف 
+ً
+ة
+ َّ
+كــ
+َ
+ص ا
+َ
+ه
+ُ
+ـت
+ْ
+ك
+َ
+كــ
+َ
+ص 
+ِ
+ّ
+نيــ
+ِ
+ك
+َ
+ل 
+َ
+م
+ َّ
+لـ
+َ
+س
+َ
+و 
+ِ
+هـ
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+لـ
+َ
+ص  
+َ
+مــ
+ َّ
+ظ
+َ
+ع
+َ
+ـف
+ ا
+َ
+ِ
+đ 
+ُ
+ه
+ُ
+ت
+ْ
+ـي
+َ
+ـت
+َ
+أ
+َ
+ف ا
+َ
+ِ
+đ 
+ِ
+ني
+ِ
+ت
+ْ
+ئا 
+َ
+لا
+َ
+ق ا
+َ
+ه
+ُ
+ق
+ِ
+ت
+ْ
+ع
+ُ
+أ 
+َ
+لا
+َ
+ف
+َ
+أ 
+ِ
+ َّ
+ɍا 
+َ
+لو
+ُ
+س
+َ
+ر 
+َ
+ʮ 
+ُ
+ت
+ْ
+ل
+ُ
+ـق 
+ َّ
+ي
+َ
+ل
+َ
+ع 
+َ
+ك
+ِ
+ل
+َ
+ذ 
+Mo ene zomme parmi bans zenfants Aadam; mo gagne colère couma banla gagne colère. Alors, mo 
+fine batte li ene calotte. Ensuite mo fine vine cote le messager d’Allaah, et li fine faire moi comprend 
+qui c’est ene quitechose grave qui mo fine faire. 
+Mo fine dire : 
+“Ô messager d’Allaah, est-ce qui mo pas libère li?” 
+Li dire moi : 
+“Amène li cote moi.” 
+Mo fine amène li cote li. 
+ 
+ 
+ َّ
+ـن
+ِ
+إ
+َ
+ف ا
+َ
+ه
+ْ
+ق
+ِ
+ت
+ْ
+ع
+َ
+أ 
+َ
+لا
+َ
+ق 
+ِ
+ َّ
+ɍا 
+ُ
+لو
+ُ
+س
+َ
+ر 
+َ
+ت
+ْ
+ن
+َ
+أ 
+ْ
+ت
+َ
+لا
+َ
+ق 
+َ
+ʭ
+َ
+أ 
+ْ
+ن
+َ
+م 
+َ
+لا
+َ
+ق 
+ِ
+ءا
+َ
+م
+ َّ
+سلا 
+ِ
+في 
+ْ
+ت
+َ
+لا
+َ
+ق 
+ُ
+ َّ
+ɍا 
+َ
+ن
+ْ
+ي
+َ
+أ ا
+َ
+َ
+له 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ٌ
+ة
+َ
+ن
+ِ
+م
+ْ
+ؤ
+ُ
+م ا
+َ
+ه 
+Le prophète fine demande li : 
+“Cote Allaah?” 
+Li fine répondre : 
+“(Li) lor le ciel” 
+Li fine demande li : 
+“Qui sanla moi?” 
+Li fine répondre : 
+“Ou, ou le messager d’Allaah.” 
+Le prophète fine dire : 
+“Libère li, car li ene tifille qui ena Imaan."]       
+(MUSLIM 836) 
+ 
+ 
+Fine Ena Zomme Qui Fine Arrivé Consomme Khamr 
+ 
+Rapporté par Abu Hurayrah : 
+ 
+ 
+ ُّ
+ِ
+بي َّنلا 
+َ
+ِ
+تي
+ُ
+أ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+ِ
+ه
+ِ
+ل
+ْ
+ع
+َ
+ـن
+ِ
+ب 
+ُ
+ب
+ِ
+را
+ َّ
+ضلا
+َ
+و 
+ِ
+ه
+ِ
+د
+َ
+ي
+ِ
+ب 
+ُ
+ب
+ِ
+را
+ َّ
+ضلا ا َّن
+ِ
+م
+َ
+ف 
+َ
+ة
+َ
+ر
+ْ
+ـي
+َ
+ر
+ُ
+ه و
+ُ
+ب
+َ
+أ 
+َ
+لا
+َ
+ق 
+ُ
+هو
+ُ
+ب
+ِ
+ر
+ْ
+ضا 
+َ
+لا
+َ
+ق 
+َ
+ب
+ِ
+ر
+َ
+ش 
+ْ
+د
+َ
+ق 
+ٍ
+ل
+ُ
+ج
+َ
+ر
+ِ
+ب
+او
+ُ
+ني
+ِ
+ع
+ُ
+ت 
+َ
+لا ا
+َ
+ذ
+َ
+ك
+َ
+ه او
+ُ
+لو
+ُ
+ق
+َ
+ـت 
+َ
+لا 
+َ
+لا
+َ
+ق 
+ُ
+ َّ
+ɍا 
+َ
+كا
+َ
+ز
+ْ
+خ
+َ
+أ 
+ِ
+م
+ْ
+و
+َ
+ق
+ْ
+لا 
+ُ
+ض
+ْ
+ع
+َ
+ـب 
+َ
+لا
+َ
+ق 
+َ
+ف
+َ
+ر
+َ
+ص
+ْ
+نا ا
+ َّ
+م
+َ
+ل
+َ
+ـف 
+ِ
+ه
+ِ
+ب
+ْ
+و
+َ
+ـث
+ِ
+ب 
+ُ
+ب
+ِ
+را
+ َّ
+ضلا
+َ
+و  
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع
+ 
+ْ
+ي
+ َّ
+شلا 
+َ
+نا
+َ
+ط  
+[ Banla fine amène cote le prophète, ene personne qui fine boire, et le prophète fine dire :  
+« Batte li ! » 
+Parmi nous, ena fine commence battre li avec so la main, ena fine commence battre li avec so 
+soulier, et ena fine commence battre li avec so vêtement. Quand sa personne la fine allé, ene parmi 
+bans dimounes fine dire :  
+« Qui Allaah humilié toi ! » 
+(En entendant sa) le prophète fine dire :  
+« Pas dire comme sa. Pas aide Shaytwaan contre li.] 
+(BUKHARI 6279) 
+
+3 
+ 
+Fine Ena Madame Qui Fine Arrivé Coquin 
+ 
+Rapporté par Aaishah : 
+ 
+ا 
+َ
+لوــ
+ُ
+س
+َ
+ر اــ
+َ
+هي
+ِ
+ف 
+ُ
+مــ
+ِ
+ّ
+ل
+َ
+ك
+ُ
+ي 
+ْ
+نــ
+َ
+م
+َ
+و او
+ُ
+لاــ
+َ
+ق
+َ
+ـف 
+ْ
+ت
+َ
+ق
+َ
+رــ
+َ
+س 
+ِ
+تي
+ َّ
+لا 
+ِ
+ة
+ َّ
+ي
+ِ
+مو
+ُ
+ز
+ْ
+خ
+َ
+م
+ْ
+لا 
+ِ
+ة
+َ
+أ
+ْ
+ر
+َ
+م
+ْ
+لا 
+ُ
+ن
+ْ
+أ
+َ
+ش 
+ْ
+م
+ُ
+ه
+ َّ
+َ
+هم
+َ
+أ ا
+ً
+ش
+ْ
+ي
+َ
+ر
+ُ
+ـق 
+ َّ
+ن
+َ
+أ 
+ِ
+ َّ
+ɍ 
+َ
+م
+ َّ
+لـ
+َ
+س
+َ
+و 
+ِ
+هـ
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+لـ
+َ
+ص  او
+ُ
+لاــ
+َ
+ق
+َ
+ـف
+ 
+ُ
+ن
+ْ
+ب 
+ُ
+ة
+َ
+ما
+َ
+س
+ُ
+أ 
+ َّ
+لا
+ِ
+إ 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ئ
+ِ
+َ
+تر
+ْ
+َ
+يج 
+ْ
+ن
+َ
+م
+َ
+و  
+ِ
+ َّ
+ɍا 
+ِ
+لو
+ُ
+س
+َ
+ر 
+ ُّ
+ب
+ِ
+ح 
+ٍ
+د
+ْ
+ي
+َ
+ز 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+ُ
+ة
+َ
+ما
+َ
+س
+ُ
+أ 
+ُ
+ه
+َ
+م
+ َّ
+ل
+َ
+ك
+َ
+ف 
+[ L’affaire de madame Makhzoumi qui ti coquin fine fatigue bans Quraysh, et zotte fine dire : 
+“Qui sanla pour plaide avec le messager d’Allaah pour li?” 
+Ensuite zotte fine dire : 
+“Personne pas pour gagne courage cause avec li excepté Usaamah Ibn Zayd, le bien-aimé du 
+messager d’Allaah.” 
+Alors, Usaamah fine cause avec li. 
+ 
+ 
+ِ
+ َّ
+ɍا 
+ُ
+لوــ
+ُ
+س
+َ
+ر 
+َ
+لاــ
+َ
+ق
+َ
+ـف 
+َ
+م
+ َّ
+لــ
+َ
+س
+َ
+و 
+ِ
+هــ
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+لــ
+َ
+ص  
+َ
+ني
+ِ
+ذــ
+ َّ
+لا 
+َ
+كــ
+َ
+ل
+ْ
+ه
+َ
+أ اــ
+َ
+ َّ
+نم
+ِ
+إ 
+َ
+لاــ
+َ
+ق 
+ َّ
+ُ
+ثم 
+َ
+بــ
+َ
+ط
+َ
+ت
+ْ
+خا
+َ
+ف 
+َ
+ماــ
+َ
+ق 
+ َّ
+ُ
+ثم 
+ِ
+ َّ
+ɍا 
+ِ
+دو
+ُ
+دــ
+ُ
+ح 
+ْ
+نــ
+ِ
+م 
+ٍ
+ّ
+دــ
+َ
+ح 
+ِ
+في 
+ُ
+ع
+َ
+فــ
+ْ
+ش
+َ
+ت
+َ
+أ
+ا 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع او
+ُ
+ما
+َ
+ق
+َ
+أ 
+ُ
+في
+ِ
+ع
+ َّ
+ضلا 
+ُ
+م
+ِ
+هي
+ِ
+ف 
+َ
+ق
+َ
+ر
+َ
+س ا
+َ
+ذ
+ِ
+إ
+َ
+و 
+ُ
+هو
+ُ
+ك
+َ
+ر
+َ
+ـت 
+ُ
+في
+ِ
+ر
+ َّ
+شلا 
+ُ
+م
+ِ
+هي
+ِ
+ف 
+َ
+ق
+َ
+ر
+َ
+س ا
+َ
+ذ
+ِ
+إ او
+ُ
+نا
+َ
+ك 
+ْ
+م
+ُ
+ه
+ َّ
+ـن
+َ
+أ 
+ْ
+م
+ُ
+ك
+َ
+ل
+ْ
+ـب
+َ
+ـق 
+ِ
+ َّ
+ɍا 
+ُ
+ْ
+يما
+َ
+و 
+ َّ
+د
+َ
+ْ
+لح 
+ْ
+و
+َ
+ل
+ا
+َ
+ه
+َ
+د
+َ
+ي 
+ُ
+ت
+ْ
+ع
+َ
+ط
+َ
+ق
+َ
+ل 
+ْ
+ت
+َ
+ق
+َ
+ر
+َ
+س 
+ٍ
+د
+ َّ
+م
+َ
+ُ
+مح 
+َ
+ت
+ْ
+ن
+ِ
+ب 
+َ
+ة
+َ
+م
+ِ
+طا
+َ
+ف 
+ َّ
+ن
+َ
+أ  
+Le messager d’Alllah fine dire li : 
+“Est-ce qui to pe plaide dans ene parmi bans punitions d’Allaah?” 
+Ensuite le prophète fine débouté, li fine faire Khutbah, et li fine dire : 
+“Simplement bans qui ti avant zotte fine détruire, parcequi si ene personne qui ti ena l’honneur ti pe 
+coquin, zotte ti pe quitte li, et si ene personne qui pas ena l’honneur ti pe coquin, zotte ti pe exécute 
+punition Allaah lor li... Mo faire serment lor Allaah, si Faatwimah – tifille de Muhammad – ti coquin, 
+mo ti pour coupe so la main!”] 
+(BUKHARI 3216) 
+ 
+ 
+Fine Ena Madame Qui Fine Arrivé La Guerre Avec Ene L’autre Madame 
+ 
+Rapporté par Abu Hurayrah : 
+ 
+ 
+ُ
+م
+َ
+ص
+َ
+ت
+ْ
+خا
+َ
+ف ا
+َ
+ه
+ِ
+ن
+ْ
+ط
+َ
+ب 
+ِ
+في ا
+َ
+م
+َ
+و ا
+َ
+ه
+ْ
+ـت
+َ
+ل
+َ
+ـت
+َ
+ق
+َ
+ـف 
+ٍ
+ر
+َ
+ج
+َ
+ِ
+بح ى
+َ
+ر
+ْ
+خ
+ُ
+ْ
+لأا ا
+َ
+ُ
+هما
+َ
+د
+ْ
+ح
+ِ
+إ 
+ْ
+ت
+َ
+م
+َ
+ر
+َ
+ـف 
+ٍ
+ل
+ْ
+ي
+َ
+ذ
+ُ
+ه 
+ْ
+ن
+ِ
+م 
+ِ
+ن
+َ
+ʫ
+َ
+أ
+َ
+ر
+ْ
+ما 
+ِ
+ت
+َ
+ل
+َ
+ـت
+َ
+ـت
+ْ
+ـقا
+ 
+َ
+لى
+ِ
+إ او
+ 
+ِ
+ﷲ 
+ِ
+لو
+ُ
+س
+َ
+ر 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+[ Deux madames du tribu Huzayl ti la guerre entre zotte. Ene la fine envoye ene roche lor l’autre la 
+et li fine touye li et aussi zenfant qui ti ena dans so ventre. Banla fine vine discute sa cas la côte le 
+messager d’Allaah.  
+ 
+ 
+ِ
+ﷲ 
+ُ
+لو
+ُ
+س
+َ
+ر ى
+َ
+ض
+َ
+ق
+َ
+ـفى
+ َّ
+ل
+َ
+ص  
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ  ا
+َ
+ه
+َ
+ـث
+ َّ
+ر
+َ
+و
+َ
+و ا
+َ
+ه
+ِ
+ت
+َ
+ل
+ِ
+قا
+َ
+ع ى
+َ
+ل
+َ
+ع 
+ِ
+ة
+َ
+أ
+ْ
+ر
+َ
+م
+ْ
+لا 
+ِ
+ة
+َ
+ي
+ِ
+د
+ِ
+ب ى
+َ
+ض
+َ
+ق
+َ
+و 
+ٌ
+ة
+َ
+دي
+ِ
+ل
+َ
+و 
+ْ
+و
+َ
+أ 
+ٌ
+د
+ْ
+ب
+َ
+ع 
+ٌ
+ة
+ َّ
+ر
+ُ
+غ ا
+َ
+ه
+ِ
+ني
+ِ
+ن
+َ
+ج 
+َ
+ة
+َ
+ي
+ِ
+د 
+ َّ
+ن
+َ
+أ
+ 
+ْ
+م
+ُ
+ه
+َ
+ع
+َ
+م 
+ْ
+ن
+َ
+م
+َ
+و ا
+َ
+ه
+َ
+د
+َ
+ل
+َ
+و 
+Le messager d’Allaah fine donne jugement qui Diyah (argent versé pour ene crime) de sa fœtus là 
+c’est ene esclave-zomme ou ene esclave-fille et le prophète fine donne jugement qui c’est Aaqilah 
+(bans proches coté papa) de sa madame (criminelle) là qui bizin paye sa Diyah là et li fine donne sa 
+
+4 
+ 
+Diyah la comme héritage a sa madame (assassinée) là so bans zenfants et bans qui ti ensemble avec 
+banla.  
+ 
+ 
+َ
+لا
+َ
+و 
+َ
+ق
+َ
+ط
+َ
+ن 
+َ
+لا
+َ
+و 
+َ
+ل
+َ
+ك
+َ
+أ 
+َ
+لا
+َ
+و 
+َ
+ب
+ِ
+ر
+َ
+ش 
+َ
+لا 
+ْ
+ن
+َ
+م 
+ُ
+م
+َ
+ر
+ْ
+غ
+َ
+أ 
+َ
+ف
+ْ
+ي
+َ
+ك 
+ِ
+ﷲ 
+َ
+لو
+ُ
+س
+َ
+ر 
+َ
+ʮ 
+ ُّ
+ِ
+لي
+َ
+ذ
+ُ
+ْ
+لها 
+ِ
+ة
+َ
+غ
+ِ
+با َّنلا 
+ُ
+ن
+ْ
+ب 
+ُ
+ل
+َ
+َ
+حم 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ َّ
+ل
+َ
+ه
+َ
+ـت
+ْ
+سا 
+ 
+ ُّ
+ل
+َ
+ط
+ُ
+ي 
+َ
+ك
+ِ
+ل
+َ
+ذ 
+ُ
+ل
+ْ
+ث
+ِ
+م
+َ
+ف 
+Alors, Haml Ibnun-Naabighah fine dire : 
+“Ô messager d’Allaah, couma mo capave paye ene amende pour celui qui ni li fine boire, ni li fine 
+mangé, ni li fine prononce quitechose et ni li fine criyé ? Ene couma li bizin pas donne li aucun 
+considération!” 
+ 
+ِ
+ﷲ 
+ُ
+لو
+ُ
+س
+َ
+ر 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع  
+َ
+ع
+َ
+ج
+َ
+س ي
+ِ
+ذ
+ َّ
+لا 
+ِ
+ه
+ِ
+ع
+ْ
+ج
+َ
+س 
+ِ
+ل
+ْ
+جَأ 
+ْ
+ن
+ِ
+م 
+ِ
+نا
+ َّ
+ه
+ُ
+ك
+ْ
+لا 
+ِ
+نا
+َ
+و
+ْ
+خ
+ِ
+إ 
+ْ
+ن
+ِ
+م ا
+َ
+ذ
+َ
+ه ا
+َ
+ َّ
+نم
+ِ
+إ  
+Le messager d’Allaah fine dire : 
+“Sa dimoune là li simplement parmi les frères de bans devins !”, a cause so prose rimée qui li fine 
+servi dans so causé.] 
+(MUSLIM 1681, IRWAA 2301) 
+ 
+ 
+Fine Ena Zomme Qui Fine Arrivé Embrasse Madame Etrangère 
+ 
+Rapporté par Abul Yasar : 
+ 
+ 
+َ
+ب
+َ
+ي
+ْ
+ط
+َ
+أ ا
+ً
+ر
+َْ
+تم 
+ِ
+ت
+ْ
+ي
+َ
+ـبلا 
+ِ
+في 
+ َّ
+ن
+ِ
+إ 
+ُ
+ت
+ْ
+ل
+ُ
+ق
+َ
+ـف ا
+ً
+ر
+َْ
+تم 
+ُ
+عا
+َ
+ت
+ْ
+ـب
+َ
+ـت 
+ٌ
+ة
+َ
+أ
+َ
+ر
+ْ
+ما 
+ِ
+ني
+ْ
+ت
+َ
+ـت
+َ
+أ  ا
+َ
+ه
+ْ
+ـي
+َ
+ل
+ِ
+إ 
+ُ
+ت
+ْ
+ي
+َ
+و
+ْ
+ه
+َ
+أ
+َ
+ف 
+ِ
+ت
+ْ
+ي
+َ
+ـبلا 
+ِ
+في ي
+ِ
+ع
+َ
+م 
+ْ
+ت
+َ
+ل
+َ
+خ
+َ
+د
+َ
+ف 
+ُ
+ه
+ْ
+ن
+ِ
+م
+ا
+َ
+ه
+ُ
+ـت
+ْ
+ل
+ َّ
+ـب
+َ
+ق
+َ
+ـت
+َ
+ـف 
+[ Ene madame ti vine cote moi pour acheter tamme. 
+Mo fine dire li : 
+“A l’intérieur de la maison, ena plus bon tamme qui sa !” 
+Alors, li fine rentre dans lacaze ensemble avec moi, mo fine envoye mo la main lor li et mo fine 
+embrasse li. 
+ا
+ً
+د
+َ
+ح
+َ
+أ 
+ْ
+ِ
+بر
+ْ
+ُ
+تخ 
+َ
+لا
+َ
+و 
+ْ
+ب
+ُ
+ت
+َ
+و 
+َ
+ك
+ِ
+س
+ْ
+ف
+َ
+ـن ى
+َ
+ل
+َ
+ع 
+ْ
+ر
+ُ
+ـت
+ْ
+سا 
+َ
+لا
+َ
+ق 
+ُ
+ه
+َ
+ل 
+َ
+ك
+ِ
+ل
+َ
+ذ 
+ُ
+ت
+ْ
+ر
+َ
+ك
+َ
+ذ
+َ
+ف 
+ٍ
+ر
+ْ
+ك
+َ
+ب 
+َ
+ʪ
+َ
+أ 
+ُ
+ت
+ْ
+ي
+َ
+ـت
+َ
+أ
+َ
+ف
+ 
+Ensuite mo fine vine cote Abu Bakr et mo fine raconte li cequi fine arrivé. 
+Abu Bakr fine dire (moi) : 
+“Cachiette to péché, faire Tawbah et pas informe personne de sa !” 
+ 
+ا
+ً
+د
+َ
+ح
+َ
+أ 
+ْ
+ِ
+بر
+ْ
+ُ
+تخ 
+َ
+لا
+َ
+و 
+ْ
+ب
+ُ
+ت
+َ
+و 
+َ
+ك
+ِ
+س
+ْ
+ف
+َ
+ـن ى
+َ
+ل
+َ
+ع 
+ْ
+ر
+ُ
+ـت
+ْ
+سا 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+ه
+َ
+ل 
+َ
+ك
+ِ
+ل
+َ
+ذ 
+ُ
+ت
+ْ
+ر
+َ
+ك
+َ
+ذ
+َ
+ف 
+َ
+ر
+َ
+م
+ُ
+ع 
+ُ
+ت
+ْ
+ي
+َ
+ـت
+َ
+أ
+َ
+ف 
+ْ
+ِ
+بر
+ْ
+ص
+َ
+أ 
+ْ
+م
+َ
+ل
+َ
+ـف 
+Mo pas fine ena patience, et alors, mo fine vine cote Umar. 
+Umar fine dire (moi) : 
+“Cachiette to péché, faire Tawbah et pas informe personne de sa !” 
+ 
+ 
+ِ
+ َّ
+ɍا 
+َ
+لو
+ُ
+س
+َ
+ر 
+ُ
+ت
+ْ
+ي
+َ
+ـت
+َ
+أ
+َ
+ف 
+ْ
+ِ
+بر
+ْ
+ص
+َ
+أ 
+ْ
+م
+َ
+ل
+َ
+ـف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+ِ
+ِ
+بم 
+ِ
+ه
+ِ
+ل
+ْ
+ه
+َ
+أ 
+ِ
+في 
+ِ
+ َّ
+ɍا 
+ِ
+لي
+ِ
+ب
+َ
+س 
+ِ
+في 
+ً
+ʮ
+ِ
+زا
+َ
+غ 
+َ
+ت
+ْ
+ف
+َ
+ل
+َ
+خَأ 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ُ
+ه
+َ
+ل 
+َ
+ك
+ِ
+ل
+َ
+ذ 
+ُ
+ت
+ْ
+ر
+َ
+ك
+َ
+ذ
+َ
+ف
+ 
+ِ
+ل
+ْ
+ث
+.... 
+ِ
+را َّنلا 
+ِ
+ل
+ْ
+ه
+َ
+أ 
+ْ
+ن
+ِ
+م 
+ُ
+ه
+ َّ
+ن
+َ
+أ 
+ َّ
+ن
+َ
+ظ 
+ َّ
+تى
+َ
+ح 
+َ
+ة
+َ
+عا
+ َّ
+سلا 
+َ
+ك
+ْ
+ل
+ِ
+ت 
+ َّ
+لا
+ِ
+إ 
+َ
+م
+َ
+ل
+ْ
+س
+َ
+أ 
+ْ
+ن
+ُ
+ك
+َ
+ي 
+ْ
+َ
+لم 
+ُ
+ه
+ َّ
+ن
+َ
+أ 
+ َّ
+نى
+َ
+َ
+تم 
+ َّ
+تى
+َ
+ح ا
+َ
+ذ
+َ
+ه 
+Mo pas fine ena patience, et alors, mo fine vine cote le prophète. 
+
+5 
+ 
+Le prophète fine dire : 
+“Est-ce qui to fine remplace dans so famille, ene envahissant dans le chemin d’Allaah, semblable à 
+sa ?” 
+Jusqu’à qui mo fine souhaite qui mo pas ti accepté l’Islaam excepté sa l’heure là, et jusqu’à qui mo 
+fine pensé qui mo parmi bans habitants de l’enfer. 
+ 
+ 
+ِ
+ َّ
+ɍا 
+ُ
+لو
+ُ
+س
+َ
+ر 
+َ
+ق
+َ
+ر
+ْ
+ط
+َ
+أ
+َ
+و ى
+ َّ
+ل
+َ
+ص 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا  
+َ
+لى
+ِ
+إ (
+ِ
+ل
+ْ
+ي
+ َّ
+للا 
+َ
+ن
+ِ
+م ا
+ً
+ف
+َ
+ل
+ُ
+ز
+َ
+و 
+ِ
+را
+َ
+ه َّـنلا 
+ِ
+َ
+في
+َ
+ر
+َ
+ط 
+َ
+ة
+َ
+لا
+ َّ
+صلا 
+ِ
+م
+ِ
+ق
+َ
+أ
+َ
+و) 
+ِ
+ه
+ْ
+ي
+َ
+ل
+ِ
+إ 
+ُ
+ َّ
+ɍا ى
+َ
+ح
+ْ
+و
+َ
+أ 
+ َّ
+تى
+َ
+ح 
+ً
+لاي
+ِ
+و
+َ
+ط
+.... (
+َ
+ني
+ِ
+ر
+ِ
+كا
+ َّ
+ذل
+ِ
+ل ى
+َ
+ر
+ْ
+ك
+ِ
+ذ) 
+ِ
+ه
+ِ
+ل
+ْ
+و
+َ
+ـق 
+Le messager d’Allaah fine baisse so la tête longuement jusqu’à qui Allaah fine révèle a li : 
+« Accomplir Swalaat aux deux extrémités du jour et certaines heures de la nuit. Certainement bans 
+bons actions efface bans mauvais actions. Sa c'est ene rappel pour bans qui réfléchit. » 
+ 
+ 
+ِ
+ َّ
+ɍا 
+ُ
+لو
+ُ
+س
+َ
+ر 
+ َّ
+ي
+َ
+ل
+َ
+ع ا
+َ
+هَأ
+َ
+ر
+َ
+ق
+َ
+ـف 
+ُ
+ه
+ُ
+ت
+ْ
+ـي
+َ
+ـت
+َ
+أ
+َ
+ف 
+َ
+ص 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل  
+َ
+لا
+َ
+ق 
+ً
+ة
+ َّ
+ما
+َ
+ع 
+ِ
+سا َّنل
+ِ
+ل 
+ْ
+مَأ 
+ً
+ة
+ َّ
+صا
+َ
+خ ا
+َ
+ذ
+َ
+ِ
+لهَأ 
+ِ
+ َّ
+ɍا 
+َ
+لو
+ُ
+س
+َ
+ر 
+َ
+ʮ 
+ُ
+ه
+ُ
+با
+َ
+ح
+ْ
+صَأ 
+َ
+لا
+َ
+ق
+َ
+ـف
+ 
+ً
+ة
+ َّ
+ما
+َ
+ع 
+ِ
+سا َّنل
+ِ
+ل 
+ْ
+ل
+َ
+ب  
+Mo fine vine cote le prophète et le messager d’Allaah fine lire sa a moi. 
+So compagnons fine demandé : 
+« Ô messager d’Allaah, est-ce qui sa li pour sa dimoune la en particulier oubien pour tous dimounes 
+en générale ? » 
+Le prophète fine dire : 
+« Mais pour tous dimounes en générale. »] 
+(TIRMIZI 3115) 
+ 
+ 
+Fine Ena Zomme Marié Qui Fine Arrivé Faire Zinaa 
+ 
+Rapporté par Jaabir : 
+ 
+ 
+َ
+لو
+ُ
+س
+َ
+ر ى
+َ
+ت
+َ
+أ 
+ْ
+م
+َ
+ل
+ْ
+س
+َ
+أ 
+ْ
+ن
+ِ
+م 
+ً
+لا
+ُ
+ج
+َ
+ر 
+ َّ
+ن
+َ
+أ  
+ِ
+ َّ
+ɍا 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+َ
+ر
+َ
+م
+َ
+أ
+َ
+ف 
+ٍ
+تا
+َ
+دا
+َ
+ه
+َ
+ش 
+َ
+ع
+َ
+ب
+ْ
+ر
+َ
+أ 
+ِ
+ه
+ِ
+س
+ْ
+ف
+َ
+ـن ى
+َ
+ل
+َ
+ع 
+َ
+د
+ِ
+ه
+َ
+ش
+َ
+ف 
+َ
+نى
+َ
+ز 
+ْ
+د
+َ
+ق 
+ُ
+ه
+ َّ
+ن
+َ
+أ 
+ُ
+ه
+َ
+ث
+ َّ
+د
+َ
+ح
+َ
+ف
+ 
+ِ
+ َّ
+ɍا 
+ُ
+لو
+ُ
+س
+َ
+ر 
+ِ
+ه
+ِ
+ب 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ َّ
+ɍا ى
+ َّ
+ل
+َ
+ص  
+َ
+ن
+ِ
+ص
+ْ
+ح
+ُ
+أ 
+ْ
+د
+َ
+ق 
+َ
+نا
+َ
+ك
+َ
+و 
+َ
+م
+ِ
+ج
+ُ
+ر
+َ
+ـف   
+[ Ene personne depuis tribu Aslam fine vine cote le messager d’Allaah et li fine dire li qui li fine 
+commettre Zinaa, et ensuite li fine donne 4 fois témoignages contre li-même. Alors, le messager 
+d’Allaah fine ordonne pour lapide li, parcequi li ti ene personne qui ti déjà marié.] 
+(BUKHARI 6316) 
+ 
+ 
+Fine Ena Madame Mariée Qui Fine Arrivé Faire Zinaa 
+ 
+Rapporté par Imraan Ibn Huswayn : 
+ 
+ 
+ِ
+ َّ
+ɍا 
+ َّ
+ِ
+بى
+َ
+ن 
+ْ
+ت
+َ
+ت
+َ
+أ 
+َ
+ة
+َ
+ن
+ْ
+ـي
+َ
+ه
+ُ
+ج 
+ْ
+ن
+ِ
+م 
+ً
+ة
+َ
+أ
+َ
+ر
+ْ
+ما 
+ َّ
+ن
+َ
+أصلى ﷲ عليه وسلم  
+ُ
+ه
+ْ
+م
+ِ
+ق
+َ
+أ
+َ
+ف ا
+č
+د
+َ
+ح 
+ُ
+ت
+ْ
+ب
+َ
+ص
+َ
+أ 
+ِ
+ َّ
+ɍا 
+ َّ
+ِ
+بى
+َ
+ن 
+َ
+ʮ 
+ْ
+ت
+َ
+لا
+َ
+ق
+َ
+ـف 
+َ
+نى
+ِ
+ّ
+زلا 
+َ
+ن
+ِ
+م ى
+َ
+ل
+ْ
+ـب
+ُ
+ح 
+َ
+ى
+ِ
+ه
+َ
+و
+ 
+ِ
+ َّ
+ɍا 
+ ُّ
+ِ
+بى
+َ
+ن ا
+َ
+ع
+َ
+د
+َ
+ف 
+ َّ
+ى
+َ
+ل
+َ
+عصلى ﷲ عليه وسلم ا
+َ
+ذ
+ِ
+إ
+َ
+ف ا
+َ
+ه
+ْ
+ـي
+َ
+ل
+ِ
+إ 
+ْ
+ن
+ِ
+س
+ْ
+حَأ 
+َ
+لا
+َ
+ق
+َ
+ـف ا
+َ
+ه
+ َّ
+ـي
+ِ
+ل
+َ
+و  ا
+َ
+ِ
+đ 
+ِ
+نى
+ِ
+ت
+ْ
+ئا
+َ
+ف 
+ْ
+ت
+َ
+ع
+َ
+ض
+َ
+و 
+
+6 
+ 
+[ Ene madame depuis tribu Juhaynah ti vine cote le prophète d’Allaah et qui li ti enceinte suite à 
+Zinaa qui li ti arrivé commettre. 
+Li fine dire : 
+“Ô messager d’Allaah, mo fine arrivé commettre ene péché qui bizin applique la sentence d’Allaah 
+lor moi, et alors, applique sa sentence la lor moi!" 
+Le prophète d’Allaah fine appelle so Wali et li fine dire li : 
+“Agir bien envers li. Quand li accouché, to amène li cote moi!” 
+ 
+ 
+ِ
+ َّ
+ɍا 
+ ُّ
+ِ
+بى
+َ
+ن ا
+َ
+ِ
+đ 
+َ
+ر
+َ
+م
+َ
+أ
+َ
+ف 
+َ
+ل
+َ
+ع
+َ
+ف
+َ
+ـفصلى ﷲ عليه وسلم  
+ُ
+ه
+َ
+ل 
+َ
+لا
+َ
+ق
+َ
+ـف ا
+َ
+ه
+ْ
+ـي
+َ
+ل
+َ
+ع ى
+ َّ
+ل
+َ
+ص 
+ َّ
+ُ
+ثم 
+ْ
+ت
+َ
+ِ
+جم
+ُ
+ر
+َ
+ـف ا
+َ
+ِ
+đ 
+َ
+ر
+َ
+مَأ 
+ َّ
+ُ
+ثم ا
+َ
+ه
+ُ
+ـبا
+َ
+ي
+ِ
+ث ا
+َ
+ه
+ْ
+ـي
+َ
+ل
+َ
+ع 
+ْ
+ت
+ َّ
+ك
+ُ
+ش
+َ
+ف
+ 
+ْ
+ت
+َ
+ن
+َ
+ز 
+ْ
+د
+َ
+ق
+َ
+و 
+ِ
+ َّ
+ɍا 
+ َّ
+ِ
+بى
+َ
+ن 
+َ
+ʮ ا
+َ
+ه
+ْ
+ـي
+َ
+ل
+َ
+ع ى
+ِ
+ّ
+ل
+َ
+ص
+ُ
+ت 
+ُ
+ر
+َ
+م
+ُ
+ع 
+So Wali fine faire sa, et alors (quand li fine amene li cote le prophète), le prophète fine ordonne pour 
+faire serre so vêtement lor li et ensuite le prophète fine ordonne pour lapide li, et puis le prophète 
+fine faire so Swalaat Janaazah. 
+Umar fine dire le prophète : 
+“Ô prophète d’Allaah, est-ce qui ou pe faire Swalaat Janaazah lor li et qui pourtant li fine faire 
+Zinaa?” 
+ 
+ 
+َ
+ب
+ْ
+و
+َ
+ـت 
+َ
+ت
+ْ
+د
+َ
+ج
+َ
+و 
+ْ
+ل
+َ
+ه
+َ
+و 
+ْ
+م
+ُ
+ه
+ْ
+ـت
+َ
+ع
+ِ
+س
+َ
+و
+َ
+ل 
+ِ
+ة
+َ
+ني
+ِ
+د
+َ
+م
+ْ
+لا 
+ِ
+ل
+ْ
+ه
+َ
+أ 
+ْ
+ن
+ِ
+م 
+َ
+ين
+ِ
+ع
+ْ
+ب
+َ
+س 
+َْ
+ين
+َ
+ـب 
+ْ
+ت
+َ
+م
+ِ
+س
+ُ
+ق 
+ْ
+و
+َ
+ل 
+ً
+ة
+َ
+ب
+ْ
+و
+َ
+ـت 
+ْ
+ت
+َ
+ب
+َ
+ʫ 
+ْ
+د
+َ
+ق
+َ
+ل 
+َ
+لا
+َ
+ق
+َ
+ـف 
+ْ
+ن
+ِ
+م 
+َ
+ل
+َ
+ض
+ْ
+ف
+َ
+أ 
+ً
+ة
+ 
+ِ
+ َّ
+ِ
+ɍ ا
+َ
+ه
+ِ
+س
+ْ
+ف
+َ
+ـن
+ِ
+ب 
+ْ
+ت
+َ
+دا
+َ
+ج 
+ْ
+ن
+َ
+أ 
+َ
+لىا
+َ
+ع
+َ
+ـت  
+Le prophète fine dire : “Certainement li fine faire ene Tawbah qui si partage sa Tawbah la parmi 70 
+personnes parmi les habitants de Madiinah, sa ti pour suffit pour banla! Est-ce qui to fine trouve ene 
+Tawbah meilleur qui sa qui li fine donne so la vie à cause Allaah?”] 
+(MUSLIM 4529) 
+ 
+ 
+Fine Ena Madame Mariée Qui Fine Arrivé Trompe So Missier 
+ 
+Rapporté par Ibn Abbaas : 
+ 
+ 
+ِ
+ّ
+ِ
+بي َّنلا 
+َ
+د
+ْ
+ن
+ِ
+ع 
+ُ
+ه
+َ
+تَأ
+َ
+ر
+ْ
+ما 
+َ
+ف
+َ
+ذ
+َ
+ق 
+َ
+ة
+ َّ
+ي
+َ
+مُأ 
+َ
+ن
+ْ
+ب 
+َ
+ل
+َ
+لا
+ِ
+ه 
+ َّ
+نَأ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+ ُّ
+ِ
+بي َّنلا 
+َ
+لا
+َ
+ق
+َ
+ـف 
+َ
+ءا
+َ
+م
+ْ
+ح
+َ
+س 
+ِ
+ن
+ْ
+با 
+ِ
+كي
+ِ
+ر
+َ
+ش
+ِ
+ب 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+ْ
+وَأ 
+َ
+ة
+َ
+ن
+ِ
+ّ
+ي
+َ
+ـبلا
+ 
+َ
+ك
+ِ
+ر
+ْ
+ه
+َ
+ظ 
+ِ
+في 
+ ٌّ
+د
+َ
+ح  
+[ Hilaal Ibn Umayyah ti vine acusse so madame cote le prophète comme quoi li fine faire Zinaa avec 
+Shariik Ibn Sahmaa’. 
+Le prophète fine dire (à Hilaal) : 
+« Soit qui to amène to preuve oubien qui nous pour applique peine islamique lor to le dos ! » 
+ 
+ 
+ ُّ
+ِ
+بي َّنلا 
+َ
+ل
+َ
+ع
+َ
+ج
+َ
+ف 
+َ
+ة
+َ
+ن
+ِ
+ّ
+ي
+َ
+ـبلا 
+ُ
+س
+ِ
+م
+َ
+ت
+ْ
+ل
+َ
+ـي 
+ُ
+ق
+ِ
+ل
+َ
+ط
+ْ
+ن
+َ
+ـي 
+ً
+لا
+ُ
+ج
+َ
+ر 
+ِ
+ه
+ِ
+ت
+َ
+أ
+َ
+ر
+ْ
+ما ى
+َ
+ل
+َ
+ع 
+َ
+ʭ
+ُ
+د
+َ
+ح
+َ
+أ ى
+َ
+أ
+َ
+ر ا
+َ
+ذ
+ِ
+إ 
+ِ
+ َّ
+ɍا 
+َ
+لو
+ُ
+س
+َ
+ر 
+َ
+ʮ 
+َ
+لا
+َ
+ق
+َ
+ـف  
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+ُ
+لو
+ُ
+ق
+َ
+ـي
+ 
+َ
+ك
+ِ
+ر
+ْ
+ه
+َ
+ظ 
+ِ
+في 
+ ٌّ
+د
+َ
+ح 
+ َّ
+لا
+ِ
+إ
+َ
+و 
+َ
+ة
+َ
+ن
+ِ
+ّ
+ي
+َ
+ـبلا  
+Hilaal fine dire : 
+« Ô messager d’Allaah, si ene quicaine trouve ene zomme lor so madame, li pour sorti pour alle 
+cherche preuve (témoins) ? » 
+Le prophète fine continué dire : 
+
+7 
+ 
+« Soit qui to amène to preuve oubien qui nous pour applique peine islamique lor to le dos ! » 
+ 
+ 
+َ
+ـن
+َ
+ـف 
+ِ
+ّ
+د
+َ
+لحا 
+َ
+ن
+ِ
+م ي
+ِ
+ر
+ْ
+ه
+َ
+ظ 
+ُ
+ئ
+ِ
+ّ
+ر
+َ
+ـب
+ُ
+ـي ا
+َ
+م 
+ُ
+ َّ
+ɍا 
+ َّ
+ن
+َ
+ل
+ِ
+ز
+ْ
+ن
+ُ
+ـي
+َ
+ل
+َ
+ـف 
+ٌ
+ق
+ِ
+دا
+َ
+ص
+َ
+ل 
+ِ
+ّ
+ني
+ِ
+إ 
+ِ
+ّ
+ق
+َ
+لح
+ِ
+ʪ 
+َ
+ك
+َ
+ث
+َ
+ع
+َ
+ـب ي
+ِ
+ذ
+ َّ
+لا
+َ
+و 
+ٌ
+ل
+َ
+لا
+ِ
+ه 
+َ
+لا
+َ
+ق
+َ
+ـف 
+َ
+ل
+َ
+ز
+ْ
+ـن
+َ
+أ
+َ
+و 
+ُ
+لي
+ِ
+ْ
+بر
+ِ
+ج 
+َ
+ل
+َ
+ز
+ (
+َ
+ين
+ِ
+ق
+ِ
+دا
+ َّ
+صلا 
+َ
+ن
+ِ
+م 
+َ
+نا
+َ
+ك 
+ْ
+ن
+ِ
+إ) 
+َ
+غ
+َ
+ل
+َ
+ـب 
+ َّ
+تى
+َ
+ح 
+َ
+أ
+َ
+ر
+َ
+ق
+َ
+ـف (
+ْ
+م
+ُ
+ه
+َ
+جا
+َ
+و
+ْ
+ز
+َ
+أ 
+َ
+نو
+ُ
+م
+ْ
+ر
+َ
+ـي 
+َ
+ني
+ِ
+ذ
+ َّ
+لا
+َ
+و) 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع  
+Alors Hilaal fine dire : 
+« Serment  lor  Celui  qui  fine  envoye  ou  avec  la  vérité,  certainement  mo  pe  cause  vrai,  et 
+certainement Allaah pour descendre (Wahi) pour innocente mo le dos contre peine islamique ! » 
+Alors, Jibriil fine descendre, et li fine recite au prophète (Bans qui accuse zotte épouses de Zinaa .....). 
+Jibriil fine lire li, jusqu’à qui li fine arrive cote (...si missier la parmi les véridiques.).  
+ 
+ 
+ ُّ
+ِ
+بي َّنلا 
+َ
+ف
+َ
+ر
+َ
+ص
+ْ
+نا
+َ
+ف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+َ
+د
+ِ
+ه
+َ
+ش
+َ
+ف 
+ٌ
+ل
+َ
+لا
+ِ
+ه 
+َ
+ءا
+َ
+ج
+َ
+ف ا
+َ
+ه
+ْ
+ـي
+َ
+ل
+ِ
+إ 
+َ
+ل
+َ
+س
+ْ
+ر
+َ
+أ
+َ
+ف  
+ ُّ
+ِ
+بي َّنلا
+َ
+و 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+ َّ
+ن
+َ
+أ 
+ُ
+م
+َ
+ل
+ْ
+ع
+َ
+ـي 
+َ
+ َّ
+ɍا 
+ َّ
+ن
+ِ
+إ 
+ُ
+لو
+ُ
+ق
+َ
+ـي
+ 
+ٌ
+ب
+ِ
+ئ
+َ
+ʫ ا
+َ
+م
+ُ
+ك
+ْ
+ن
+ِ
+م 
+ْ
+ل
+َ
+ه
+َ
+ـف 
+ٌ
+ب
+ِ
+ذا
+َ
+ك ا
+َ
+م
+ُ
+ك
+َ
+د
+َ
+ح
+َ
+أ  
+Lerla le prophète fine allé, li fine faire appelle sa madame la et Hilaal fine vini et li fine témoigné. 
+Le prophète fine dire (les deux) : 
+« Certainement Allaah conné qui ene entre zotte deux pe cause menti. Est-ce qui quicaine entre 
+zotte deux pour faire Tawbah ? » 
+ 
+ 
+ َّ
+ك
+َ
+ل
+َ
+ـت
+َ
+ـف .... 
+ٌ
+ة
+َ
+ب
+ِ
+جو
+ُ
+م ا
+َ
+ه
+ َّ
+ـن
+ِ
+إ او
+ُ
+لا
+َ
+ق
+َ
+و ا
+َ
+هو
+ُ
+ف
+ َّ
+ـق
+َ
+و 
+ِ
+ة
+َ
+س
+ِ
+ما
+َ
+لخا 
+َ
+د
+ْ
+ن
+ِ
+ع 
+ْ
+ت
+َ
+نا
+َ
+ك ا
+ َّ
+م
+َ
+ل
+َ
+ـف 
+ْ
+ت
+َ
+د
+ِ
+ه
+َ
+ش
+َ
+ف 
+ْ
+ت
+َ
+ما
+َ
+ق 
+ َّ
+ُ
+ثم 
+ْ
+ت
+َ
+ص
+َ
+ك
+َ
+ن
+َ
+و 
+ْ
+ت
+َ
+أ
+ 
+ْ
+ت
+َ
+ض
+َ
+م
+َ
+ف 
+ِ
+م
+ْ
+و
+َ
+ـيلا 
+َ
+ر
+ِ
+ئا
+َ
+س ي
+ِ
+م
+ْ
+و
+َ
+ـق 
+ُ
+ح
+َ
+ض
+ْ
+ف
+َ
+أ 
+َ
+لا 
+ْ
+ت
+َ
+لا
+َ
+ق 
+ َّ
+ُ
+ثم 
+ُ
+ع
+ِ
+ج
+ْ
+ر
+َ
+ـت ا
+َ
+ه
+ َّ
+ـن
+َ
+أ ا َّن
+َ
+ـن
+َ
+ظ 
+ َّ
+تى
+َ
+ح  
+Ensuite  madame  la  fine  déboute  et  li  fine  témoigné.  Quand  li  fine  arrive  lor  le  cinquième 
+témoignage, banla fine arrête li et banla fine dire li : 
+« Sa pour inbarable ! » 
+Madame la fine tarde ene tipeu et li fine recule lor so pas jusqu’à qui nous fine pensé qui li pour 
+rétracté.  
+Ensuite li fine dire : 
+« Mo pas pour diffame mo peuple pendant toute longue la journée ! » et li fine continué. 
+ 
+ 
+ ُّ
+ِ
+بي َّنلا 
+َ
+لا
+َ
+ق
+َ
+ـف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص  
+َ
+و
+ُ
+ه
+َ
+ـف 
+ِ
+ْ
+ين
+َ
+ـقا
+ َّ
+سلا 
+َ
+ َّ
+لج
+َ
+د
+َ
+خ 
+ِ
+ْ
+ين
+َ
+ـت
+َ
+ـي
+ْ
+ل
+َ
+لأا 
+َ
+غ
+ِ
+با
+َ
+س 
+ِ
+ْ
+ين
+َ
+ـن
+ْ
+ـي
+َ
+علا 
+َ
+ل
+َ
+ح
+ْ
+ك
+َ
+أ 
+ِ
+ه
+ِ
+ب 
+ْ
+ت
+َ
+ءا
+َ
+ج 
+ْ
+ن
+ِ
+إ
+َ
+ف ا
+َ
+هو
+ُ
+ر
+ِ
+ص
+ْ
+ب
+َ
+أ
+ 
+ ُّ
+ِ
+بي َّنلا 
+َ
+لا
+َ
+ق
+َ
+ـف 
+َ
+ك
+ِ
+ل
+َ
+ذ
+َ
+ك 
+ِ
+ه
+ِ
+ب 
+ْ
+ت
+َ
+ءا
+َ
+ج
+َ
+ف 
+َ
+ءا
+َ
+م
+ْ
+ح
+َ
+س 
+ِ
+ن
+ْ
+با 
+ِ
+كي
+ِ
+ر
+َ
+ش
+ِ
+ل 
+ َّ
+ل
+َ
+س
+َ
+و 
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ع 
+ُ
+ﷲ ى
+ َّ
+ل
+َ
+ص 
+َ
+م  
+ِ
+لي 
+َ
+نا
+َ
+ك
+َ
+ل 
+ِ
+ َّ
+ɍا 
+ِ
+با
+َ
+ت
+ِ
+ك 
+ْ
+ن
+ِ
+م ى
+َ
+ض
+َ
+م ا
+َ
+م 
+َ
+لا
+ْ
+و
+َ
+ل
+ 
+ٌ
+ن
+ْ
+أ
+َ
+ش ا
+َ
+َ
+له
+َ
+و 
+Le prophète fine dire : 
+« Guette li (bien). Si li vine ena zenfant qui so lizieux noirs, so buttocks large et so la jambre rempli 
+avec la viande, zenfant li pour Shariik Ibn Sahmaa’.» 
+Quand li fine gagne so zenfant, zenfant la ti coumesa même.  
+Le prophète fine dire : 
+« Cequi le livre d’Allaah fine tranché, si pas ti fini ena sa, mo ti pour punit sa madame la ! »] 
+(BUKHARI 4747) 
+ 
+ 
+ `;
+    
+      module.exports = societemadinah;
+    

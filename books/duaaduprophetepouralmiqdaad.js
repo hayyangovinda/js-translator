@@ -1,0 +1,2293 @@
+const duaaduprophetepouralmiqdaad = `
+
+ 
+1 
+ 
+ 
+DU’AA DU PROPHÈTE POUR AL-MIQDAAD IBNUL ASWAD 
+ 
+Rapporté par Al-Miqdaad Ibnul Aswad : 
+ 
+ا
+َ
+ن
+َ
+س
+ُ
+ف
+ْ
+نـ
+َ
+ أ
+ُ
+ض
+ِ
+ر
+ْ
+ع
+َ
+ا نـ
+َ
+ن
+ْ
+ل
+َ
+ع
+َ
+ج
+َ
+ ف
+ِ
+د
+ْ
+ه
+َ
+ْ
+ الج
+َ
+ن
+ِ
+ م
+َ
+
+ُ
+ار
+َ
+ص
+ْ
+ب
+َ
+أ
+َ
+ا و
+َ
+ن
+ُ
+اع
+َ
+ْ
+سم
+َ
+ أ
+ْ
+ت
+َ
+ب
+َ
+ه
+َ
+ ذ
+ْ
+د
+َ
+ق
+َ
+ و
+ِ
+ لي
+ِ
+ان
+َ
+ب
+ِ
+اح
+َ
+ص
+َ
+ و
+َ
+
+َ
+ أ
+ُ
+ت
+ْ
+ل
+َ
+بـ
+ْ
+قـ
+َ
+أ ى 
+َ
+ل
+َ
+ع
+ 
+ِ
+ﷲ 
+ِ
+ول
+ُ
+س
+َ
+ ر
+ِ
+اب
+َ
+ح
+ْ
+ص
+َ
+أى 
+ َّ
+ل
+َ
+ص 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+ و
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ ع
+ُ
+ﷲ ا 
+َ
+ن
+ُ
+ل
+َ
+بـ
+ْ
+ق
+َ
+ يـ
+ْ
+م
+ُ
+ه
+ْ
+نـ
+ِ
+ م
+ٌ
+د
+َ
+ح
+َ
+ أ
+َ
+س
+ْ
+ي
+َ
+ل
+َ
+فـ 
+[ Moi et deux de mo bans compagnons, nous ti arrive (à Masjid du prophète) dans ene l’état qui avec 
+la  faim  et  la  fatigue,  nous  ti  commence  gagne  difficulté  pour  tender  et  pour  trouver.  Nous  fine 
+commence présente-nous à bans compagnons du messager d’Allaah, mais personne parmi banla pas 
+ti pe accepté nous, (car banla-mêmes ti dans difficulté).  
+ 
+ 
+ َّ
+ِ
+ا النَّ بي
+َ
+ن
+ْ
+يـ
+َ
+تـ
+َ
+أ
+َ
+ف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+ و
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ ع
+ُ
+ى ﷲ
+ َّ
+ل
+َ
+ص  
+ ُّ
+ِ
+ النَّ بي
+َ
+ال
+َ
+ق
+َ
+ فـ
+ٍ
+ز
+ُ
+ن
+ْ
+ع
+َ
+ أ
+ُ
+ة
+َ
+ث
+َ
+لا
+َ
+ا ث
+َ
+ذ
+ِ
+إ
+َ
+ ف
+ِ
+ه
+ِ
+ل
+ْ
+ه
+َ
+ أ
+َ
+لى
+ِ
+ا إ
+َ
+ن
+ِ
+ ب
+َ
+ق
+َ
+ل
+َ
+ط
+ْ
+ان
+َ
+ف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+ و
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ ع
+ُ
+ى ﷲ
+ َّ
+ل
+َ
+ص ا 
+َ
+ن
+َ
+نـ
+ْ
+يـ
+َ
+ بـ
+َ
+َ
+بن
+ َّ
+ا الل
+َ
+ذ
+َ
+وا ه
+ُ
+ب
+ِ
+ل
+َ
+ت
+ْ
+اح 
+Alors, nous fine alle côte le prophète, et li fine amène nous cote so famille et qui ti ena trois chèvres 
+cote li.  
+Le prophète ﷺ fine dire (nous) : 
+“Tire du lait avec sa bans chèvres là pour qui nous boire li entre nous !” 
+ 
+ 
+ِ
+ّ
+ِ
+لنَّ بي
+ِ
+ ل
+ُ
+ع
+َ
+ف
+ْ
+ر
+َ
+نـ
+َ
+ و
+ُ
+ه
+َ
+يب
+ِ
+ص
+َ
+نَّ ا ن
+ِ
+ م
+ٍ
+ان
+َ
+س
+ْ
+ن
+ِ
+ إ
+ ُّ
+ل
+ُ
+ ك
+ُ
+ب
+َ
+ر
+ْ
+ش
+َ
+ي
+َ
+ فـ
+ُ
+ب
+ِ
+ل
+َ
+ت
+ْ
+َ
+نَّ ا نح
+ُ
+ك
+َ
+ف 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+ و
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ ع
+ُ
+ى ﷲ
+ َّ
+ل
+َ
+ص  
+ُ
+ه
+َ
+يب
+ِ
+ص
+َ
+ن  
+Nous ti pe tire du lait (avec sa bans chèvres là). Chacun parmi nous ti pe boire so part, et (ensuite) 
+nous ti pe garde le prophète so part.  
+ 
+ 
+َ
+ فـ
+َ
+د
+ِ
+ج
+ْ
+س
+َ
+م
+ْ
+ ال
+ِ
+تي
+ْ
+َ
+U 
+ َّ
+ُ
+ثم ... 
+َ
+ان
+َ
+ظ
+ْ
+ق
+َ
+يـ
+ْ
+ ال
+ُ
+ع
+ِ
+م
+ْ
+س
+ُ
+ي
+َ
+ا و
+ً
+م
+ِ
+ئ
+َ
+ 
+ُ
+ظ
+ِ
+وق
+ُ
+ ي
+َ
+ا لا
+ً
+يم
+ِ
+ل
+ْ
+س
+َ
+ ت
+ُ
+م
+ِ
+ّ
+ل
+َ
+س
+ُ
+ي
+َ
+ فـ
+ِ
+ل
+ْ
+ي
+ َّ
+ الل
+َ
+ن
+ِ
+ م
+ُ
+يء
+ِ
+ج
+َ
+ي
+َ
+فـ 
+ َّ
+ُ
+ي ثم
+ِ
+ّ
+ل
+َ
+ص
+ُ
+ي 
+ 
+ُ
+ب
+َ
+ر
+ْ
+ش
+َ
+ي
+َ
+ فـ
+ُ
+ه
+َ
+اب
+َ
+ر
+َ
+ ش
+ِ
+تي
+ْ
+َ
+U  
+Le prophète ti pe vini pendant la nuit, li ti pe faire ene qualité Salaam par lequel li pas ti pe casse 
+sommeil de celui qui pe dormi, mais li ti pe faire bans éveillés tender. Ensuite li ti pe alle dans place 
+cote li faire Swalaat, li ti pe faire Swalaat, ensuite li ti pe vine cote so du lait et li ti pe boire li. 
+ 
+ 
+ِ
+ص
+ُ
+ي
+َ
+ و
+ُ
+ه
+َ
+ون
+ُ
+ف
+ِ
+ح
+ْ
+ت
+ُ
+يـ
+َ
+ فـ
+َ
+ار
+َ
+ص
+ْ
+ن
+َ
+ْ
+ الأ
+ِ
+تي
+ْ
+َ
+U 
+ٌ
+د
+ َّ
+م
+َ
+ُ
+ مح
+َ
+ال
+َ
+ق
+َ
+ فـ
+ِ
+يبي
+ِ
+ص
+َ
+ ن
+ُ
+ت
+ْ
+ب
+ِ
+ر
+َ
+ ش
+ْ
+د
+َ
+ق
+َ
+ و
+ٍ
+ة
+َ
+ل
+ْ
+يـ
+َ
+ ل
+َ
+ات
+َ
+ ذ
+ُ
+ان
+َ
+ط
+ْ
+ي
+ َّ
+ الش
+ِ
+ني
+َ
+d
+َ
+أ
+َ
+فا 
+َ
+ م
+ْ
+م
+ُ
+ه
+َ
+د
+ْ
+ن
+ِ
+ ع
+ُ
+يب
+ 
+ِ
+ إ
+ٌ
+ة
+َ
+اج
+َ
+ ح
+ِ
+ه
+ِ
+با 
+َ
+ه
+ُ
+تـ
+ْ
+بـ
+ِ
+ر
+َ
+ش
+َ
+ا ف
+َ
+ه
+ُ
+تـ
+ْ
+يـ
+َ
+تـ
+َ
+أ
+َ
+ ف
+ِ
+ة
+َ
+ع
+ْ
+ر
+ُ
+ْ
+ الج
+ِ
+ه
+ِ
+ذ
+َ
+ ه
+َ
+لى  
+Ene nuit, Shaytwaan fine vine cote moi, après qui mo ti fini boire mo part et li fine dire (moi) : 
+« Muhammad  li alle cote bans Answaar, banla donne li cadeau et li mangé-boire cote banla, et 
+alors, li pas en besoin de sa gorgée (du lait) là!” 
+Mo fine vine cote (le prophète so part) et mo fine boire li.  
+ 
+ 
+ٌ
+يل
+ِ
+ب
+َ
+ا س
+َ
+ه
+ْ
+يـ
+َ
+ل
+ِ
+ إ
+َ
+س
+ْ
+ي
+َ
+ ل
+ُ
+ه
+ َّ
+ن
+َ
+ أ
+ُ
+ت
+ْ
+م
+ِ
+ل
+َ
+ع
+َ
+ و
+ِ
+ني
+ْ
+ط
+َ
+ ب
+ِ
+ في
+ْ
+ت
+َ
+ل
+َ
+غ
+َ
+ و
+ْ
+ن
+َ
+ا أ
+ َّ
+م
+َ
+ل
+َ
+فـ 
+Couma sa du lait la fine rentre dans mo ventre, mo fine conné qui li pas pour gagne aucun chemin. 
+ 
+
+ 
+2 
+ 
+َ
+ك
+ْ
+ي
+َ
+ل
+َ
+و ع
+ُ
+ع
+ْ
+د
+َ
+ي
+َ
+ فـ
+ُ
+ه
+ُ
+د
+ِ
+َ
+ يج
+َ
+لا
+َ
+ ف
+ُ
+يء
+ِ
+ج
+َ
+ي
+َ
+ فـ
+ٍ
+د
+ َّ
+م
+َ
+ُ
+ مح
+َ
+اب
+َ
+ر
+َ
+ ش
+َ
+ت
+ْ
+ب
+ِ
+ر
+َ
+ش
+َ
+ أ
+َ
+ت
+ْ
+ع
+َ
+نـ
+َ
+ا ص
+َ
+ م
+َ
+ك
+َ
+ْ
+يح
+َ
+ و
+َ
+ال
+َ
+ق
+َ
+ فـ
+ُ
+ان
+َ
+ط
+ْ
+ي
+ َّ
+ الش
+ِ
+ني
+َ
+م
+ َّ
+د
+َ
+ن 
+ 
+َ
+ك
+ُ
+ت
+َ
+ر
+ِ
+آخ
+َ
+ و
+َ
+اك
+َ
+ي
+ْ
+نـ
+ُ
+ د
+ُ
+ب
+َ
+ه
+ْ
+ذ
+َ
+ت
+َ
+ فـ
+ُ
+ك
+ِ
+ل
+ْ
+ه
+َ
+تـ
+َ
+فـ  
+Shaytwaan fine faire moi regretté et li fine dire : 
+“Malheur à toi ! Qui to fine faire ? To fine boire du lait qui Muhammad  supposé boire ! Li pour 
+vini, li pas pour trouve so du lait, li pour faire Du’aa contre toi, et alors, to pour périr ! To pour perdi 
+to Dunyaa et to Aakhirah!” 
+ 
+ 
+َ
+ذ
+ِ
+ إ
+ٌ
+ة
+َ
+ل
+ْ
+َ
+ شم
+ َّ
+ي
+َ
+ل
+َ
+ع
+َ
+و 
+َ
+اي
+َ
+م
+َ
+د
+َ
+ ق
+َ
+ج
+َ
+ر
+َ
+ي خ
+ِ
+س
+ْ
+أ
+َ
+ى ر
+َ
+ل
+َ
+ا ع
+َ
+ه
+ُ
+تـ
+ْ
+ع
+َ
+ض
+َ
+ا و
+َ
+ذ
+ِ
+إ
+َ
+ي و
+ِ
+س
+ْ
+أ
+َ
+ ر
+َ
+ج
+َ
+ر
+َ
+ خ
+ َّ
+ي
+َ
+م
+َ
+د
+َ
+ى ق
+َ
+ل
+َ
+ا ع
+َ
+ه
+ُ
+تـ
+ْ
+ع
+َ
+ض
+َ
+ا و  
+Ti ena ene cape lor moi qui quand mo ti pe pose li lor mo deux lipieds, mo la tête ti pe découvert, et 
+quand mo ti pe pose li lor mo la tête, mo deux lipieds ti pe découvert.  
+ 
+ 
+ُ
+ت
+ْ
+ع
+َ
+نـ
+َ
+ا ص
+َ
+ا م
+َ
+ع
+َ
+نـ
+ْ
+ص
+َ
+ ي
+ْ
+َ
+لم
+َ
+ا و
+َ
+ام
+َ
+ن
+َ
+ فـ
+َ
+اي
+َ
+ب
+ِ
+اح
+َ
+ا ص
+ َّ
+م
+َ
+أ
+َ
+ و
+ُ
+م
+ْ
+ النـَّ و
+ِ
+ني
+ُ
+يئ
+ِ
+َ
+ يج
+َ
+ لا
+َ
+ل
+َ
+ع
+َ
+ج
+َ
+و 
+Mo pas ti pe gagne sommeil. Quant à mo deux compagnons, les deux ti fini dormi, car les deux pas ti 
+faire cequi mo fine faire. 
+ 
+ 
+ ُّ
+ِ
+ النَّ بي
+َ
+اء
+َ
+ج
+َ
+ف
+ 
+َ
+ص 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+ و
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ ع
+ُ
+ى ﷲ
+ َّ
+ل  
+ْ
+د
+ِ
+َ
+ يج
+ْ
+م
+َ
+ل
+َ
+ فـ
+ُ
+ه
+ْ
+ن
+َ
+ ع
+َ
+ف
+َ
+ش
+َ
+ك
+َ
+ ف
+ُ
+ه
+َ
+اب
+َ
+ر
+َ
+ى ش
+َ
+ت
+َ
+ أ
+ َّ
+ُ
+ى ثم
+ َّ
+ل
+َ
+ص
+َ
+ ف
+َ
+د
+ِ
+ج
+ْ
+س
+َ
+م
+ْ
+ى ال
+َ
+ت
+َ
+ أ
+ َّ
+ُ
+ ثم
+ُ
+م
+ِ
+ّ
+ل
+َ
+س
+ُ
+ ي
+َ
+ان
+َ
+ا ك
+َ
+م
+َ
+ ك
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+ف
+ 
+ِ
+اء
+َ
+م
+ َّ
+ الس
+َ
+لى
+ِ
+ إ
+ُ
+ه
+َ
+س
+ْ
+أ
+َ
+ ر
+َ
+ع
+َ
+ف
+َ
+ر
+َ
+ا فـ
+ً
+ئ
+ْ
+يـ
+َ
+ ش
+ِ
+يه
+ِ
+ف 
+Le prophète fine vini, li fine faire Salaam pareille couma li habitué faire Salaam, ensuite li fine alle 
+place cote li faire Swalaat et li fine faire Swalaat. Ensuite li fine vine cote so du lait, li fine découvert 
+li, li fine trouve qui pas ena narien dans le récipient, et alors, li fine lève so la tête vers le ciel. 
+ 
+ 
+ َّ
+م
+ُ
+ الله
+َ
+ال
+َ
+ق
+َ
+ فـ
+ُ
+ك
+ِ
+ل
+ْ
+ه
+َ
+أ
+َ
+ ف
+ َّ
+ي
+َ
+ل
+َ
+و ع
+ُ
+ع
+ْ
+د
+َ
+ ي
+َ
+ن
+ْ
+ الآ
+ُ
+ت
+ْ
+ل
+ُ
+ق
+َ
+فـ 
+ِ
+اني
+َ
+ق
+ْ
+س
+َ
+ أ
+ْ
+ن
+َ
+ م
+ِ
+ق
+ْ
+س
+َ
+أ
+َ
+ و
+ِ
+ني
+َ
+م
+َ
+ع
+ْ
+ط
+َ
+ أ
+ْ
+ن
+َ
+ م
+ْ
+م
+ِ
+ع
+ْ
+ط
+َ
+أ 
+(Quand mo fine trouve li faire sa), mo fine dire (à mo-même) : 
+“Ala li pour faire Du’aa contre moi et sa pour faire moi périr!” 
+Mais le prophète fine dire :  
+“Ô Allaah, donne à manger, celui qui donne-moi à manger, et donne à boire, celui qui donne-moi à 
+boire!” 
+ 
+ 
+ ُّ
+يـ
+َ
+ أ
+ِ
+ز
+ُ
+ن
+ْ
+ع
+َ
+ْ
+ الأ
+َ
+لى
+ِ
+ إ
+ُ
+ت
+ْ
+ق
+َ
+ل
+َ
+ط
+ْ
+ان
+َ
+ ف
+َ
+ة
+َ
+ر
+ْ
+ف
+ َّ
+ الش
+ُ
+ت
+ْ
+ذ
+َ
+خ
+َ
+أ
+َ
+ و
+ َّ
+ي
+َ
+ل
+َ
+ا ع
+َ
+ه
+ُ
+تـ
+ْ
+د
+َ
+د
+َ
+ش
+َ
+ ف
+ِ
+ة
+َ
+ل
+ْ
+م
+ َّ
+ الش
+َ
+لى
+ِ
+ إ
+ُ
+ت
+ْ
+د
+َ
+م
+َ
+ع
+َ
+فـ 
+ِ
+ول
+ُ
+س
+َ
+ر
+ِ
+ا ل
+َ
+ه
+ُ
+َ
+بح
+ْ
+ذ
+َ
+أ
+َ
+ ف
+ُ
+ن
+َ
+ْ
+سم
+َ
+ا أ
+َ
+ه
+ 
+ِ
+ﷲ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+ و
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ ع
+ُ
+ى ﷲ
+ َّ
+ل
+َ
+ص  
+ َّ
+ن
+ُ
+ه
+ ُّ
+ل
+ُ
+ ك
+ٌ
+ل
+ َّ
+ف
+ُ
+ ح
+ َّ
+ن
+ُ
+ا ه
+َ
+ذ
+ِ
+إ
+َ
+ و
+ٌ
+ة
+َ
+ل
+ِ
+اف
+َ
+ ح
+َ
+ي
+ِ
+ا ه
+َ
+ذ
+ِ
+إ
+َ
+ف  
+Alors, mo fine serre (mo) cape lor moi, mo fine prend couteau, mo fine alle vers bans chèvres là, vers 
+cequi plus gros, afin qui mo égorge li, pour le messager d’Allaah, mais (à ma surprise) mo fine trouve 
+qui  so  mamelle  remplie  avec  du  lait,  et  mo  fine  trouve  qui  tous  bans  chèvres  là  zotte  mamelles 
+remplies avec du lait. 
+ 
+ 
+ٍ
+د
+ َّ
+م
+َ
+ُ
+ مح
+ِ
+ل
+ِ
+ لآ
+ٍ
+ء
+َ
+
+ِ
+ إ
+َ
+لى
+ِ
+ إ
+ُ
+ت
+ْ
+د
+َ
+م
+َ
+ع
+َ
+فـ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+ و
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ ع
+ُ
+ى ﷲ
+ َّ
+ل
+َ
+ص  
+َ
+ون
+ُ
+ع
+َ
+م
+ْ
+ط
+َ
+وا ي
+ُ
+ان
+َ
+ا ك
+َ
+م  
+ُ
+ه
+ْ
+ت
+َ
+ل
+َ
+ ع
+ َّ
+تى
+َ
+ ح
+ِ
+يه
+ِ
+ ف
+ُ
+ت
+ْ
+ب
+َ
+ل
+َ
+ح
+َ
+ف ... 
+ِ
+يه
+ِ
+وا ف
+ُ
+ب
+ِ
+ل
+َ
+ت
+ْ
+َ
+ يح
+ْ
+ن
+َ
+أ
+ 
+ِ
+ﷲ 
+ِ
+ول
+ُ
+س
+َ
+ ر
+َ
+لى
+ِ
+ إ
+ُ
+ت
+ْ
+ئ
+ِ
+ج
+َ
+ ف
+ٌ
+ة
+َ
+و
+ْ
+غ
+َ
+ر
+ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+ و
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ ع
+ُ
+ى ﷲ
+ َّ
+ل
+َ
+ص  
+
+ 
+3 
+Alors, mo fine dirige vers ene (gros) récipient qui ti appartenir à la famille de Muhammad  qui 
+banla pas ti habitué tire du lait pour mettre la-dans. Mo fine tire du lait pour mettre la-dans jusqu’à 
+qui ene la mousse fine vine par là-haut li et mo fine vine cote le messager d’Allaah. 
+ 
+ 
+َ
+ول
+ُ
+س
+َ
+ ر
+َ
+~ 
+ُ
+ت
+ْ
+ل
+ُ
+ق
+َ
+ فـ
+ِ
+ني
+َ
+ل
+َ
+و
+َ
+ 
+ َّ
+ُ
+ ثم
+َ
+ب
+ِ
+ر
+َ
+ش
+َ
+ ف
+ْ
+ب
+َ
+ر
+ْ
+ اش
+ِ
+ﷲ 
+َ
+ول
+ُ
+س
+َ
+ ر
+َ
+~ 
+ُ
+ت
+ْ
+ل
+ُ
+ قـ
+َ
+ة
+َ
+ل
+ْ
+يـ
+ َّ
+ الل
+ُ
+م
+ُ
+ك
+َ
+اب
+َ
+ر
+َ
+ ش
+ْ
+م
+ُ
+ت
+ْ
+بـ
+ِ
+ر
+َ
+ش
+َ
+ أ
+َ
+ال
+َ
+ق
+َ
+فـ 
+ْ
+ب
+َ
+ر
+ْ
+ اش
+ِ
+ﷲ
+ 
+ِ
+ني
+َ
+ل
+َ
+و
+َ
+ 
+ َّ
+ُ
+ ثم
+َ
+ب
+ِ
+ر
+َ
+ش
+َ
+ف  
+(Quand le prophète fine trouve moi), li fine demandé : 
+“Est-ce qui zotte fine boire zotte du lait azordi soir ?” 
+Mo fine dire : 
+“Ô messager d’Allaah, boire !” 
+Li fine boire (ene tipeu), ensuite li fine donne-moi li. 
+Mo fine dire : 
+“Ô messager d’Allaah, boire !” 
+Li fine boire (ene tipeu), ensuite li fine donne-moi (cequi fine resté). 
+ 
+ا 
+ َّ
+م
+َ
+ل
+َ
+فـ 
+ َّ
+ِ
+ النَّ بي
+ َّ
+ن
+َ
+ أ
+ُ
+ت
+ْ
+ف
+َ
+ر
+َ
+ع 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+ و
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ ع
+ُ
+ى ﷲ
+ َّ
+ل
+َ
+ص  
+ِ
+ض
+ْ
+ر
+َ
+ْ
+ الأ
+َ
+لى
+ِ
+ إ
+ُ
+يت
+ِ
+ق
+ْ
+ل
+ُ
+ أ
+ َّ
+تى
+َ
+ ح
+ُ
+ت
+ْ
+ك
+ِ
+ح
+َ
+ ض
+ُ
+ه
+َ
+ت
+َ
+و
+ْ
+ع
+َ
+ د
+ُ
+ت
+ْ
+ب
+َ
+ص
+َ
+أ
+َ
+ و
+َ
+ي
+ِ
+و
+َ
+ ر
+ْ
+د
+َ
+ق  
+Quand mo fine trouve qui le prophète so la soif fine allé et qui so Du’aa fine porte lor moi, mo fine 
+commence riyer jusqu’à qui mo fine tombe par terre. 
+ 
+ 
+ ُّ
+ِ
+ النَّ بي
+َ
+ال
+َ
+ق
+َ
+فـ
+ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+ و
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ ع
+ُ
+ى ﷲ
+ َّ
+ل
+َ
+ص   
+ُ
+ت
+ْ
+ل
+َ
+ع
+َ
+فـ
+َ
+ا و
+َ
+ذ
+َ
+ك
+َ
+ا و
+َ
+ذ
+َ
+ي ك
+ِ
+ر
+ْ
+م
+َ
+ أ
+ْ
+ن
+ِ
+ م
+َ
+ان
+َ
+ ك
+ِ
+ﷲ 
+َ
+ول
+ُ
+س
+َ
+ ر
+َ
+~ 
+ُ
+ت
+ْ
+ل
+ُ
+ق
+َ
+ فـ
+ُ
+اد
+َ
+د
+ْ
+ق
+ِ
+ م
+َ
+~ 
+َ
+ك
+ِ
+آت
+ْ
+و
+َ
+ى س
+َ
+د
+ْ
+ح
+ِ
+إ
+ا 
+َ
+ذ
+َ
+ك  
+Le prophète fine dire : 
+“Ô Miqdaad, sa qualité riyé la li ene acte vilain de to part!” 
+Mo fine dire : 
+“Ô messager, fine arrive moi sa et sa, et mo fine faire telle zaffaire !” 
+ 
+ 
+ ُّ
+ِ
+ النَّ بي
+َ
+ال
+َ
+ق
+َ
+فـ
+ 
+َ
+م
+ َّ
+ل
+َ
+س
+َ
+ و
+ِ
+ه
+ْ
+ي
+َ
+ل
+َ
+ ع
+ُ
+ى ﷲ
+ َّ
+ل
+َ
+ص  
+َ
+ا فـ
+َ
+ن
+ْ
+يـ
+َ
+بـ
+ِ
+اح
+َ
+ ص
+َ
+ظ
+ِ
+وق
+ُ
+ن
+َ
+ فـ
+ِ
+ني
+َ
+ت
+ْ
+نـ
+َ
+ آذ
+َ
+ت
+ْ
+ن
+ُ
+ ك
+َ
+لا
+َ
+ف
+َ
+ أ
+ِ
+ﷲ 
+َ
+ن
+ِ
+ م
+ٌ
+ة
+َ
+ْ
+حم
+َ
+ ر
+ َّ
+لا
+ِ
+ إ
+ِ
+ه
+ِ
+ذ
+َ
+ا ه
+َ
+ما 
+َ
+ه
+ْ
+نـ
+ِ
+ م
+ِ
+ان
+َ
+يب
+ِ
+ص
+ُ
+ي  
+Le prophète fine dire : 
+“Sa c’est simplement ene miséricorde depuis Allaah! To pas ti capave mettre moi au courant, afin qui 
+nous lève to deux compagnons, et les deux aussi ti capave boire la-dans !” 
+ 
+ 
+َ
+ك
+َ
+ث
+َ
+ع
+َ
+ي بـ
+ِ
+ذ
+ َّ
+ال
+َ
+ و
+ُ
+ت
+ْ
+ل
+ُ
+ق
+َ
+فـ 
+ِ
+ النَّ اس
+َ
+ن
+ِ
+ا م
+َ
+ه
+َ
+ابـ
+َ
+ص
+َ
+ أ
+ْ
+ن
+َ
+ م
+َ
+ك
+َ
+ع
+َ
+ا م
+َ
+ه
+ُ
+تـ
+ْ
+بـ
+َ
+ص
+َ
+أ
+َ
+ا و
+َ
+ه
+َ
+تـ
+ْ
+بـ
+َ
+ص
+َ
+ا أ
+َ
+ذ
+ِ
+ إ
+ِ
+لي
+َ
+
+ُ
+ا أ
+َ
+ م
+ِ
+ّ
+ق
+َ
+ْ
+لح
+ِ
+  
+Mo fine dire : 
+“Serment lor Celui qui fine envoye ou avec la vérité, quand ou fine boire et mo fine boire ensemble 
+avec ou, mo pas casse la tête qui sanla parmi bans dimounes qui boire la-dans !”] 
+(MUSLIM 2055) 
+ 
+ 
+ `;
+    
+      module.exports = duaaduprophetepouralmiqdaad;
+    

@@ -27,6 +27,5 @@ fs.readdir(folderPath, (err, files) => {
       console.error("Error writing file:", err);
       return;
     }
-    console.log("File names written to fileNames.js");
   });
 });
